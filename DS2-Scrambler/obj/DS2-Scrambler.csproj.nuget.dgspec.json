@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xylozi\\Documents\\C# Projects\\DS2-Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj": {}
+    "G:\\Programmes\\code\\VS2022\\DS2Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xylozi\\Documents\\C# Projects\\DS2-Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj": {
+    "G:\\Programmes\\code\\VS2022\\DS2Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xylozi\\Documents\\C# Projects\\DS2-Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj",
+        "projectUniqueName": "G:\\Programmes\\code\\VS2022\\DS2Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj",
         "projectName": "DS2-Scrambler",
-        "projectPath": "C:\\Users\\Xylozi\\Documents\\C# Projects\\DS2-Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj",
-        "packagesPath": "C:\\Users\\Xylozi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xylozi\\Documents\\C# Projects\\DS2-Scrambler\\DS2-Scrambler\\obj\\",
+        "projectPath": "G:\\Programmes\\code\\VS2022\\DS2Scrambler\\DS2-Scrambler\\DS2-Scrambler.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "G:\\Programmes\\code\\VS2022\\DS2Scrambler\\DS2-Scrambler\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Xylozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,6 +52,18 @@
             "Microsoft-WindowsAPICodePack-Shell": {
               "target": "Package",
               "version": "[1.1.5, )"
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
+              "autoReferenced": true
             },
             "WindowsAPICodePack": {
               "target": "Package",
@@ -77,16 +91,20 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[7.0.1, 7.0.1]"
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
             },
             {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[7.0.1, 7.0.1]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
             },
             {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[7.0.1, 7.0.1]"
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -97,12 +115,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
