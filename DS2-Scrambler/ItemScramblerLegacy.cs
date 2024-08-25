@@ -8,7 +8,7 @@ using SoulsFormats;
 
 namespace DS2_Scrambler
 {
-    public class ItemScrambler
+    public class ItemScramblerLegacy
     {
         public Random rand;
         public Regulation regulation;
@@ -33,7 +33,7 @@ namespace DS2_Scrambler
 
         // TODO: add cheat-sheet generation so important items can be peeked at - At minimum this should pinpoint keys
 
-        public ItemScrambler(Random random, Regulation reg, ScramblerData scramblerData)
+        public ItemScramblerLegacy(Random random, Regulation reg, ScramblerData scramblerData)
         {
             Data = scramblerData;
             rand = random;

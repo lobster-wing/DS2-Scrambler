@@ -1,0 +1,1423 @@
+// THINGS BETWIXT - TREASURE
+
+10025010 [Things Betwixt - Chest] Human Effigy
+    Wooden chest in firekeepers' hut
+    Bonfire 2650
+    60151000 Human Effigy x1
+10026000 [Things Betwixt] Rusted Coin
+    Corpse near spawn
+    Bonfire 2650
+    60320000 Rusted Coin x1
+10026001 [Things Betwixt] Rusted Coin
+    Corpse near spawn, NG+
+    60320000 Rusted Coin x5
+10026020 [Things Betwixt] Gold Pine Resin
+    Corpse guarded by the first ogre
+    Bonfire 2650
+    60250000 Gold Pine Resin x1
+10026030 [Things Betwixt] Small Smooth & Silky Stone
+    Corpse by the waterfall
+    Bonfire 2650
+    50885000 Small Smooth & Silky Stone x1
+10026031 [Things Betwixt] Small Smooth & Silky Stone
+    Corpse by the waterfall, NG+
+    50885000 Small Smooth & Silky Stone x3
+10026040 [Things Betwixt] Soul of a Nameless Soldier
+    Corpse on a branch down by the bird nest
+    Bonfire 2650
+    60650000 Soul of a Nameless Soldier x1
+10026050 [Things Betwixt] Soul of a Nameless Soldier- Torch
+    Corpse behind the wheelbarrow next to the hut
+    Bonfire 2650
+    60630000 Soul of a Lost Undead x1
+    60420000 Torch x1
+10026060 [Things Betwixt] Cracked Red Eye Orb
+    Corpse in the second hollow tree's closed room
+    Bonfire 2650
+    62060000 Cracked Red Eye Orb x1
+10026070 [Things Betwixt] Dagger
+    Corpse up in the first hollow tree
+    Bonfire 2650
+    1000000 Dagger x1
+10026080 [Things Betwixt] Lifegem
+    Corpse in the first hollow tree, by the bird nest
+    Bonfire 2650
+    60010000 Lifegem x1
+10026090 [Things Betwixt] Amber Herb
+    Corpse past the jump in the second hollow tree
+    Bonfire 2650
+    60040000 Amber Herb x2
+10026100 [Things Betwixt] Estus Flask Shard
+    Corpse inside the third hollow tree
+    REQUIRES Fragrant Branch
+    Bonfire 2650
+    60525000 Estus Flask x1
+    Once
+10027000 [Things Betwixt] Bone of Order
+    At the starting location, a certain time after using bone of order
+    IGNORE THIS LOCATION
+
+// MAJULA - TREASURE
+
+10045000 [Majula - Chest - Maughlin] Titanite Shard
+    Wooden chest at Maughlin's
+    Bonfire 4650
+10045001 [Majula - Chest - Maughlin] Large Titanite Shard
+    Wooden chest at Maughlin's, NG+
+10045002 [Majula - Chest - Maughlin] Moon Butterfly Shield
+    Wooden chest at Maughlin's, NG+2
+10045010 [Majula - Chest - Mansion] Titanite Shard- Torch
+    Wooden chest on 2nd floor of the mansion
+    REQUIRES House Key
+    Bonfire 4650
+10045020 [Majula - Chest - Forgotten Key] Soul Vortex
+    Metal chest in the forgotten chamber in the pit
+    REQUIRES Surviving Fall Damage, Forgotten Key
+    Bonfire 0
+10045030 [Majula - Chest - Forgotten Key] Great Lightning Spear
+    Metal chest in the forgotten chamber in the pit
+    REQUIRES Surviving Fall Damage, Forgotten Key
+    Bonfire 0
+10045040 [Majula - Chest - Lenigrast] Estus Flask Shard
+    Wooden chest at Lenigrast's
+    REQUIRES Lenigrast's Key
+    Bonfire 4650
+10045050 [Majula - Chest - Forgotten Key] Witchtree Branch- Witchtree Bellvine
+    Metal chest in the forgotten chamber in the pit
+    REQUIRES Surviving Fall Damage, Forgotten Key
+    Bonfire 0
+10045060 [Majula - Chest - Route to Forest] Rusted Coin
+    Metal chest in the path to Forest of Giants
+    Bonfire 0
+    Note : NG+ becomes Mimic (2000) - Itemlot 1040500
+10045070 [Majula - Chest - Route to Heide] Crimson Parma
+    Metal chest in the staircase to Heide
+    Bonfire 0
+10045500 [Majula - Chest - Under Mansion] Rubbish
+    Special chest in mansion basement
+    REQUIRES House Key
+    Bonfire 0
+10045600 [Majula - Chest - Under Mansion] Soul Vessel
+    Special chest in mansion basement
+    REQUIRES House Key
+    ?? Could not find in map ??
+10046000 [Majula] Estus Flask Shard
+    Corpse hanged inside the well
+    Bonfire 4650
+10046010 [Majula] Divine Blessing
+    Corpse on the path to Shaded Woods
+    Bonfire 4650
+10046020 [Majula] Morning Star- Cleric's Sacred Chime
+    First corpse on the path from Things Betwixt
+    Bonfire 4650
+10046030 [Majula] Binoculars
+    Second corpse on the path from Things Betwixt
+    Bonfire 4650
+10046040 [Majula] Soul of a Nameless Soldier- Lifegem
+    Corpse nearby Lenigrast's
+    Bonfire 4650
+10046050 [Majula] Poison Moss
+    Corpse halfway down the pit
+    REQUIRES Surviving Fall Damage
+    Bonfire 4650
+10046060 [Majula] Pharros' Lockstone
+    Corpse in the pit
+    REQUIRES Surviving Fall Damage
+10046070 [Majula] Estus Flask Shard
+    Skeleton in mansion basement
+    Bonfire 4650
+10046080 [Majula] Rouge Water
+    Corpse on path to Huntman's Copse
+    REQUIRES Rotunda Lockstone
+    Bonfire 4650
+10046090 [Majula] Ring of the Evil Eye+1
+    Corpse deeper in the pit
+    REQUIRES Surviving Fall Damage
+    Bonfire 4650
+10046100 [Majula] Pharros' Lockstone
+    Corpse in the study inside mansion
+    REQUIRES House Key
+    Bonfire 4650
+10046110 [Majula] Homeward Bone
+    Corpse nearby Victor's Stone
+    Bonfire 4650
+10046120 [Majula] Lifegem
+    Corpse under a tent nearby Shalquoir's
+    Bonfire 4650
+10046130 [Majula] Radiant Lifegem
+    Corpse higher in the pit
+    REQUIRES Surviving Fall Damage
+    Bonfire 4650
+10046140 [Majula] Titanite Slab
+    Corpse in the forgotten chamber in the pit
+    REQUIRES Surviving Fall Damage, Forgotten Key
+    Bonfire 4650
+10046150 [Majula] Homeward Bone
+    Corpse deepest in the pit
+    REQUIRES Surviving Fall Damage
+    Bonfire 4650
+
+
+// FOREST OF FALLEN GIANTS - TREASURE
+
+10105010 [Forest of Fallen Giants - Chest - Cardinal Tower] Small Leather Shield- Repair Powder
+    Wooden chest in the dark room in Cardinal Tower
+    Bonfire 10655
+10105020 [Forest of Fallen Giants - Chest - Route to Forest] Human Effigy
+    Wooden chest in the river cave from Majula
+    Bonfire 10670
+10105021 [Forest of Fallen Giants - Chest - Route to Forest] Human Effigy
+    Wooden chest in the river cave to Majula, NG+
+10105030 [Forest of Fallen Giants - Chest - Ballista Soldier Room] Life Ring- Large Titanite Shard
+    Metal chest in the locked room below the ballista trapped room
+    REQUIRES Soldier's Key OR Working Enemy AI
+    Bonfire 0
+10105040 [Forest of Fallen Giants - Chest - Ballista Trap Room] Titanite Shard
+    Wooden chest below the ballista trap room
+    Bonfire 10655
+10105041 [Forest of Fallen Giants - Chest - Ballista Trap Room] Titanite Chunk
+    Wooden chest below the ballista trap room, NG+
+10105050 [Forest of Fallen Giants - Chest - Under Cardinal Tower] Large Titanite Shard- Torch
+    Wooden chest under Cardinal Tower on the King's Gate side
+    REQUIRES Soldier's Key
+    Bonfire 10655
+10105070 [Forest of Fallen Giants - Chest - Cardinal Tower] Small White Sign Soapstone- Radiant Lifegem
+    Metal chest above the Cardinal Tower bonfire
+    Bonfire 0
+10105080 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Chloranthy Ring
+    Metal chest in the secret Pharros room below the ballista trap room
+    REQUIRES Pharros Lockstone
+    Bonfire 0
+10105090 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Large Titanite Shard
+    Metal chest in the secret Pharros room below the ballista trap room
+    REQUIRES Pharros Lockstone
+    Bonfire 0
+10105100 [Forest of Fallen Giants - Chest - Overlook Firebomb Room] Mail Breaker- Infantry Helm
+    Metal chest in the firebomb overlook room
+    Bonfire 0
+10105110 [Forest of Fallen Giants - Chest - Fire Pit] Flame Quartz Ring+1
+    Metal chest in the fire lizard courtyard
+    REQUIRES Iron Key
+    Bonfire 0
+10105120 [Forest of Fallen Giants - Chest - Soldier's Rest] Large Soul of a Proud Knight- Hunter's Set
+    Wooden chest in Soldier's Rest
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10105130 [Forest of Fallen Giants - Chest - Flame Lizard Trap Room] Yearn
+    Metal chest in the fire lizard trap tunnel room
+    Bonfire 0
+    NOTE : This is the Fire Longsword, not Yearn
+10105140 [Forest of Fallen Giants - Chest - Pate's Trap Passage] Sorcerer's Staff- Amber Herb
+    Metal chest behind illusory wall in Pate's trap passage
+    Bonfire 0
+10105150 [Forest of Fallen Giants - Chest - King's Gate] Amber Herb
+    Wooden chest before the King's Gate
+    REQUIRES Soldier's Key
+    Bonfire 10655
+10106000 [Forest of Fallen Giants] Soul of a Lost Undead
+    Corpse down the river
+    Bonfire 10670
+10106010 [Forest of Fallen Giants] Soul of a Nameless Soldier- Cracked Red Eye Orb
+    Corpse on the roof of Soldier's Rest first building
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10106020 [Forest of Fallen Giants] Lifegem
+    I Cannot Find This One. Ignore?
+10106030 [Forest of Fallen Giants] Amber Herb
+    Corpse near the giant stone sword
+    Bonfire 10655
+10106050 [Forest of Fallen Giants] Divine Blessing
+    Corpse on a tree branch in Cardinal Tower
+    Bonfire 10655
+10106060 [Forest of Fallen Giants] Wood Bolt
+    Corpse behind shelves in the hall from the sleepy hollows courtyard
+    Bonfire 10670
+10106061 [Forest of Fallen Giants] Heavy Bolt
+    Corpse behind shelves in the hall from the sleepy hollows courtyard, NG+
+10106070 [Forest of Fallen Giants] Black Firebomb- Homeward Bone
+    Corpse in the dark passage to Soldier's Rest
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10106080 [Forest of Fallen Giants] Torch
+    Corpse in the dark passage to Soldier's Rest
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10106090 [Forest of Fallen Giants] Lifegem- Homeward Bone
+    Corpse above the locked door leading to the Pursuer
+    Bonfire 10655
+10106100 [Forest of Fallen Giants] Halberd- Soul of a Nameless Soldier
+    Corpse on the giant stone sword
+    Bonfire 10655
+10106110 [Forest of Fallen Giants] Homeward Bone- Soul of a Lost Undead
+    Corpse in the river cave to Majula
+    Bonfire 10670
+10106120 [Forest of Fallen Giants] Human Effigy
+    Corpse in the first Soldier's Rest building
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10106130 [Forest of Fallen Giants] Titanite Shard
+    Corpse next to the shut hearse in the flooded courtyard
+    Bonfire 10655
+10106140 [Forest of Fallen Giants] Buckler
+    Corpse on the roof of the hall from the sleepy hollows courtyard
+    Bonfire 10670
+10106150 [Forest of Fallen Giants] Human Effigy
+    Corpse past the rolling boulder trap
+    Bonfire 10655
+10106160 [Forest of Fallen Giants] Aromatic Ooze
+    Corpse in Pate's trap passage
+    Bonfire 10655
+10106170 [Forest of Fallen Giants] Soul of a Nameless Soldier- Throwing Knife
+    Corpse up the ledge next to the river
+    Bonfire 10670
+10106180 [Forest of Fallen Giants] Green Blossom
+    Corpse behind stairs after the first Pursuer encounter area
+    Bonfire 10655
+10106190 [Forest of Fallen Giants] Large Soul of a Lost Undead
+    Corpse behind a resting giant tree (Vammar)
+    Bonfire 10655
+10106200 [Forest of Fallen Giants] Shortsword- Soul of a Lost Undead
+    Corpse at the end of the battlements of the sleeping hollows courtyard
+    Bonfire 10670
+10106210 [Forest of Fallen Giants] Soul of a Lost Undead- Torch
+    Corpse on a tree branch in the charred courtyard
+    Bonfire 10670
+10106220 [Forest of Fallen Giants] Light Crossbow
+    Corpse in battlements overlooking the gunpowder courtyard
+    Bonfire 10655
+10106230 [Forest of Fallen Giants] Broken Straight Sword
+    Corpse against the tree in the sleeping hollows courtyard
+    Bonfire 10670
+10106240 [Forest of Fallen Giants] Torch
+    Corpse in the flooded courtyard's crumbling tower
+    Bonfire 10655
+10106250 [Forest of Fallen Giants] Large Leather Shield- Lifegem
+    Corpse down the barred stairs under Cardinal Tower
+    Bonfire 10655
+10106260 [Forest of Fallen Giants] Human Effigy
+    Corpse in the sleeping hollows courtyard
+    Bonfire 10670
+10106270 [Forest of Fallen Giants] Human Effigy
+    Corpse in the scaffolding above the charred courtyard
+    Bonfire 10670
+10106280 [Forest of Fallen Giants] Lifegem
+    Corpse in the sleeping hollows courtyard
+    Bonfire 10670
+10106290 [Forest of Fallen Giants] Drangleic Sword- Drangleic Shield- Drangleic Mail- Drangleic Gauntlets- Drangleic Leggings
+    Corpse on the crumbling floors below the Pursuer arena
+    REQUIRES Soldier's Key
+    Bonfire 10655
+10106300 [Forest of Fallen Giants] Soul of a Lost Undead
+    Corpse below Cardinal Tower, on the side leading to the King's Gate
+    Bonfire 10655
+10106310 [Forest of Fallen Giants] Foot Soldier Shield
+    Corpse inside the first tunnel in the charred courtyard
+    Bonfire 10670
+10106320 [Forest of Fallen Giants] Amber Herb
+    Corpse overlooking the flooded courtyard from the rolling boulder tunnel
+    Bonfire 10655
+10106321 [Forest of Fallen Giants] Wilted Dusk Herb
+    Corpse overlooking the flooded courtyard from the rolling boulder tunnel, NG+
+10106340 [Forest of Fallen Giants] Soul of a Proud Knight
+    Skeleton inside the fire lizard trap tunnel
+    Bonfire 10670
+10106350 [Forest of Fallen Giants] Cracked Red Eye Orb
+    Skeleton in the fire lizard cave
+    REQUIRES Iron Key
+    Bonfire 10655
+10106360 [Forest of Fallen Giants] Rebel's Greatshield
+    Skeleton in the fire lizard cave
+    REQUIRES Iron Key
+    Bonfire 10655
+10106370 [Forest of Fallen Giants] Soul of a Nameless Soldier- Lifegem
+    Corpse before the Pursuer arena
+    REQUIRES Soldier's Key
+    Bonfire 10655
+10106371 [Forest of Fallen Giants] Large Soul of a Proud Knight- Old Radiant Lifegem
+    Corpse before the Pursuer arena, NG+
+    REQUIRES Soldier's Key
+10106380 [Forest of Fallen Giants] Soul of a Nameless Soldier
+    Corpse up in the battlements of the sleeping hollows courtyard
+    Bonfire 10670
+10106390 [Forest of Fallen Giants] Witching Urn
+    Corpse outside the Cardinal Tower entrance
+    Bonfire 10670
+10106400 [Forest of Fallen Giants] Lifegem
+    Corpse below the archway in the charred courtyard
+10106410 [Forest of Fallen Giants] Fire Arrow
+    Corpse nearby the Last Giant elevator
+    Bonfire 10655
+10106420 [Forest of Fallen Giants] Twinkling Titanite- Fragrant Branch of Yore
+    Corpse on the scaffolding beneath Jeigh
+    REQUIRES Soldier's Key, King's Ring OR Skills
+    Bonfire 10675
+10106430 [Forest of Fallen Giants] Amber Herb- Green Blossom
+    Corpse nearby the shut hearse in Soldier's Rest
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10106440 [Forest of Fallen Giants] Great Soul Arrow
+    Corpse in front of the ballista trap
+    Bonfire 10655
+10106450 [Forest of Fallen Giants] Large Soul of a Lost Undead- Blue Wooden Shield
+    Corpse in front of the ballista trap
+    Bonfire 10655
+10106460 [Forest of Fallen Giants] Firedrake Stone
+    Skeleton in the fire lizard courtyard
+    REQUIRES Iron Key
+    Bonfire 10655
+10106470 [Forest of Fallen Giants] Hawk Ring
+    Skeleton in the fire lizard courtyard
+    REQUIRES Iron Key
+    Bonfire 10655
+10106480 [Forest of Fallen Giants] Large Soul of a Proud Knight
+    Skull next to a fire pit in the fire lizard courtyard
+    REQUIRES Iron Key
+    Bonfire 10655
+10106490 [Forest of Fallen Giants] Dried Fingers- Radiant Lifegem
+    Corpse behind wheelbarrow in the dark room in Cardinal Tower
+    Bonfire 10655
+10106500 [Forest of Fallen Giants] Soul of a Nameless Soldier- Torch
+    Corpse on a ledge above the firebomb overlook
+    Bonfire 10655
+10106510 [Forest of Fallen Giants] Grand Lance
+    Corpse before the King's Gate
+    REQUIRES Soldier's Key
+    Bonfire 10655
+10106520 [Forest of Fallen Giants] Estus Flask Shard
+    Corpse in the first Pursuer encounter area
+    Bonfire 10655
+10106530 [Forest of Fallen Giants] Human Effigy- Lifegem
+    Corpse in the first Pursuer encounter area
+    Bonfire 10655
+10106540 [Forest of Fallen Giants] Torch
+    Corpse in the first Pursuer encounter area
+    Bonfire 10655
+10106550 [Forest of Fallen Giants] Repair Powder
+    Corpse in the first Pursuer encounter area
+    Bonfire 10655
+10106560 [Forest of Fallen Giants] Lifegem
+    Corpse at the crumbling wall opening in the hall from the sleepy hollows courtyard
+    Bonfire 10670
+10106570 [Forest of Fallen Giants] Hollow Soldier Helm
+    Corpse behind furniture in the dark room in Cardinal Tower
+    Bonfire 10655
+10106580 [Forest of Fallen Giants] Broken Straight Sword
+    Corpse in the sleeping hollow courtyard
+    Bonfire 10670
+10106590 [Forest of Fallen Giants] Green Blossom
+    Corpse nearby the ladder going up to the sleeping hollows courtyard
+    Bonfire 10670
+10106600 [Forest of Fallen Giants] Prism Stone
+    Corpse above the first tunnel in the charred courtyard
+    Bonfire 10670
+10106610 [Forest of Fallen Giants] Bastard Sword
+    Corpse on the roof of Soldier's Rest first building
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10106620 [Forest of Fallen Giants] Whip
+    Corpse on the roof of Soldier's Rest first building
+    REQUIRES Soldier's Key
+    Bonfire 10660
+10106630 [Forest of Fallen Giants] Human Effigy
+    Corpse on the roof of Soldier's Rest first building
+    REQUIRES Soldier's Key
+    Bonfire 10660
+
+// LOST BASTILLE - TREASURE
+
+10165000 [Lost Bastille - Chest] Parrying Dagger
+    Metal chest in the assassin room
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 0
+10165010 [Lost Bastille - Chest] Soul Vessel
+    Wooden chest hidden behind the Pharros wall in the assassin room
+    REQUIRES (Fragrant Branch of Yore OR Antiquated Key) AND Pharros Lockstone
+    Bonfire 16655
+10165020 [Lost Bastille - Chest] Bone Staff
+    Metal chest in the assassin room
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 0
+10165040 [Lost Bastille - Chest] Rouge Water
+    Wooden chest hidden behind an illusory wall up the stairs in Sentinel room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16670
+10165041 [Lost Bastille - Chest] Bell Keeper Bow
+    Wooden chest hidden behind an illusory wall up the stairs in Sentinel room, NG+
+10165050 [Lost Bastille - Chest] Estus Flask Shard- Large Titanite Shard
+    Metal chest between walls behind McDuff's workshop
+    Bonfire 0
+10165070 [Lost Bastille - Chest] Twinblade
+    Metal chest in the assassin room
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 0
+10165080 [Lost Bastille - Chest] Target Shield
+    Wooden chest hidden behind illusory wall in Sentinel room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16670
+10165110 [Lost Bastille - Chest] Wilted Dusk Herb
+    Metal chest next to the double cage elevator
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 0
+10165120 [Lost Bastille - Chest] Fragrant Branch of Yore- Elizabeth Mushroom
+    Metal chest after the Lost Sinner
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 0
+10165130 [Lost Bastille - Chest] Priest's Chime
+    Metal chest in the servant's quarters storage room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10165140 [Lost Bastille - Chest] Covetous Silver Serpent Ring- Human Effigy- Fragrant Branch of Yore
+    Metal chest in the Pursuer arena next to the Tower Apart
+    Bonfire 0
+10165150 [Lost Bastille - Chest] Craftsman's Hammer- Twinkling Titanite
+    Metal chest in McDuff's workshop
+    Bonfire 0
+10165160 [Lost Bastille - Chest] Large Titanite Shard
+    Wooden chest in McDuff's workshop
+    Bonfire 16670
+10165170 [Lost Bastille - Chest] Titanite Shard
+    Wooden chest in McDuff's workshop
+    Bonfire 16670
+10165180 [Lost Bastille - Chest] Iron Arrow
+    Wooden chest in McDuff's workshop
+    Bonfire 16670
+10165190 [Lost Bastille - Chest] Heavy Bolt
+    Wooden chest in McDuff's workshop
+    Bonfire 16670
+10165200 [Lost Bastille - Chest] Radiant Lifegem- Twilight Herb
+    Wooden chest atop Belfry Luna
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 16665
+10165210 [Lost Bastille - Chest] Hush
+    Metal chest up the ladder hidden behind an illusory wall in Sentinel room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10165220 [Lost Bastille - Chest] Blue Tearstone Ring
+    Metal chest on first floor of Belfry Luna
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 0
+10165230 [Lost Bastille - Chest] Southern Ritual Band
+    Metal chest in the gargoyle tower
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 0
+10165240 [Lost Bastille - Chest] Antiquated Key
+    Metal chest in Lucatiel's tower
+    Bonfire 0
+10165250 [Lost Bastille - Chest] Human Effigy
+    Metal chest in the Tower Apart
+    REQUIRES Soldier's Key
+    Bonfire 0
+10165260 [Lost Bastille - Chest] Dull Ember
+    Metal chest in the Tower Apart
+    REQUIRES Soldier's Key
+    Bonfire 0
+10166000 [Lost Bastille] Homeward Bone
+    Corpse up the ladder hidden behind an illusory wall in Sentinel room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16670
+10166010 [Lost Bastille] Alluring Skull
+    Corpse up in a destructible scaffold in the exile holding courtyard
+    Bonfire 16655
+10166020 [Lost Bastille] Soul of a Nameless Soldier
+    Corpse outside servant's quarters
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16675
+10166030 [Lost Bastille] Soul of a Brave Warrior- Human Effigy
+    Corpse in the crumbled wall after the exile holding cells
+    Bonfire 16655
+10166040 [Lost Bastille] Soul of a Brave Warrior- Golden Wing Shield
+    Corpse overlooking the rolling barrel
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16675
+10166050 [Lost Bastille] Large Soul of a Nameless Soldier- Green Blossom
+    Corpse against the barred window outside the assassin room
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16655
+10166060 [Lost Bastille] Bell Keeper Shield
+    Corpse next to the Sinner's Rise bonfire
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166070 [Lost Bastille] Gold Pine Resin
+    Corpse overlooking the door to nowhere nearby McDuff's workshop
+    Bonfire 16670
+10166080 [Lost Bastille] Radiant Lifegem- Large Titanite Shard
+    Corpse overlooking the Pursuer arena next to the Tower Apart
+    REQUIRES Soldier's Key
+    Bonfire 16660
+10166090 [Lost Bastille] Large Soul of a Nameless Soldier
+    Corpse in the flooded area in Sinner's Rise, next to the illusory wall
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166100 [Lost Bastille] Rusted Coin
+    Corpse hidden behind illusory wall in Sentinel room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16670
+10166110 [Lost Bastille] Lacerating Knife
+    Corpse in the Sinner's Rise elevator shaft
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166120 [Lost Bastille] Blossom Kite Shield
+    Corpse in the flooded area in Sinner's Rise
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166130 [Lost Bastille] Skeptic's Spice
+    Corpse next to the double cage elevator
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16650
+10166140 [Lost Bastille] Skeptic's Spice
+    Corpse on a railing on second floor of Belfry Luna
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 16665
+10166150 [Lost Bastille] Soul of a Nameless Soldier
+    Corpse in a cell in the hall leading to servant's quarters
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16670
+10166160 [Lost Bastille] Skeptic's Spice
+    Corpse on first floor of Belfry Luna
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 16665
+10166170 [Lost Bastille] Skeptic's Spice
+    Corpse atop Belfry Luna
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 16665
+10166180 [Lost Bastille] Bastille Key
+    Corpse at the end of a crumbled wall outside servant's quarters
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16675
+10166190 [Lost Bastille] Lifegem
+    Corpse to the right past the gate leading to the bridge to Sinner's Rise
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16650
+10166191 [Lost Bastille] Radiant Lifegem
+    Corpse to the right past the gate leading to the bridge to Sinner's Rise, NG+
+10166200 [Lost Bastille] Bracing Knuckle Ring
+    Corpse overlooking the scaffoldings
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16675
+10166230 [Lost Bastille] Northern Ritual Band- Bleed Stone
+    Corpse chained outside Sinner's Rise, behind an illusory wall in the flooded area
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166250 [Lost Bastille] Dragon Tooth- Petrified Something- Brightbug
+    Corpse in the dog courtyard past the gargoyles
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 16665
+10166260 [Lost Bastille] Flame Butterfly- Torch
+    Corpse overlooking the scaffolding, on the other side of the crumbling wall
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16675
+10166270 [Lost Bastille] Soul of a Proud Knight- Human Effigy
+    Corpse down the ladder in the hall leading to the Ruin Sentinels
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16670
+10166280 [Lost Bastille] Soul of a Proud Knight- Pharros' Lockstone
+    Corpse in a flooded cell in Sinner's Rise
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166290 [Lost Bastille] Flame Butterfly
+    Corpse on the roof above the well courtyard
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16675
+10166300 [Lost Bastille] Common Fruit
+    Skeleton in a cell in the Exile Holding stairs
+    Bonfire 16655
+10166310 [Lost Bastille] Blue Flame
+    Skeleton in the boarded up room
+    Bonfire 16655
+    Note : this is a flame butterfly
+10166320 [Lost Bastille] Radiant Lifegem
+    Skeleton in a cell in the hall leading to the Ruin Sentinels
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16670
+10166330 [Lost Bastille] Fire Seed
+    Skeleton in a locked cell in Sinner's Rise
+    REQUIRES (Fragrant Branch of Yore OR Antiquated Key) AND Bastille Key
+    Bonfire 16685
+10166350 [Lost Bastille] Smooth & Silky Stone
+    Corpse in the rightside Lost Sinner's brazier room
+    REQUIRES (Fragrant Branch of Yore OR Antiquated Key) AND Bastille Key
+    Bonfire 16685
+10166360 [Lost Bastille] Radiant Lifegem
+    Corpse to the left of the Lost Sinner's room
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166370 [Lost Bastille] Large Soul of a Nameless Soldier
+    Corpse on the roof above the well courtyard, next to a ladder
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16675
+10166380 [Lost Bastille] Large Club
+    Corpse in the servant's quarters storage room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 16675
+10166390 [Lost Bastille] Falchion
+    Corpse in the dog courtyard past the gargoyles
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 16665
+10166400 [Lost Bastille] Soul of a Proud Knight
+    Corpse in the gargoyle arena
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 16665
+10166410 [Lost Bastille] Bonfire Ascetic
+    Corpse in the double cage elevator shaft
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16650
+10166420 [Lost Bastille] Large Titanite Shard
+    Corpse up in Lucatiel's tower
+    Bonfire 16670
+10166421 [Lost Bastille] Large Titanite Shard
+    Corpse up in Lucatiel's tower, NG+
+10166430 [Lost Bastille] Archdrake Robes- Archdrake Shield
+    Corpse behind a destructible wall next to the assassin room
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16655
+10166440 [Lost Bastille] Petrified Dragon Bone- Firebomb
+    Skeleton in the cell next to Straid
+    REQUIRES (Fragrant Branch of Yore OR Antiquated Key) AND Bastille Key
+    Bonfire 16650
+10166441 [Lost Bastille] Resplendent Life- Firebomb
+    Skeleton in the cell next to Straid, NG+
+10166450 [Lost Bastille] Human Effigy
+    Corpse at the edge of the crumbled stairs circling outside Sinner's Rise
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16685
+10166460 [Lost Bastille] Soul of a Proud Knight- Radiant Lifegem
+    Corpse in a cell next to the docks elevator
+    Bonfire 16655
+10166470 [Lost Bastille] Scimitar- Repair Powder
+    Corpse in the hidden cave accessed by standing on the docks elevator
+    Bonfire 16655
+10166480 [Lost Bastille] Green Blossom
+    Corpse hidden in a corridor sealed by illusory walls under Straid's cell
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16650
+10166490 [Lost Bastille] Wanderer Set
+    Corpse in the well cage
+    REQUIRES Fragrant Branch of Yore OR Antiquated Key
+    Bonfire 16655
+
+// HARVEST VALLEY and EARTHEN PEAK - TREASURE
+// Everything REQUIRES Rotunda Lockstone
+
+10175020 [Earthen Peak - Chest] Raw Stone
+    Wooden chest in the first poison valley's cave
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10175021 [Earthen Peak - Chest] Raw Stone- Palestone
+    Wooden chest in the first poison valley's cave, NG+
+10175030 [Earthen Peak - Chest] Greatwood Band
+    Metal chest near ladder going in poison tunnels
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10175040 [Earthen Peak - Chest] Pike
+    Wooden chest on the lowest ledge in central Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17655
+10175050 [Earthen Peak - Chest] Petrified Something
+    Wooden chest behind an illusory wall above Mytha's room
+    REQUIRES Rotunda Lockstone
+    Bonfire 17675
+10175060 [Earthen Peak - Chest] Heavy Crossbow- Heavy Bolt
+    Metal chest in the trapped corridor in lower Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10175070 [Earthen Peak - Chest] Torch
+    Wooden chest in the pottery room in lower Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10175090 [Earthen Peak - Chest] Pharros' Lockstone
+    Wooden chest in the spinning wheel corridor in upper Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+10175110 [Earthen Peak - Chest] Fire Seed- Divine Blessing
+    Metal chest in the first poison valley's cave
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10175120 [Earthen Peak - Chest] Soul of a Brave Warrior- Crimson Water
+    Metal chest past the crumbled balcony in upper Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10175130 [Earthen Peak - Chest] Poisonbite Ring- Soul of a Proud Knight
+    Metal chest behind a Pharros wall in lower Earthen Peak
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 0
+10175140 [Earthen Peak - Chest] Great Heavy Soul Arrow
+    Metal chest behind Pate's locked door
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10175150 [Earthen Peak - Chest] Lightning Spear
+    Metal chest on the ledge below Pate's locked door
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10175160 [Earthen Peak - Chest] Mirrah Shield
+    Metal chest up the platform lift
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10176000 [Earthen Peak] Lifegem
+    Corpse behind a boarded up mine entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176010 [Earthen Peak] Broadsword- Human Effigy
+    Corpse past the crumbled bridge in central Earthen Peak
+10176020 [Earthen Peak] Lifegem
+    Corpse on the ledge before the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176030 [Earthen Peak] Torch
+    Corpse next to the stairs leading out of the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176040 [Earthen Peak] Spell Quartz Ring+1
+    Corpse on the outdoors balcony outside upper Earthen Peak, behind an illusory wall
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+10176050 [Earthen Peak] Large Soul of a Proud Knight- Divine Blessing
+    Corpse under the large platform lift
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+10176060 [Earthen Peak] Hexing Urn
+    Corpse up a ladder in the path leading to the shut wooden hearse between valleys
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176070 [Earthen Peak] Radiant Lifegem- Smooth & Silky Stone
+    Skeleton behind boarded up walls in harvest valley
+    REQUIRES Rotunda Lockstone AND Working Enemy AI
+    Bonfire 17650
+10176080 [Earthen Peak] Skeptic's Spice
+    Corpse behind a boarded up mine entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176090 [Earthen Peak] Torch
+    Corpse behind boarded up walls in harvest valley
+    REQUIRES Rotunda Lockstone AND Working Enemy AI
+    Bonfire 17650
+10176100 [Earthen Peak] Repair Powder
+    Corpse in the flooded poison tunnel in lower earthen peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176110 [Earthen Peak] Skeptic's Spice
+    Corpse in the deep alcove in the stairs in lower Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176120 [Earthen Peak] Radiant Lifegem
+    Corpse next to a poison bowl after the Covetous Demon
+    REQUIRES Rotunda Lockstone
+    Bonfire 17655
+10176130 [Earthen Peak] Soul of a Lost Undead
+    Corpse behind boarded up walls in harvest valley
+    REQUIRES Rotunda Lockstone AND Working Enemy AI
+    Bonfire 17650
+10176140 [Earthen Peak] Pharros' Lockstone- Twinkling Titanite
+    Corpse on a ledge outside Earthen Peak, accessible with Gilligan's ladder
+    REQUIRES Rotunda Lockstone AND Gilligan's help
+    Bonfire 17670
+10176150 [Earthen Peak] Simpleton's Spice
+    Corpse outside central Earthen Peak behind destructible wooden railings
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+10176160 [Earthen Peak] Old Knight Pike- Old Knight Greatshield
+    Corpse behind boarded up walls in harvest valley
+    REQUIRES Rotunda Lockstone AND Working Enemy AI
+    Bonfire 17650
+10176170 [Earthen Peak] Radiant Lifegem
+    Corpse past the crumbled balcony in upper Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+10176171 [Earthen Peak] Divine Blessing
+    Corpse past the crumbled balcony in upper Earthen Peak, NG+
+10176180 [Earthen Peak] Fragrant Branch of Yore- Torch
+    Corpse in the first poison valley's cave
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176190 [Earthen Peak] Soul of a Nameless Soldier- Titanite Shard
+    Corpse in the trapped corridor in lower Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176200 [Earthen Peak] Small Smooth & Silky Stone- Titanite Shard
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176210 [Earthen Peak] Malformed Claws
+    Skeleton in the poison tunnels
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176220 [Earthen Peak] Human Effigy- Large Titanite Shard
+    Skeleton in a short tunnel in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176221 [Earthen Peak] Human Effigy- Large Titanite Shard
+    Skeleton in a short tunnel in the second poison valley, NG+
+10176230 [Earthen Peak] Titanite Chunk
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176231 [Earthen Peak] Titanite Chunk
+    Skeleton in the first poison valley, NG+
+10176250 [Earthen Peak] Fading Soul- Small Smooth & Silky Stone
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176260 [Earthen Peak] Fading Soul
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176270 [Earthen Peak] Manikin Sabre
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176280 [Earthen Peak] Fading Soul
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176290 [Earthen Peak] Fading Soul- Titanite Shard
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176300 [Earthen Peak] Poison Throwing Knife
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176340 [Earthen Peak] Simpleton's Spice
+    Skeleton in the poison tunnels
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176350 [Earthen Peak] Chameleon- Soul of a Brave Warrior
+    Skeleton in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176370 [Earthen Peak] Titanite Shard
+    Skeleton in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176390 [Earthen Peak] Petrified Something
+    Corpse on a ledge accessed past a boarded up mine entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176400 [Earthen Peak] Large Soul of a Brave Warrior- Radiant Lifegem
+    Corpse behind a boarded up mine entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176410 [Earthen Peak] Soul of a Nameless Soldier
+    Skeleton in the poison tunnels
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176420 [Earthen Peak] Black Firebomb
+    Corpse next to the dart trap trigger in central Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+10176430 [Earthen Peak] Manikin Mask
+    Corpse next to the dart trap in central Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+10176440 [Earthen Peak] Small Smooth & Silky Stone
+    Corpse in the poison pot room above Mytha's room
+    REQUIRES Rotunda Lockstone
+    Bonfire 17675
+10176450 [Earthen Peak] Poison Stone
+    Skeleton in the poison pool before Mytha's room
+    REQUIRES Rotunda Lockstone
+    Bonfire 17675
+10176460 [Earthen Peak] Titanite Shard
+    Corpse behind a boarded up mine entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176461 [Earthen Peak] Twinkling Titanite
+    Corpse behind a boarded up mine entrance, NG+
+10176470 [Earthen Peak] Large Titanite Shard
+    Corpse behind a boarded up mine entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176480 [Earthen Peak] Simpleton's Spice
+    Corpse behind a boarded up mine entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176490 [Earthen Peak] Green Blossom
+    Corpse in the center of the boarded up mine entrance area
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176500 [Earthen Peak] Titanite Shard
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176510 [Earthen Peak] Fading Soul
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176520 [Earthen Peak] Titanite Chunk
+    Skeleton in the first poison valley, behind stairs leading out
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176530 [Earthen Peak] Titanite Shard
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176540 [Earthen Peak] Torch
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176550 [Earthen Peak] Titanite Shard
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176560 [Earthen Peak] Titanite Shard
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176570 [Earthen Peak] Fading Soul
+    Skeleton in the first poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17665
+10176580 [Earthen Peak] Titanite Shard
+    Skeleton in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176590 [Earthen Peak] Ring of Restoration
+    Skeleton in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176600 [Earthen Peak] Washing Pole
+    Skeleton in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176610 [Earthen Peak] Dragon Charm
+    Skeleton in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176620 [Earthen Peak] Titanite Shard
+    Skeleton in the second poison valley
+    REQUIRES Rotunda Lockstone
+    Bonfire 17650
+10176630 [Earthen Peak] Flame Butterfly
+    Skeleton in the poison pool corridor in upper Earthen Peak
+    REQUIRES Rotunda Lockstone
+    Bonfire 17670
+
+// NO-MAN'S WHARF - TREASURE
+
+10185000 [No-man's Wharf - Chest] Titanite Shard
+    Wooden chest on the second floor of the first house
+    Bonfire 18650
+10185001 [No-man's Wharf - Chest] Titanite Chunk
+    Wooden chest on the second floor of the first house, NG+
+    Bonfire 18650
+10185030 [No-man's Wharf - Chest] Repair Powder- Titanite Shard
+    Wooden chest in the tavern
+    Bonfire 18650
+10185040 [No-man's Wharf - Chest] Bandit Axe- Brigand Set
+    Metal chest in the tavern
+    Bonfire 0
+10185050 [No-man's Wharf - Chest] Titanite Slab
+    Metal chest in the darkstalker house uptown
+    Bonfire 0
+10185060 [No-man's Wharf - Chest] Royal Soldier's Ring
+    Metal chest hidden behind destructible wall in the jar house
+    Bonfire 0
+10185070 [No-man's Wharf - Chest] Large Titanite Shard
+    Wooden chest behind an illusory wall in Gavlan's house
+    Bonfire 0
+10185071 [No-man's Wharf - Chest] Sea Bow
+    Wooden chest behind an illusory wall in Gavlan's house, NG+
+10185080 [No-man's Wharf - Chest] Firebomb
+    Wooden chest behind an illusory wall in Gavlan's house
+    Bonfire 18650
+10185081 [No-man's Wharf - Chest] Black Firebomb
+    Wooden chest behind an illusory wall in Gavlan's house, NG+
+10185100 [No-man's Wharf - Chest] Silver Talisman
+    Wooden chest in the darkstalker house uptown
+    Bonfire 18650
+10185110 [No-man's Wharf - Chest] Fragrant Branch of Yore
+    Metal chest in the jar house
+    Bonfire 0
+10185120 [No-man's Wharf - Chest] Pyromancy Flame- Fireball
+    Metal chest in the boat
+    Bonfire 0
+10186000 [No-man's Wharf] Soul of a Proud Knight
+    Corpse on the balcony of the first house
+    Bonfire 18650
+10186010 [No-man's Wharf] Human Effigy- Lifegem
+    Corpse on a capsized boat
+    Bonfire 18650
+10186020 [No-man's Wharf] Fire Arrow
+    Corpse in the middle of the stairs of the house next to the bell
+    Bonfire 18650
+10186021 [No-man's Wharf] Shadow Dagger
+    Corpse in the middle of the stairs of the house next to the bell, NG+
+10186030 [No-man's Wharf] Human Effigy
+    Corpse hidden behind two cupboards in Lucatiel's house
+    Bonfire 18650
+10186050 [No-man's Wharf] Large Soul of a Lost Undead- Lifegem
+    Corpse in the water past the first house
+    Bonfire 18650
+10186070 [No-man's Wharf] Varangian Sword
+    Corpse back in the second house at sea level right of the central stairs
+    Bonfire 18650
+10186071 [No-man's Wharf] Iron Arrow
+    Corpse back in the second house at sea level right of the central stairs, NG+
+10186100 [No-man's Wharf] Large Soul of a Proud Knight- Small Smooth & Silky Stone
+    Corpse on the roof of the second house at sea level right of the central stairs
+    Bonfire 18650
+10186110 [No-man's Wharf] Large Soul of a Lost Undead- Emit Force
+    Corpse on a cliffside near darkstalkers
+10186120 [No-man's Wharf] Fading Soul
+    Skull hidden behind destructible wall in the jar house
+    Bonfire 18650
+10186130 [No-man's Wharf] Lifegem- Homeward Bone
+    Corpse on the roof next to the bell
+    Bonfire 18650
+10186140 [No-man's Wharf] Soul of a Nameless Soldier
+    Skull hidden behind destructible wall in the jar house
+    Bonfire 18650
+10186150 [No-man's Wharf] Dark Pine Resin
+    Corpse next to a cupboard in the house at sea level left of the central stairs
+    Bonfire 18650
+10186160 [No-man's Wharf] Large Soul of a Nameless Soldier- Lifegem
+    Skeleton hidden behind destructible wall in the jar house
+    Bonfire 18650
+10186170 [No-man's Wharf] Throwing Knife- Flame Butterfly
+    Corpse behind jars in the jar house
+    Bonfire 18650
+
+10186040 is missing as well?
+    Corpse located below the balcony of Gavlan's house
+10186080 is missing from ItemLotParam2_Other ...
+    Corpse located inside the house at sea level right of the central stairs
+
+// IRON KEEP - TREASURE
+// Everything REQUIRES Rotunda Lockstone
+10195000 [Iron Keep - Chest] Destructive Greatarrow
+    Wooden chest atop the trapped courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+10195001 [Iron Keep - Chest] Destructive Greatarrow
+    Wooden chest atop the trapped courtyard, NG+
+10195030 [Iron Keep - Chest] Smelter Hammer
+    Metal chest next to the Pharros pool in smelter courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10195040 [Iron Keep - Chest] Life Ring+1- Twinkling Titanite
+    Metal chest up a ladder in the smelter courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10195050 [Iron Keep - Chest] Black Knight Greatsword
+    Metal chest hidden behind an illusory wall after Belfry Sol
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 0
+10195060 [Iron Keep - Chest] Protective Chime- Grand Spirit Tree Shield
+    Metal chest hidden behind an illusory wall after Belfry Sol
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 0
+10195090 [Iron Keep - Chest] Black Knight Greataxe
+    Metal chest in the molten iron pouring tower
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10195100 [Iron Keep - Chest] Phoenix Parma
+    Metal chest on flaming platforms in the smelter courtyard
+    REQUIRES Rotunda Lockstone AND Fire Resistance
+    Bonfire 0
+10195110 [Iron Keep - Chest] Chaos Storm
+    Metal chest on flaming platforms in the trapped courtyard
+    REQUIRES Rotunda Lockstone AND Fire Resistance
+    Bonfire 0
+10195120 [Iron Keep - Chest] Immolation
+    Metal chest after Belfry Sol
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 0
+10195130 [Iron Keep - Chest] Thunder Quartz Ring+1
+    Metal chest past the Pharros gate in the trapped courtyard
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 0
+    Note : NG+ becomes Mimic (4035) - Itemlot 1193000
+10195140 [Iron Keep - Chest] Porcine Shield- Flame Butterfly
+    Metal chest after Smelter Demon
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10195150 [Iron Keep - Chest] Petrified Something
+    Metal chest after the Old Iron King
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10196000 [Iron Keep] Simpleton's Spice
+    Corpse nearby the Belfry Sol bell
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 19665
+10196010 [Iron Keep] Blacksteel Katana
+    Corpse on the roof of Belfry Sol
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 19665
+10196020 [Iron Keep] Possessed Armor Greatbow
+    Corpse next to a ladder in Belfry Sol
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 19665
+10196030 [Iron Keep] Soul of a Proud Knight- Repair Powder
+    Corpse on a ledge down a ladder in the smelter courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196040 [Iron Keep] Simpleton's Spice
+    Corpse in the molten iron pouring tower
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+10196050 [Iron Keep] Short Bow
+    Corpse in the flamethrower and spike room
+    REQUIRES Rotunda Lockstone
+    Bonfire 19660
+10196060 [Iron Keep] Large Soul of a Nameless Soldier- Red Leech Troches
+    Chest on a pillar next to the bridge in the smelter courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196070 [Iron Keep] Old Radiant Lifegem- Green Blossom
+    Corpse behind the chimneys outside the smelter oven
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196080 [Iron Keep] Iron Key
+    Corpse under the flamethrower in entrance hall
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196090 [Iron Keep] Pharros' Lockstone
+    Corpse up in the archer window in entrance hall
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196100 [Iron Keep] Cracked Red Eye Orb- Torch
+    Corpse in the molten iron pouring tower, down the rafters
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+10196110 [Iron Keep] Large Soul of a Nameless Soldier
+    Corpse on the metal platforms in the trapped courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+10196111 [Iron Keep] Soul of a Brave Warrior
+    Corpse on the metal platforms in the trapped courtyard, NG+
+10196120 [Iron Keep] Large Soul of a Proud Knight- Radiant Lifegem
+    Corpse nearby the lava fountains in the trapped courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+10196130 [Iron Keep] Large Soul of a Nameless Soldier- Monastery Charm
+    Corpse nearby exit to the trapped courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+10196140 [Iron Keep] Bonfire Ascetic- Simpleton's Spice
+    Skeleton across flaming platforms next to the first bonfire
+    REQUIRES Rotunda Lockstone AND Fire Resistance
+    Bonfire 19655
+10196150 [Iron Keep] Fire Arrow
+    Corpse behind ballista hidden by illusory walls
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196160 [Iron Keep] Petrified Dragon Bone
+    Skeleton in the metal stairs in the smelter courtyard
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196170 [Iron Keep] Heavy Iron Key
+    Skeleton in the molten iron bucket
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+10196180 [Iron Keep] Human Effigy
+    Skull in the flames next to the first bonfire
+    REQUIRES Rotunda Lockstone AND Fire Resistance
+    Bonfire 19655
+10196190 [Iron Keep] Fire Seed
+    Skull on the flaming platforms in the trapped courtyard
+    REQUIRES Rotunda Lockstone AND Fire Resistance
+    Bonfire 19650
+10196200 [Iron Keep] Human Effigy- Triclops Snake Troches
+    Corpse after Belfry Sol
+    REQUIRES Rotunda Lockstone AND Pharros Lockstone
+    Bonfire 19665
+10196210 [Iron Keep] Large Titanite Shard- Petrified Dragon Bone
+    Corpse inside the smelter oven
+    REQUIRES Rotunda Lockstone
+    Bonfire 19655
+10196211 [Iron Keep] Twinkling Titanite- Petrified Dragon Bone
+    Corpse inside the smelter oven, NG+
+10196220 [Iron Keep] Titanite Shard- Alonne Greatbow
+    Corpse in the molten iron pouring tower
+    REQUIRES Rotunda Lockstone
+    Bonfire 19650
+
+// HUNTSMAN'S COPSE - TREASURE
+// Everything REQUIRES Rotunda Lockstone
+
+10235010 [Huntman's Copse - Chest] Ricard's Rapier
+    Metal chest in the mushroom cave
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10235020 [Huntman's Copse - Chest] Sublime Bone Dust
+    Metal chest in the lockaway accessible through its roof
+    REQUIRES Rotunda Lockstone
+    Bonfire 0
+10236000 [Huntman's Copse] Cracked Red Eye Orb
+    Corpse on a ledge above the bridge approach bonfire
+    REQUIRES Rotunda Lockstone
+    Bonfire 23650
+10236010 [Huntman's Copse] Cracked Red Eye Orb
+    Corpse above the stairs in Undead Purgatory
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236020 [Huntman's Copse] Aromatic Ooze
+    Corpse back in the trees in the Forlorn area past the first stone bridge
+    REQUIRES Rotunda Lockstone
+    Bonfire 23655
+10236021 [Huntman's Copse] Aromatic Ooze
+    Corpse back in the trees in the Forlorn area past the first stone bridge, NG+
+10236030 [Huntman's Copse] Large Soul of a Lost Undead- Small Orange Burr
+    Corpse next to a cliff before the first stone bridge
+    REQUIRES Rotunda Lockstone
+    Bonfire 23655
+10236040 [Huntman's Copse] Notched Whip
+    Corpse on a dead-end ledge past the stone bridge leading to Undead Purgatory
+    REQUIRES Rotunda Lockstone
+    Bonfire 23655
+10236050 [Huntman's Copse] Mace- Titanite Shard
+    Corpse next to a cursed pot in the skeleton tunnel
+    REQUIRES Rotunda Lockstone
+    Bonfire 23660
+10236060 [Huntman's Copse] Combustion- Titanite Shard
+    Corpse at the crumbled wooden bridge outside the skeleton tunnel
+    REQUIRES Rotunda Lockstone
+    Bonfire 23660
+10236070 [Huntman's Copse] Soul of a Nameless Soldier- Lifegem
+    Corpse in the boarded up building, near the pit
+    REQUIRES Rotunda Lockstone
+    Bonfire 23650
+10236071 [Huntman's Copse] Large Soul of a Proud Knight- Old Radiant Lifegem
+    Corpse in the boarded up building, near the pit, NG+
+10236080 [Huntman's Copse] Poison Moss- Lifegem
+    Corpse on a ledge accessible from the boarded up building roof
+    REQUIRES Rotunda Lockstone
+    Bonfire 23650
+10236090 [Huntman's Copse] Morning Star- Large Soul of a Nameless Soldier
+    Corpse in the first opened lockaway past the first bridge 
+    REQUIRES Rotunda Lockstone
+    Bonfire 23655
+10236100 [Huntman's Copse] Poison Moss- Green Blossom
+    Corpse in the lockaway accessible through its roof
+    REQUIRES Rotunda Lockstone
+    Bonfire 23655
+10236110 [Huntman's Copse] Soul Spear
+    Corpse in the lockaway accessible through its roof
+    REQUIRES Rotunda Lockstone
+    Bonfire 23655
+10236120 [Huntman's Copse] Bandit's Knife
+    Corpse in the boarded up building
+    REQUIRES Rotunda Lockstone
+    Bonfire 23650
+10236130 [Huntman's Copse] Titanite Shard
+    Corpse against a tree in the Forlorn area after the first stone bridge
+    REQUIRES Rotunda Lockstone
+    Bonfire 23655
+10236131 [Huntman's Copse] Gyrm Great Hammer
+    Corpse against a tree in the Forlorn area after the first stone bridge, NG+
+10236140 [Huntman's Copse] Large Titanite Shard
+    Corpse next to the metal grate in the skeleton tunnel
+    REQUIRES Rotunda Lockstone
+    Bonfire 23660
+10236150 [Huntman's Copse] Pharros' Lockstone- Token of Fidelity
+    Corpse on the ruined pillar across the Bridge Approach bonfire
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236160 [Huntman's Copse] Undead Lockaway Key
+    Corpse in the middle of the upper ambush location on the cliffside leading to Skeleton Lords
+    REQUIRES Rotunda Lockstone
+    Bonfire 23660
+10236170 [Huntman's Copse] Flamberge
+    Corpse on a ledge dowb by the upper ambush location on the cliffside leading to Skeleton Lords
+    REQUIRES Rotunda Lockstone
+    Bonfire 23660
+10236180 [Huntman's Copse] Fading Soul
+    Corpse in the chariot track
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236190 [Huntman's Copse] Fading Soul
+    Corpse in the chariot track
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236200 [Huntman's Copse] Fading Soul
+    Corpse in the chariot track
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236210 [Huntman's Copse] Fading Soul
+    Corpse in the chariot track
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236220 [Huntman's Copse] Soul of a Brave Warrior
+    Corpse next to the pit in the chariot track
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236230 [Huntman's Copse] Flame Butterfly
+    Corpse inside the lockaway in the cliffside leading to Skeleton Lords
+    REQUIRES Rotunda Lockstone
+    Bonfire 23660
+10236240 [Huntman's Copse] Fire Seed
+    Corpse next to the Undead Purgatory entrance
+    REQUIRES Rotunda Lockstone
+    Bonfire 23665
+10236250 [Huntman's Copse] Large Soul of a Nameless Soldier
+    Corpse next to the double cage elevator
+    REQUIRES Rotunda Lockstone
+    Bonfire 23650
+10236260 [Huntman's Copse] Monastery Charm- Soul of a Proud Knight
+    Corpse on the natural bridge in the mushroom cave
+    REQUIRES Rotunda Lockstone
+    Bonfire 23650
+10236270 [Huntman's Copse] Human Effigy- Lacerating Arrow- Prism Stone
+    Corpse on the ledge in the skeleton tunnel, requiring a jump across chasms
+    REQUIRES Rotunda Lockstone
+    Bonfire 23660
+
+// UNSEEN PATH TO HEIDE - TREASURE
+
+10305010 [Unseen Path to Heide - Chest] Knight Set
+    Metal chest on the flooded floor
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10305020 [Unseen Path to Heide] Sublime Bone Dust
+    Metal chest on the first floor
+    Bonfire 0
+10306000 [Unseen Path to Heide] Soul of a Proud Knight
+    Corpse in an alcove on the first floor
+    Bonfire 31650
+10306010 [Unseen Path to Heide] Human Effigy- Dark Troches
+    Corpse on a railing on the first floor
+    Bonfire 31650
+10306020 [Unseen Path to Heide] Old Knight Halberd
+    Corpse in an alcove on first floor
+    Bonfire 31650
+10306030 [Unseen Path to Heide] Estus Flask Shard
+    Corpse on a railing on the flooded floor
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 31650
+
+// HEIDE'S TOWER OF FLAME - TREASURE
+
+10315000 [Heide's Tower of Flame - Chest] Ring of Binding
+    Metal chest on the crumbling platform in front of the Dragonrider arena
+    Bonfire 0
+10315001 [Heide's Tower of Flame - Chest] Human Effigy- Ring of Binding
+    Metal chest on the crumbling platform in front of the Dragonrider arena, NG+
+10315010 [Heide's Tower of Flame - Chest] Cleric's Parma- Tower Shield
+    Metal chest in the Cathedral of Blue
+    Bonfire 0
+10315020 [Heide's Tower of Flame - Chest] Titanite Shard
+    Wooden chest in the Cathedral of Blue
+    Bonfire 31660
+10315030 [Heide's Tower of Flame - Chest] Human Effigy
+    Metal chest at the Cathedral of Blue drawbridge
+    Bonfire 0
+10316010 [Heide's Tower of Flame] Soul of a Nameless Soldier- Human Effigy
+    Corpse on the railing near the first bonfire
+    Bonfire 31655
+10316040 [Heide's Tower of Flame] Monastery Charm
+    Corpse below the spiral staircase
+    Bonfire 31650
+10316041 [Heide's Tower of Flame] Monastery Charm
+    Corpse below the spiral staircase, NG+
+10316050 [Heide's Tower of Flame] Old Knight Ultra Greatsword
+    Corpse down the crumbled stairs nearby the dragon platform
+    Bonfire 31655
+10316090 [Heide's Tower of Flame] Soul of a Lost Undead- Broken Thief Sword
+    Corpse in the passage from Majula to Heide's
+    Bonfire 31655
+10316100 [Heide's Tower of Flame] Lloyd's Talisman
+    Corpse behind the large door next to the first bonfire
+    Bonfire 31655
+10316101 [Heide's Tower of Flame] Skeptic's Spice
+    Corpse behind the large door next to the first bonfire, NG+
+10316110 [Heide's Tower of Flame] Old Knight Greatsword
+    Corpse at the Cathedral of Blue drawbridge
