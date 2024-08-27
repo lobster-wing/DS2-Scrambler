@@ -423,6 +423,259 @@
     REQUIRES Soldier's Key
     Bonfire 10660
 
+// BRIGHTSTONE COVE TSELDORA - TREASURE
+// Everything REQUIRES Fragrant Branch of Yore
+
+10145050 [Brightstone Cove] Human Effigy
+    ?? Cannot find it ??
+10145060 [Brightstone Cove - Chest - Spider Room] Heavy Bolt
+    Wooden chest in the first spider den
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10145061 [Brightstone Cove - Chest - Spider Room] Magic Bolt
+    Wooden chest in the first spider den, NG+
+10145070 [Brightstone Cove - Chest - Pate's Fight Room] Rusted Coin
+    Wooden chest in Pate's trapped room
+    REQUIRES Fragrant Branch of Yore AND Tseldora Den Key
+    Bonfire 14650
+10145080 [Brightstone Cove - Chest - Pate's Fight Room] Engraved Gauntlets
+    Metal chest in Pate's trapped room
+    REQUIRES Fragrant Branch of Yore AND Tseldora Den Key
+    Bonfire 0
+10145110 [Brightstone Cove - Chest - Lower Cove Spider Room] Great Magic Barrier- Soul Vortex
+    Metal chest behind shelves in the pub next to Ornifex's workshop
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10145120 [Brightstone Cove - Chest - Lower Cove Ledge Room] Southern Ritual Band+1
+    Metal chest on a mechanical shelf inside a residence
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10145130 [Brightstone Cove - Chest - Spider Hall Side Room] Black Knight Ultra Greatsword- Great Fireball- Fire Seed
+    Metal chest in the spider temple locked room
+    REQUIRES Fragrant Branch of Yore AND Brightstone Key
+    Bonfire 0
+10146000 [Brightstone Cove] Soul of a Hero- Gold Pine Resin
+    Corpse behind a bench in the spider temple entrance
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146010 [Brightstone Cove] Pharros' Lockstone
+    Corpse in a pot in Ornifex's workshop
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146020 [Brightstone Cove] Fading Soul- Cleric's Small Shield
+    Corpse in the pardoner's room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146030 [Brightstone Cove] Large Titanite Shard
+    Corpse on a ledge outside a tseldora residence
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146040 [Brightstone Cove] Priestess Set
+    Corpse behind illusory wall next to the congregation
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146050 [Brightstone Cove] Lizard Staff
+    Corpse on the well in the encampement
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146051 [Brightstone Cove] Titanite Shard- Large Titanite Shard
+    Corpse on the well in the encampement, NG+
+10146060 [Brightstone Cove] Soul of a Nameless Soldier
+    Corpse in a corpse pile in the encampment
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146070 [Brightstone Cove] Large Titanite Shard
+    Corpse next to the cliff above Freja's pit, before the first spider den
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146080 [Brightstone Cove] Soul of a Proud Knight
+    Corpse under the rocky stairway going down from the chapel approach bonfire
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146090 [Brightstone Cove] Titanite Chunk- Twinkling Titanite
+    Corpse on a rocky ledge next to the small building hanging above the quicksand pit
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146100 [Brightstone Cove] Large Titanite Shard
+    Skeleton on the roof of the mage building in the quicksand area
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146110 [Brightstone Cove] Soul of a Nameless Soldier
+    Corpse in a corpse pile in the encampment
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146120 [Brightstone Cove] Titanite Chunk
+    Corpse on a ledge above the junction between the quicksand area and the next
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146130 [Brightstone Cove] Holy Water Urn
+    Corpse inside the well in the encampement
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146140 [Brightstone Cove] Soul of a Nameless Soldier
+    Corpse in a corpse pile in the encampment
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146150 [Brightstone Cove] Large Soul of a Proud Knight
+    Corpse in a corpse pile in the encampment
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146160 [Brightstone Cove] Soul of a Nameless Soldier
+    Corpse beneath the first boulder trap
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146170 [Brightstone Cove] Lightning Urn
+    Corpse on the floor above the lower Tseldora bonfire
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146180 [Brightstone Cove] Titanite Chunk
+    Skeleton in a buried room next to the pub
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146181 [Brightstone Cove] Titanite Chunk- Titanite Slab
+    Skeleton in a buried room next to the pub, NG+
+10146190 [Brightstone Cove] Flame Butterfly
+    Corpse behind shelves in Ornifex's workshop
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146200 [Brightstone Cove] Estus Flask Shard
+    Skeleton inside the mage building in the quicksand area
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146210 [Brightstone Cove] Large Titanite Shard
+    Corpse in the small building hanging above the quicksand pit
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146220 [Brightstone Cove] Torch
+    Corpse in a buried staircase inside upper tseldora residences
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146230 [Brightstone Cove] Large Soul of a Nameless Soldier
+    Corpse in a pot next to the ruined house in the encampment
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146240 [Brightstone Cove] Fading Soul
+    Corpse in the pardoner's room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146250 [Brightstone Cove] Skeptic's Spice
+    Corpse in the pardoner's room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146260 [Brightstone Cove] Bonfire Ascetic
+    Corpse in the pardoner's room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146270 [Brightstone Cove] Fading Soul
+    Corpse in the pardoner's room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146280 [Brightstone Cove] Homeward Bone
+    Corpse in the rightside alcove in spider temple
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146290 [Brightstone Cove] Lacerating Arrow
+    Corpse up a scaffold in the encampment
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146300 [Brightstone Cove] Bat Staff
+    Corpse in a pot near Doors of Pharros
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146310 [Brightstone Cove] Wilted Dusk Herb
+    Corpse in a pot in the room below the chapel bonfire
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146320 [Brightstone Cove] Charcoal Pine Resin
+    Corpse in a pot in the room where Pate and Creighton meet
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14660
+10146330 [Brightstone Cove] Pharros' Lockstone
+    Corpse in a pot in the dark spiderweb room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650  
+10146340 [Brightstone Cove] Torch
+    Corpse in the dark spiderweb room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146350 [Brightstone Cove] Radiant Lifegem
+    Corpse in the dark spiderweb room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146360 [Brightstone Cove] Corrosive Urn
+    Corpse in the dark spiderweb room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146370 [Brightstone Cove] Simpleton's Spice
+    Corpse in the dark spiderweb room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146380 [Brightstone Cove] Twilight Herb
+    Corpse in the dark spiderweb room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146381 [Brightstone Cove] Wilted Dusk Herb
+    Corpse in the dark spiderweb room, NG+
+10146390 [Brightstone Cove] Soul of a Brave Warrior
+    Corpse behind the second boulder trap
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146400 [Brightstone Cove] Petrified Dragon Bone
+    Corpse next to a wheelbarrow in the quicksand area
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146410 [Brightstone Cove] Torch
+    Corpse in the spiky brightstone mining area
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146420 [Brightstone Cove] Titanite Shard- Titanite Chunk- Titanite Slab
+    Corpse in the spiky brightstone mining area
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146430 [Brightstone Cove] None
+    Skeleton in the first spider den, * likely inaccessible
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146440 [Brightstone Cove] None
+    Skeleton in the first spider den
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146450 [Brightstone Cove] None
+    Skeleton in the first spider den
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146460 [Brightstone Cove] None
+    Skeleton in the first spider den
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146470 [Brightstone Cove] None
+    Skeleton in the first spider den
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146480 [Brightstone Cove] Human Effigy
+    Corpse in a pot before the congregation
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146490 [Brightstone Cove] Cracked Red Eye Orb
+    Corpse in a pot to right after the congregation
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14655
+10146500 [Brightstone Cove] Pickaxe
+    Buried under rubble in spider temple
+    REQUIRES Fragrant Branch of Yore AND Working enemy AI
+    Bonfire 0
+    *make this missable
+10146510 [Brightstone Cove] Torch
+    Corpse in a pot in a tseldora residence
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+10146520 [Brightstone Cove] Poison Arrow
+    Corpse in a pot in the spider temple entrance
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 14650
+
+
+
 // LOST BASTILLE - TREASURE
 
 10165000 [Lost Bastille - Chest] Parrying Dagger
@@ -1361,6 +1614,195 @@
     REQUIRES Rotunda Lockstone
     Bonfire 23660
 
+// THE GUTTER and BLACK GULCH - TREASURE
+// Everything REQUIRES Surviving Fall Damage
+
+10255010 [The Gutter - Chest] Black Firebomb
+    Wooden chest up a ladder past the first long bridge in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10255020 [The Gutter] Twinkling Titanite- Small Smooth & Silky Stone
+    ?? Can't find this one ??
+10255030 [The Gutter - Chest] Great Club
+    Wooden chest below the central gutter structure
+    REQUIRES Surviving Fall Damage
+    Bonfire 25655
+10255040 [The Gutter - Chest] Soul of a Nameless Soldier
+    Metal chest in the cliffside close to the gutter oil puddles
+    REQUIRES Surviving Fall Damage
+    Bonfire 0
+10255050 [The Gutter - Chest] Divine Blessing
+    Wooden chest in a tunnel on an oil puddle in Black Gulch
+    REQUIRES Surviving Fall Damage
+    Bonfire 25650
+10255090 [The Gutter - Chest] Ring of Giants+1- Petrified Dragon Bone
+    Metal chest in the giants' cave
+    REQUIRES Surviving Fall Damage
+    Bonfire 0
+10255100 [The Gutter - Chest] Wicked Eye Greatshield
+    Metal chest in the vermin cave
+    REQUIRES Surviving Fall Damage
+    Bonfire 0
+10255110 [The Gutter - Chest] Aurous Set
+    Metal chest next to the Heide Knight
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10255120 [The Gutter - Chest] Petrified Something- Simpleton's Spice- Skeptic's Spice
+    Metal chest after the Rotten
+    REQUIRES Surviving Fall Damage
+    Bonfire 0
+10255130 [The Gutter - Chest] Shotel- Great Magic Weapon
+    Metal chest in a tunnel next to the first Black Gulch oil puddles
+    REQUIRES Surviving Fall Damage
+    Bonfire 0
+10256000 [The Gutter] Havel's Greatshield- Havel's Set
+    Corpse in a pot behind the forgotten door in the gutter
+    REQUIRES Surviving Fall Damage AND Forgotten Key
+10256030 [The Gutter] Bandit Greataxe
+    Corpse in a pot under the zipline start point
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256060 [The Gutter] Soul of a Nameless Soldier
+    Corpse in a pot above the corrosive pot room in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256090 [The Gutter] Full Moon Sickle
+    Corpse in a pot down crumbling planks past the second long bridge
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256130 [The Gutter] Dark Fog- Torch
+    Corpse in a pot below the central gutter structure
+    REQUIRES Surviving Fall Damage
+    Bonfire 25655
+10256160 [The Gutter] Fragrant Branch of Yore
+    Corpse before Black Gulch's entrance
+    REQUIRES Surviving Fall Damage
+    Bonfire 25650
+10256170 [The Gutter] Poison Moss
+    Corpse in a pot inside the Jugo ant cave
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256210 [The Gutter] Fire Seed
+    Corpse in the Rotten's arena
+    REQUIRES Surviving Fall Damage
+    Bonfire 25660
+10256220 [The Gutter] Dung Pie
+    Corpse in a pot next to the first gutter bonfire
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256230 [The Gutter] Large Soul of a Nameless Soldier
+    Corpse in a pot next to gutter oil puddles
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256240 [The Gutter] Lifegem
+    Corpse in a pot before returning to the first bonfire from the cliffside
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256250 [The Gutter] Dark Pyromancy Flame- Rotten Pine Resin
+    Corpse in a pot outside the corrosive pot room in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256260 [The Gutter] Titanite Chunk
+    Corpse in a pot under the zipline tower
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256270 [The Gutter] Tattered Cloth Set
+    Corpse in a pot next to the Heide Knight
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256280 [The Gutter] Soul of a Proud Knight
+    Corpse in a pot up the ladder next to the Heide Knight
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256290 [The Gutter] Flame Butterfly
+    Corpse in a pot on a ledge a few floors down the zipline start point
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256300 [The Gutter] Poison Moss
+    Corpse in a pot inside the Jugo ant cave
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256310 [The Gutter] Poison Arrow
+    Corpse in a pot outside the Jugo ant cave
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256320 [The Gutter] Dung Pie
+    Corpse in a pot in the central gutter structure
+    REQUIRES Surviving Fall Damage
+    Bonfire 25655
+10256330 [The Gutter] Rotten Pine Resin
+    Corpse in a pot above the chest below the central gutter structure
+    REQUIRES Surviving Fall Damage
+    Bonfire 25655
+10256340 [The Gutter] Lifegem
+    Corpse in a pot behind a ladder below the central gutter structure
+    REQUIRES Surviving Fall Damage
+    Bonfire 25655
+10256350 [The Gutter] Silver Talisman
+    Corpse in a pot behind the double cage elevator
+    REQUIRES Surviving Fall Damage
+    Bonfire 25650
+10256360 [The Gutter] Pharros' Lockstone
+    Corpse in a pot next to the second Black Gulch bonfire
+    REQUIRES Surviving Fall Damage AND Fragrant Branch of Yore
+    Bonfire 25660
+10256370 [The Gutter] Large Soul of a Nameless Soldier
+    Corpse in a tipped pot nearby wormholes in Black Gulch
+    REQUIRES Surviving Fall Damage
+    Bonfire 25650
+10256380 [The Gutter] Scraps of Life- Torch
+    Corpse in a tipped pot nearby wormholes in Black Gulch
+    REQUIRES Surviving Fall Damage
+    Bonfire 25650
+10256390 [The Gutter] Radiant Lifegem
+    Corpse in a tipped pot next to the second set of Black Gulch oil puddles
+    REQUIRES Surviving Fall Damage
+    Bonfire 25650
+10256400 [The Gutter] Estus Flask Shard
+    Corpse up the ladder next to the Heide Knight
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256410 [The Gutter] Human Effigy
+    Corpse in the corpse pile above the corrosive pot room in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256420 [The Gutter] Smooth & Silky Stone
+    Corpse in the corpse pile above the corrosive pot room in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256430 [The Gutter] Dragon Talon
+    Corpse in the corpse pile above the corrosive pot room in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256440 [The Gutter] Smooth & Silky Stone
+    Corpse in the corpse pile above the corrosive pot room in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256450 [The Gutter] Fragrant Branch of Yore
+    Corpse next to the corpse pile above the corrosive pot room in the gutter
+    REQUIRES Surviving Fall Damage
+    Bonfire 25665
+10256500 [The Gutter] Pharros' Lockstone
+    ?? Probably not accessible, or it's Rotten's hand drop ??
+    It's a rotten corpse split in two within the Rotten's arena walls
+
+// PATH TO SHADED WOODS - TREASURE
+
+10295000 [Path to Shaded Woods - Chest] Estus Flask Shard
+    Metal chest in Old Akelarre
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10296000 [Path to Shaded Woods] Aldia Hammer
+    Corpse in a cell before the Akelarre switch
+    Bonfire 29650
+10296010 [Path to Shaded Woods] Lifegem- Homeward Bone
+    Corpse next to Benhart
+    Bonfire 29650
+10296020 [Path to Shaded Woods] Soul of a Proud Knight- Human Effigy
+    Corpse in a cell after the Akelarre switch
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 29650
+
 // UNSEEN PATH TO HEIDE - TREASURE
 
 10305010 [Unseen Path to Heide - Chest] Knight Set
@@ -1421,3 +1863,443 @@
     Corpse behind the large door next to the first bonfire, NG+
 10316110 [Heide's Tower of Flame] Old Knight Greatsword
     Corpse at the Cathedral of Blue drawbridge
+
+// SHADED WOODS - TREASURE
+// Everything REQUIRES Fragrant Branch of Yore
+
+10325000 [Shaded Woods - Chest] Magic Bolt
+    Wooden chest down a stairway close to the Shaded Ruins bonfire
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10325001 [Shaded Woods - Chest] Magic Bolt
+    Wooden chest down a stairway close to the Shaded Ruins bonfire, NG+
+10325010 [Shaded Woods - Chest] Titanite Chunk- Petrified Dragon Bone
+    Wooden chest on the roof of the ruined building housing the Shaded Ruins bonfire
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10325020 [Shaded Woods - Chest] Chloranthy Ring+1
+    Metal chest in the fog, up a ledge on the mountainside
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10325030 [Shaded Woods - Chest] Berserker Blade
+    Metal chest in the ruined foundations next to Tark
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10325040 [Shaded Woods - Chest] Fragrant Branch of Yore- Lion Mage Set
+    Metal chest in the ruined building filled with cursed pots
+    REQUIRES Fragrant Branch of Yore AND Fragrant Branch of Yore
+    Bonfire 0
+10325050 [Shaded Woods - Chest] Old Sun Ring
+    Metal chest in the fog, next to the cliff
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10325060 [Shaded Woods - Chest] Homing Soulmass
+    Metal chest next to the Pilgrims portal
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10325080 [Shaded Woods - Chest] Clear Bluestone Ring+1
+    Metal chest in the fog next to a moaning tree
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10325100 [Shaded Woods - Chest] Repair- Human Effigy- Bleeding Serum
+    Metal chest guarded by a petrified lion warrior
+    REQUIRES Fragrant Branch of Yore AND Fragrant Branch of Yore
+    Bonfire 0
+10325110 [Shaded Woods - Chest] Black Knight Halberd
+    Metal chest under the Shaded Ruins bonfire, accessible from the Syan Knight area
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10325120 [Shaded Woods - Chest] Sublime Bone Dust
+    Metal chest guarded by a Syan Knight in the Shaded Ruins
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 0
+10326000 [Shaded Woods] Pharros' Lockstone
+    Corpse on a ledge on the path from Majula to crossroads
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 29650
+10326010 [Shaded Woods] Flame Butterfly- Torch
+    Corpse behind the ruined building leading to Tark
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326020 [Shaded Woods] Large Soul of a Proud Knight- Human Effigy- Twinkling Titanite
+    Corpse on a ledge on the path to Shrine of Winter
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326030 [Shaded Woods] Dragonslayer's Crescent Axe- Golden Falcon Shield
+    Corpse next to the crumbled archway on the path to Shrine of Winter
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326040 [Shaded Woods] Pharros' Lockstone- Soul of a Brave Warrior
+    Corpse up in the ruins containing large barrels
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326060 [Shaded Woods] Soul of a Proud Knight- Human Effigy
+    Corpse up the hill leading to to Vengarl's head
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326070 [Shaded Woods] Soul of a Nameless Soldier- Radiant Lifegem
+    Corpse against a tree in the fog, about in front of the entrance
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326080 [Shaded Woods] Large Soul of a Nameless Soldier
+    Corpse in the fog, against a moaning tree
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326081 [Shaded Woods] Soul of a Brave Warrior
+    Corpse in the fog, against a moaning tree, NG+
+10326090 [Shaded Woods] Umbral Dagger
+    Corpse in the fog, next to a cursed pot
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326100 [Shaded Woods] Lloyd's Talisman
+    Corpse in the fog, right of the entrance
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326101 [Shaded Woods] Lloyd's Talisman
+    Corpse in the fog, right of the entrance, NG+
+10326110 [Shaded Woods] Fading Soul
+    Corpse on the path from Majula to crossroads
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 29650
+10326120 [Shaded Woods] Soul of a Brave Warrior- Firebomb
+    Corpse on the mountain ledge next outside the corrosive cave
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326130 [Shaded Woods] Radiant Lifegem
+    Corpse above the Shaded Ruins bonfire
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326140 [Shaded Woods] Twinkling Titanite
+    Corpse inside the corrosive cave
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326141 [Shaded Woods] Twinkling Titanite
+    Corpse inside the corrosive cave, NG+
+10326150 [Shaded Woods] Soul of a Brave Warrior- Twilight Herb
+    Corpse next to the chest guarded by a Syan Knight in the Shaded Ruins
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 23660
+10326160 [Shaded Woods] Fragrant Branch of Yore
+    Corpse inside Ornifex's cell
+    REQUIRES Fragrant Branch of Yore AND Fang Key
+    Bonfire 32660
+10326170 [Shaded Woods] Frozen Flower
+    Corpse in a pond on the path to Aldia's Keep
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326180 [Shaded Woods] Soul of a Brave Warrior- Skeptic's Spice
+    Corpse atop the spiral staircase in a ruined tower in Shaded Ruins
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326190 [Shaded Woods] Lifegem
+    Corpse next to the large crumbling planks above the corrosive cave
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326191 [Shaded Woods] Divine Blessing
+    Corpse next to the large crumbling planks above the corrosive cave, NG+
+10326200 [Shaded Woods] Flame Butterfly
+    Corpse in Najka's tree
+    REQUIRES Fragrant Branch of Yore AND Najka's Help
+    Bonfire 32660
+10326210 [Shaded Woods] Soul of a Brave Warrior- Pharros' Lockstone
+    Corpse behind barrels in the ruined building leading to Tark
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32660
+10326220 [Shaded Woods] Soul of a Hero
+    Corpse next to the crumbled archway, after passing through Shrine of Winter
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 32655
+10326230 [Shaded Woods] Torch
+    Corpse next to Vengarl's body
+    REQUIRES Fragrant Branch of Yore AND Fragrant Branch of Yore
+    Bonfire 32660
+10326240 [Shaded Woods] Fire Seed
+    Skull behind Vengarl's head
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 32655
+10326250 [Shaded Woods] Covetous Gold Serpent Ring
+    Corpse on the path to Drangleic Castle
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 32655
+10326260 [Shaded Woods] Large Soul of a Nameless Soldier- Human Effigy
+    Corpse on the path to Drangleic Castle
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 32655
+10326270 [Shaded Woods] Soul of a Proud Knight
+    Corpse on the path from Majula to crossroads
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 29650
+10326280 [Shaded Woods] Human Effigy
+    Corpse on the path from Majula to crossroads
+    REQUIRES Fragrant Branch of Yore
+    Bonfire 29650
+
+// DOORS OF PHARROS - TREASURE
+// Everything REQUIRES Fragrant Branch of Yore
+
+10335000 [Doors of Pharros - Chest] Faintstone- Twinkling Titanite
+    Wooden chest hidden in tunnel in the rat area's second room
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire -31876
+10335010 [Doors of Pharros - Chest] Titanite Chunk- Petrified Dragon Bone
+    Wooden chest in front of the spiked wall switch
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31876
+10335020 [Doors of Pharros - Chest] Magic Arrow
+    Wooden chest in a tunnel behind a Pharros gate in the rat area's upper central room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31876
+10335021 [Doors of Pharros - Chest] Magic Arrow
+    Wooden chest in a tunnel behind a Pharros gate in the rat area's upper central room, NG+
+10335030 [Doors of Pharros - Chest] Dragon Charm
+    Wooden chest up the stairs at the entrance
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31881   
+10335031 [Doors of Pharros - Chest] Dragon Charm
+    Wooden chest up the stairs at the entrance, NG+
+10335040 [Doors of Pharros - Chest] Santier's Spear
+    Metal chest behind the triple Pharros gate in the water
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire 0
+10336000 [Doors of Pharros] Prism Stone
+    Corpse at the entrance
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31881
+10336010 [Doors of Pharros] Lifegem
+    Corpse nearby statues and Gavlan
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31881
+10336011 [Doors of Pharros] Old Radiant Lifegem
+    Corpse nearby statues and Gavlan, NG+
+10336020 [Doors of Pharros] Human Effigy
+    Skull behind the triple Pharros gate in the upper central room
+    REQUIRES Fragrant Branch of Yore AND Pharros Lockstone
+    Bonfire -31876
+10336040 [Doors of Pharros] Amber Herb
+    Corpse in the water in the rat area's central room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31876
+10336041 [Doors of Pharros] Wilted Dusk Herb
+    Corpse in the water in the rat area's central room, NG+
+10336050 [Doors of Pharros] Gyrm Axe- Gyrm Greatshield
+    Corpse on the lower ledge in the rat area's central room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31876
+10336060 [Doors of Pharros] Twisted Barricade- Soul of a Proud Knight
+    Corpse up the ladder in the rat are's second room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31876
+10336070 [Doors of Pharros] Pharros' Lockstone- Large Soul of a Nameless Soldier
+    Corpse next to the stairs going to the rat area's upper central room 
+10336080 [Doors of Pharros] Large Soul of a Brave Warrior
+    Corpse in the rat area's upper central room
+    REQUIRES Fragrant Branch of Yore
+    Bonfire -31876
+
+// GRAVE OF SAINTS - TREASURE
+// Everything REQUIRES Surviving Fall Damage
+
+10345000 [Grave of Saints - Chest] Titanite Slab
+    Metal chest across the wooden bridge
+    REQUIRES Surviving Fall Damage
+    Bonfire 0
+10345010 [Grave of Saints - Chest] Token of Spite
+    Wooden chest under the scaffolds
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+10345020 [Grave of Saints - Chest] Sublime Bone Dust
+    Metal chest in the damp tunnel
+    REQUIRES Surviving Fall Damage
+    Bonfire 0
+10346000 [Grave of Saints] Human Effigy
+    Corpse in the scaffolds
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+10346010 [Grave of Saints] Silverblack Spear- Silverblack Shield
+    Corpse in the scaffolds
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+10346020 [Grave of Saints] Whisper of Despair- Torch
+    Skeleton in the room past the bridges
+    REQUIRES Surviving Fall Damage AND Pharros Lockstone
+    Bonfire -30881
+10346030 [Grave of Saints] Large Soul of a Nameless Soldier
+    Skeleton at the Grave of Saints entrance
+    REQUIRES Surviving Fall Damage
+    Bonfire -30881
+10346031 [Grave of Saints] Large Soul of a Brave Warrior
+    Skeleton at the Grave of Saints entrance, NG+
+10346040 [Grave of Saints] Homeward Bone
+    Skeleton next to a large altar
+    REQUIRES Surviving Fall Damage
+    Bonfire -30881
+10346050 [Grave of Saints] Poison Moss
+    Skeleton in the room past the bridges
+    REQUIRES Surviving Fall Damage AND Pharros Lockstone
+    Bonfire -30881
+10346060 [Grave of Saints] Pharros' Lockstone
+    Skeleton after the Rat King
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+10346070 [Grave of Saints] Great Heal
+    Skeleton in the damp room below Grave of Saints
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+10346080 [Grave of Saints] Small Smooth & Silky Stone
+    Skull on a shelf to the left before the first bridge
+    REQUIRES Surviving Fall Damage
+    Bonfire -30881
+10346090 [Grave of Saints] Bleed Stone
+    Skeleton behind metal bars above the wooden bridge
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+10346091 [Grave of Saints] Twinkling Titanite- Bleed Stone
+    Skeleton behind metal bars above the wooden bridge, NG+
+10346100 [Grave of Saints] Disc Chime
+    Skull on a crumbling ledge around the wooden bridge
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+10346110 [Grave of Saints] Homeward Bone
+    Skeleton in the damp room below Grave of Saints
+    REQUIRES Surviving Fall Damage
+    Bonfire -30886
+
+// DRANGLEIC CASTLE
+// Everything REQUIRES Fragrant Branch of Yore AND Four Great Souls
+
+20215000 [Drangleic Castle - Chest] Hunter's Blackbow- Iron Arrow
+    Metal chest next to the acid spitting chariots
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215010 [Drangleic Castle - Chest] Corrosive Urn
+    Wooden chest in the acid pit
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20215011 [Drangleic Castle - Chest] Titanite Slab- Corrosive Urn
+    Wooden chest in the acid pit, NG+
+20215020 [Drangleic Castle - Chest] Dark Arrow
+    Wooden chest in the storage room in the castle's basement
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20215021 [Drangleic Castle - Chest] Dark Arrow
+    Wooden chest in the storage room in the castle's basement, NG+
+20215040 [Drangleic Castle - Chest] Fire Greatarrow
+    ?? Cannot find this one ??
+20215041 [Drangleic Castle - Chest] Fire Greatarrow- Destructive Greatarrow
+    ?? Cannot find this one ??
+20215050 [Drangleic Castle - Chest] Royal Soldier's Ring+1
+    Metal chest inside a Ruined Sentinel closet
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215060 [Drangleic Castle - Chest] Soul Vessel- Fire Seed
+    Metal chest in the prison tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215070 [Drangleic Castle - Chest] Estus Flask Shard
+    Metal chest in the locked storage room nearby the central bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215080 [Drangleic Castle - Chest] Great Combustion- Fire Seed
+    Metal chest outside the castle gate
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215090 [Drangleic Castle - Chest] Firestorm
+    Metal chest in the chariot horse room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215100 [Drangleic Castle - Chest] Key to King's Passage- Ring of Lords
+    Metal chest in the prison tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215110 [Drangleic Castle - Chest] Strong Magic Shield
+    Metal chest in the prison tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215120 [Drangleic Castle - Chest] Old Knight Hammer
+    Metal chest after the elevator golem room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215130 [Drangleic Castle - Chest] Mastodon Greatsword- Mastodon Greatshield
+    Metal chest inside a Ruined Sentinel closet
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215140 [Drangleic Castle - Chest] Caitha's Chime- Soul Greatsword
+    Metal chest after the elevator golem room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215150 [Drangleic Castle - Chest] Soul Bolt- Spell Quartz Ring+2- Bonfire Ascetic
+    Metal chest after Mirror Knight
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20215160 [Drangleic Castle - Chest] Sublime Bone Dust
+    Metal chest in the small room to the left of the entrance hall
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20215170 [Drangleic Castle - Chest] Large Soul of a Brave Warrior- Twinkling Titanite
+    Wooden chest in the mask room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 0
+20216000 [Drangleic Castle] Black Witch's Staff
+    Skeleton inside a Ruined Sentinel closet
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216010 [Drangleic Castle] Faraam Set
+    Skeleton in the cave under the castle
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216020 [Drangleic Castle] Soul of a Hero- Old Radiant Lifegem- Monastery Charm
+    Skeleton in the storage room in the castle's basement
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216021 [Drangleic Castle] Great Magic Barrier
+    Skeleton in the storage room in the castle's basement, NG+
+20216030 [Drangleic Castle] Stone Soldier Spear
+    Skeleton in the acid pit
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216040 [Drangleic Castle] Fire Greatarrow- Destructive Greatarrow
+    Skeleton in the painting room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216050 [Drangleic Castle] Soul of a Brave Warrior
+    Skeleton next to the forgotten chamber
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21660
+20216060 [Drangleic Castle] Lifegem
+    Skeleton in the horsemen statue hallway
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 21655
+20216061 [Drangleic Castle] Old Radiant Lifegem- Petrified Dragon Bone
+    Skeleton in the horsemen statue hallway, NG+
+20216070 [Drangleic Castle] Soul of a Proud Knight- Twinkling Titanite
+    Skeleton in the horsemen statue hallway
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 21655
+20216080 [Drangleic Castle] Alluring Skull
+    Skull before the horsemen statue hallway
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 21655
+20216090 [Drangleic Castle] Holy Water Urn
+    Corpse on the path to the castle
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216100 [Drangleic Castle] Repair Powder- Flame Butterfly
+    Corpse in the locked storage room nearby the central bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21655
+20216110 [Drangleic Castle] Titanite Slab
+    Skeleton in the storage room in the castle's basement
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216120 [Drangleic Castle] Petrified Something
+    Skeleton in the horsemen statue hallway
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 21655
+20216130 [Drangleic Castle] Petrified Dragon Bone
+    Skeleton in the painting room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650
+20216140 [Drangleic Castle] Torch
+    Skeleton in the painting room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls
+    Bonfire 21650

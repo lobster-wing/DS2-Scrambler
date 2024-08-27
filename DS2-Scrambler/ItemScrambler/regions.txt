@@ -143,9 +143,12 @@
 10166421 [Lost Bastille] Large Titanite Shard
 10166460 [Lost Bastille] Soul of a Proud Knight- Radiant Lifegem
 10166470 [Lost Bastille] Scimitar- Repair Powder
+10296000 [Path to Shaded Woods] Aldia Hammer
+10296010 [Path to Shaded Woods] Lifegem- Homeward Bone
 
 // REGION 01
-// Fragrant Branch of Yore x4
+// Fragrant Branch of Yore x6
+// +Branches past Old Akelarre : x6 (lions)
 10026100 [Things Betwixt] Estus Flask Shard
 10305010 [Unseen Path to Heide - Chest] Knight Set
 10306030 [Unseen Path to Heide] Estus Flask Shard
@@ -164,6 +167,126 @@
 10166320 [Lost Bastille] Radiant Lifegem
 10166370 [Lost Bastille] Large Soul of a Nameless Soldier
 10166380 [Lost Bastille] Large Club
+10295000 [Path to Shaded Woods - Chest] Estus Flask Shard
+10296020 [Path to Shaded Woods] Soul of a Proud Knight- Human Effigy
+10325000 [Shaded Woods - Chest] Magic Bolt
+10325001 [Shaded Woods - Chest] Magic Bolt
+10325010 [Shaded Woods - Chest] Titanite Chunk- Petrified Dragon Bone
+10325020 [Shaded Woods - Chest] Chloranthy Ring+1
+10325030 [Shaded Woods - Chest] Berserker Blade
+10325050 [Shaded Woods - Chest] Old Sun Ring
+10325060 [Shaded Woods - Chest] Homing Soulmass
+10325080 [Shaded Woods - Chest] Clear Bluestone Ring+1
+10325110 [Shaded Woods - Chest] Black Knight Halberd
+10325120 [Shaded Woods - Chest] Sublime Bone Dust
+10326000 [Shaded Woods] Pharros' Lockstone
+10326010 [Shaded Woods] Flame Butterfly- Torch
+10326020 [Shaded Woods] Large Soul of a Proud Knight- Human Effigy- Twinkling Titanite
+10326030 [Shaded Woods] Dragonslayer's Crescent Axe- Golden Falcon Shield
+10326040 [Shaded Woods] Pharros' Lockstone- Soul of a Brave Warrior
+10326060 [Shaded Woods] Soul of a Proud Knight- Human Effigy
+10326070 [Shaded Woods] Soul of a Nameless Soldier- Radiant Lifegem
+10326080 [Shaded Woods] Large Soul of a Nameless Soldier
+10326081 [Shaded Woods] Soul of a Brave Warrior
+10326090 [Shaded Woods] Umbral Dagger
+10326100 [Shaded Woods] Lloyd's Talisman
+10326101 [Shaded Woods] Lloyd's Talisman
+10326110 [Shaded Woods] Fading Soul
+10326120 [Shaded Woods] Soul of a Brave Warrior- Firebomb
+10326130 [Shaded Woods] Radiant Lifegem
+10326140 [Shaded Woods] Twinkling Titanite
+10326141 [Shaded Woods] Twinkling Titanite
+10326150 [Shaded Woods] Soul of a Brave Warrior- Twilight Herb
+10326170 [Shaded Woods] Frozen Flower
+10326180 [Shaded Woods] Soul of a Brave Warrior- Skeptic's Spice
+10326190 [Shaded Woods] Lifegem
+10326191 [Shaded Woods] Divine Blessing
+10326210 [Shaded Woods] Soul of a Brave Warrior- Pharros' Lockstone
+10326240 [Shaded Woods] Fire Seed
+10326270 [Shaded Woods] Soul of a Proud Knight
+10326280 [Shaded Woods] Human Effigy
+10335010 [Doors of Pharros - Chest] Titanite Chunk- Petrified Dragon Bone
+10335020 [Doors of Pharros - Chest] Magic Arrow
+10335021 [Doors of Pharros - Chest] Magic Arrow
+10335030 [Doors of Pharros - Chest] Dragon Charm
+10335031 [Doors of Pharros - Chest] Dragon Charm
+10336000 [Doors of Pharros] Prism Stone
+10336010 [Doors of Pharros] Lifegem
+10336011 [Doors of Pharros] Old Radiant Lifegem
+10336040 [Doors of Pharros] Amber Herb
+10336041 [Doors of Pharros] Wilted Dusk Herb
+10336050 [Doors of Pharros] Gyrm Axe- Gyrm Greatshield
+10336060 [Doors of Pharros] Twisted Barricade- Soul of a Proud Knight
+10336070 [Doors of Pharros] Pharros' Lockstone- Large Soul of a Nameless Soldier
+10336080 [Doors of Pharros] Large Soul of a Brave Warrior
+10145060 [Brightstone Cove - Chest - Spider Room] Heavy Bolt
+10145061 [Brightstone Cove - Chest - Spider Room] Magic Bolt
+10145110 [Brightstone Cove - Chest - Lower Cove Spider Room] Great Magic Barrier- Soul Vortex
+10145120 [Brightstone Cove - Chest - Lower Cove Ledge Room] Southern Ritual Band+1
+10146000 [Brightstone Cove] Soul of a Hero- Gold Pine Resin
+10146010 [Brightstone Cove] Pharros' Lockstone
+10146020 [Brightstone Cove] Fading Soul- Cleric's Small Shield
+10146030 [Brightstone Cove] Large Titanite Shard
+10146040 [Brightstone Cove] Priestess Set
+10146050 [Brightstone Cove] Lizard Staff
+10146051 [Brightstone Cove] Titanite Shard- Large Titanite Shard
+10146060 [Brightstone Cove] Soul of a Nameless Soldier
+10146070 [Brightstone Cove] Large Titanite Shard
+10146080 [Brightstone Cove] Soul of a Proud Knight
+10146090 [Brightstone Cove] Titanite Chunk- Twinkling Titanite
+10146100 [Brightstone Cove] Large Titanite Shard
+10146110 [Brightstone Cove] Soul of a Nameless Soldier
+10146120 [Brightstone Cove] Titanite Chunk
+10146130 [Brightstone Cove] Holy Water Urn
+10146140 [Brightstone Cove] Soul of a Nameless Soldier
+10146150 [Brightstone Cove] Large Soul of a Proud Knight
+10146160 [Brightstone Cove] Soul of a Nameless Soldier
+10146170 [Brightstone Cove] Lightning Urn
+10146180 [Brightstone Cove] Titanite Chunk
+10146181 [Brightstone Cove] Titanite Chunk- Titanite Slab
+10146190 [Brightstone Cove] Flame Butterfly
+10146200 [Brightstone Cove] Estus Flask Shard
+10146210 [Brightstone Cove] Large Titanite Shard
+10146220 [Brightstone Cove] Torch
+10146230 [Brightstone Cove] Large Soul of a Nameless Soldier
+10146240 [Brightstone Cove] Fading Soul
+10146250 [Brightstone Cove] Skeptic's Spice
+10146260 [Brightstone Cove] Bonfire Ascetic
+10146270 [Brightstone Cove] Fading Soul
+10146280 [Brightstone Cove] Homeward Bone
+10146290 [Brightstone Cove] Lacerating Arrow
+10146300 [Brightstone Cove] Bat Staff
+10146310 [Brightstone Cove] Wilted Dusk Herb
+10146320 [Brightstone Cove] Charcoal Pine Resin
+10146330 [Brightstone Cove] Pharros' Lockstone
+10146340 [Brightstone Cove] Torch
+10146350 [Brightstone Cove] Radiant Lifegem
+10146360 [Brightstone Cove] Corrosive Urn
+10146370 [Brightstone Cove] Simpleton's Spice
+10146380 [Brightstone Cove] Twilight Herb
+10146381 [Brightstone Cove] Wilted Dusk Herb
+10146390 [Brightstone Cove] Soul of a Brave Warrior
+10146400 [Brightstone Cove] Petrified Dragon Bone
+10146410 [Brightstone Cove] Torch
+10146420 [Brightstone Cove] Titanite Shard- Titanite Chunk- Titanite Slab
+10146480 [Brightstone Cove] Human Effigy
+10146490 [Brightstone Cove] Cracked Red Eye Orb
+10146510 [Brightstone Cove] Torch
+10146520 [Brightstone Cove] Poison Arrow
+
+// REGION 01a
+// Fragrant Branch of Yore AND Fragrant Branch of Yore
+10325040 [Shaded Woods - Chest] Fragrant Branch of Yore- Lion Mage Set
+10325100 [Shaded Woods - Chest] Repair- Human Effigy- Bleeding Serum
+10326230 [Shaded Woods] Torch
+
+// REGION 01b
+// Fragrant Branch of Yore AND Najka's Help
+10326200 [Shaded Woods] Flame Butterfly
+
+// REGION 01c
+// Fragrant Branch of Yore AND Pig's help
+10146500 [Brightstone Cove] Pickaxe
 
 // REGION 02
 // House Key
@@ -180,13 +303,68 @@
 10046090 [Majula] Ring of the Evil Eye+1
 10046130 [Majula] Radiant Lifegem
 10046150 [Majula] Homeward Bone
+10345000 [Grave of Saints - Chest] Titanite Slab
+10345010 [Grave of Saints - Chest] Token of Spite
+10345020 [Grave of Saints - Chest] Sublime Bone Dust
+10346000 [Grave of Saints] Human Effigy
+10346010 [Grave of Saints] Silverblack Spear- Silverblack Shield
+10346030 [Grave of Saints] Large Soul of a Nameless Soldier
+10346031 [Grave of Saints] Large Soul of a Brave Warrior
+10346040 [Grave of Saints] Homeward Bone
+10346060 [Grave of Saints] Pharros' Lockstone
+10346070 [Grave of Saints] Great Heal
+10346080 [Grave of Saints] Small Smooth & Silky Stone
+10346090 [Grave of Saints] Bleed Stone
+10346091 [Grave of Saints] Twinkling Titanite- Bleed Stone
+10346100 [Grave of Saints] Disc Chime
+10346110 [Grave of Saints] Homeward Bone
+10255010 [The Gutter - Chest] Black Firebomb
+10255030 [The Gutter - Chest] Great Club
+10255040 [The Gutter - Chest] Soul of a Nameless Soldier
+10255050 [The Gutter - Chest] Divine Blessing
+10255090 [The Gutter - Chest] Ring of Giants+1- Petrified Dragon Bone
+10255100 [The Gutter - Chest] Wicked Eye Greatshield
+10255110 [The Gutter - Chest] Aurous Set
+10255120 [The Gutter - Chest] Petrified Something- Simpleton's Spice- Skeptic's Spice
+10255130 [The Gutter - Chest] Shotel- Great Magic Weapon
+10256030 [The Gutter] Bandit Greataxe
+10256060 [The Gutter] Soul of a Nameless Soldier
+10256090 [The Gutter] Full Moon Sickle
+10256130 [The Gutter] Dark Fog- Torch
+10256160 [The Gutter] Fragrant Branch of Yore
+10256170 [The Gutter] Poison Moss
+10256210 [The Gutter] Fire Seed
+10256220 [The Gutter] Dung Pie
+10256230 [The Gutter] Large Soul of a Nameless Soldier
+10256240 [The Gutter] Lifegem
+10256250 [The Gutter] Dark Pyromancy Flame- Rotten Pine Resin
+10256260 [The Gutter] Titanite Chunk
+10256270 [The Gutter] Tattered Cloth Set
+10256280 [The Gutter] Soul of a Proud Knight
+10256290 [The Gutter] Flame Butterfly
+10256300 [The Gutter] Poison Moss
+10256310 [The Gutter] Poison Arrow
+10256320 [The Gutter] Dung Pie
+10256330 [The Gutter] Rotten Pine Resin
+10256340 [The Gutter] Lifegem
+10256350 [The Gutter] Silver Talisman
+10256370 [The Gutter] Large Soul of a Nameless Soldier
+10256380 [The Gutter] Scraps of Life- Torch
+10256390 [The Gutter] Radiant Lifegem
+10256400 [The Gutter] Estus Flask Shard
+10256410 [The Gutter] Human Effigy
+10256420 [The Gutter] Smooth & Silky Stone
+10256430 [The Gutter] Dragon Talon
+10256440 [The Gutter] Smooth & Silky Stone
+10256450 [The Gutter] Fragrant Branch of Yore
 
 // REGION 04
-// Surviving Fall Damage, Forgotten Key
+// Surviving Fall Damage AND Forgotten Key
 10045020 [Majula - Chest - Forgotten Key] Soul Vortex
 10045030 [Majula - Chest - Forgotten Key] Great Lightning Spear
 10045050 [Majula - Chest - Forgotten Key] Witchtree Branch- Witchtree Bellvine
 10046140 [Majula] Titanite Slab
+10256000 [The Gutter] Havel's Greatshield- Havel's Set
 
 // REGION 05
 // Lenigrast's Key
@@ -369,7 +547,7 @@
 10166080 [Lost Bastille] Radiant Lifegem- Large Titanite Shard
 
 // REGION 08
-// Pharros Lockstone x9
+// Pharros Lockstone x38
 10105080 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Chloranthy Ring
 10105090 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Large Titanite Shard
 
@@ -428,6 +606,9 @@
 10166250 [Lost Bastille] Dragon Tooth- Petrified Something- Brightbug
 10166390 [Lost Bastille] Falchion
 10166400 [Lost Bastille] Soul of a Proud Knight
+10335000 [Doors of Pharros - Chest] Faintstone- Twinkling Titanite
+10335040 [Doors of Pharros - Chest] Santier's Spear
+10336020 [Doors of Pharros] Human Effigy
 
 // REGION 14
 // (Fragrant Branch of Yore OR Antiquated Key) AND Bastille Key
@@ -449,6 +630,71 @@
 10196020 [Iron Keep] Possessed Armor Greatbow
 10196200 [Iron Keep] Human Effigy- Triclops Snake Troches
 
+// REGION 16
+// Surviving Fall Damage AND Pharros Lockstone
+10346020 [Grave of Saints] Whisper of Despair- Torch
+10346050 [Grave of Saints] Poison Moss
+
+// REGION 17
+// Surviving Fall Damage AND Fragrant Branch of Yore
+10256360 [The Gutter] Pharros' Lockstone
+
+// REGION 18
+// Fragrant Branch of Yore AND Fang Key
+10326160 [Shaded Woods] Fragrant Branch of Yore
+
+// REGION 19
+// Fragrant Branch of Yore AND Four Great Souls
+10326220 [Shaded Woods] Soul of a Hero
+10326250 [Shaded Woods] Covetous Gold Serpent Ring
+10326260 [Shaded Woods] Large Soul of a Nameless Soldier- Human Effigy
+20215000 [Drangleic Castle - Chest] Hunter's Blackbow- Iron Arrow
+20215010 [Drangleic Castle - Chest] Corrosive Urn
+20215011 [Drangleic Castle - Chest] Titanite Slab- Corrosive Urn
+20215020 [Drangleic Castle - Chest] Dark Arrow
+20215021 [Drangleic Castle - Chest] Dark Arrow
+20215050 [Drangleic Castle - Chest] Royal Soldier's Ring+1
+20215060 [Drangleic Castle - Chest] Soul Vessel- Fire Seed
+20215070 [Drangleic Castle - Chest] Estus Flask Shard
+20215080 [Drangleic Castle - Chest] Great Combustion- Fire Seed
+20215090 [Drangleic Castle - Chest] Firestorm
+20215100 [Drangleic Castle - Chest] Key to King's Passage- Ring of Lords
+20215110 [Drangleic Castle - Chest] Strong Magic Shield
+20215120 [Drangleic Castle - Chest] Old Knight Hammer
+20215130 [Drangleic Castle - Chest] Mastodon Greatsword- Mastodon Greatshield
+20215140 [Drangleic Castle - Chest] Caitha's Chime- Soul Greatsword
+20215160 [Drangleic Castle - Chest] Sublime Bone Dust
+20215170 [Drangleic Castle - Chest] Large Soul of a Brave Warrior- Twinkling Titanite
+20216000 [Drangleic Castle] Black Witch's Staff
+20216010 [Drangleic Castle] Faraam Set
+20216020 [Drangleic Castle] Soul of a Hero- Old Radiant Lifegem- Monastery Charm
+20216021 [Drangleic Castle] Great Magic Barrier
+20216030 [Drangleic Castle] Stone Soldier Spear
+20216040 [Drangleic Castle] Fire Greatarrow- Destructive Greatarrow
+20216050 [Drangleic Castle] Soul of a Brave Warrior
+20216090 [Drangleic Castle] Holy Water Urn
+20216100 [Drangleic Castle] Repair Powder- Flame Butterfly
+20216110 [Drangleic Castle] Titanite Slab
+20216130 [Drangleic Castle] Petrified Dragon Bone
+20216140 [Drangleic Castle] Torch
+
+// REGION 20
+// Fragrant Branch of Yore AND Tseldora Den Key
+10145070 [Brightstone Cove - Chest - Pate's Fight Room] Rusted Coin
+10145080 [Brightstone Cove - Chest - Pate's Fight Room] Engraved Gauntlets
+
+// REGION 21
+// Fragrant Branch of Yore AND Brightstone Key
+10145130 [Brightstone Cove - Chest - Spider Hall Side Room] Black Knight Ultra Greatsword- Great Fireball- Fire Seed
+
+// REGION 22
+// Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+20215150 [Drangleic Castle - Chest] Soul Bolt- Spell Quartz Ring+2- Bonfire Ascetic
+20216060 [Drangleic Castle] Lifegem
+20216061 [Drangleic Castle] Old Radiant Lifegem- Petrified Dragon Bone
+20216070 [Drangleic Castle] Soul of a Proud Knight- Twinkling Titanite
+20216080 [Drangleic Castle] Alluring Skull
+20216120 [Drangleic Castle] Petrified Something
 
 
 
