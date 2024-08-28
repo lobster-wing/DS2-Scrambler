@@ -674,7 +674,105 @@
     REQUIRES Fragrant Branch of Yore
     Bonfire 14650
 
+// ALDIA'S KEEP - TREASURE
+// Everything REQUIRES Fragrant Branch of Yore AND King's Ring
 
+10155000 [Aldia's Keep - Middle Dragon Hall] Great Magic Barrier
+    Metal chest in middle entrance hall
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10155010 [Aldia's Keep - Chest - Upper Dragon Hall] Dragonscale Ringà
+    Metal chest in upper entrance hall
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10155020 [Aldia's Keep - Chest - Breakable Wall Passage] Malformed Shell
+    Metal chest behind the breakable sealed door
+    REQUIRES Fragrant Branch of Yore AND King's Ring AND Working Enemy AI
+    Bonfire 0
+10155030 [Aldia's Keep - Chest - Mirrors in Dragon Hall] Brightbug
+    Metal chest next to the mirrors
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10156000 [Aldia's Keep] Fading Soul
+    Corpse in the entrance hall
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156010 [Aldia's Keep] Northern Ritual Band+2- Petrified Dragon Bone
+    Corpse next to the mirrors
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156020 [Aldia's Keep] Alluring Skull
+    Corpse outside in front of the keep
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156030 [Aldia's Keep] Radiant Lifegem
+    Corpse under a table in the central hallway
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15655
+10156031 [Aldia's Keep] Elizabeth Mushroom
+    Corpse under a table in the central hallway, NG+
+10156040 [Aldia's Keep] Large Soul of a Brave Warrior
+    Corpse nearby crates in the locked room
+    REQUIRES Fragrant Branch of Yore AND King's Ring AND Aldia Key
+    Bonfire 15655
+10156050 [Aldia's Keep] Simpleton's Spice- Twilight Herb
+    Corpse nearby the keep's back exit
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15655
+10156060 [Aldia's Keep] Crimson Water
+    Skeleton next to the giant basilisk cage in the entrance hall
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156070 [Aldia's Keep] Soul Geyser- Petrified Dragon Bone
+    Skeleton in the acid pit
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15655   
+10156080 [Aldia's Keep] Poison Throwing Knife
+    Corpse outside in front of the keep
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156090 [Aldia's Keep] Fire Seed
+    Corpse next to the stairs outside in front of the keep
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156100 [Aldia's Keep] Divine Blessing
+    Skeleton in the acid pit
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15655
+10156130 [Aldia's Keep] Pharros' Lockstone
+    Corpse behind green bottle shelves in the laboratory
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15655
+10156140 [Aldia's Keep] Soul of a Proud Knight
+    Corpse on a table in the locked room
+    REQUIRES Fragrant Branch of Yore AND King's Ring AND Aldia Key
+    Bonfire 15655
+10156150 [Aldia's Keep] Dragon Scale
+    Corpse next to the Aerie elevator
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15655
+10156160 [Aldia's Keep] Large Soul of a Nameless Soldier- Corrosive Urn
+    Skeleton in the acid pit
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15655
+10156161 [Aldia's Keep] Soul of a Hero- Corrosive Urn
+    Skeleton in the acid pit, NG+
+10156170 [Aldia's Keep] Soul of a Nameless Soldier- Petrified Dragon Bone
+    Corpse outside in front of the keep
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156180 [Aldia's Keep] Radiant Lifegem
+    Corpse in the fountain in front of the keep
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156190 [Aldia's Keep] Twilight Herb
+    Corpse to the left of the keep's entrance
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
+10156200 [Aldia's Keep] Large Soul of a Brave Warrior
+    Corpse stuck in a mirror
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 15650
 
 // LOST BASTILLE - TREASURE
 
@@ -1786,6 +1884,129 @@
     ?? Probably not accessible, or it's Rotten's hand drop ??
     It's a rotten corpse split in two within the Rotten's arena walls
 
+// DRAGON AERIE - TREASURE
+// Everything REQUIRES Fragrant Branch of Yore AND King's Ring
+
+10275000 [Dragon Aerie - Chest] Ring of Fortune
+    Metal chest in the crumbling ruins nearby Dragon Shrine entrance
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10275010 [Dragon Aerie - Chest] Titanite Slab
+    Wooden chest down in the courtyard leading to the Petrified Egg
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27655
+10275020 [Dragon Aerie - Chest] Twinkling Titanite
+    Wooden chest up the stairs next to the first mace drakekeeper
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27655
+10275021 [Dragon Aerie - Chest] Drakekeeper's Great Hammer
+    Wooden chest up the stairs next to the first mace drakekeeper, NG+
+10275030 [Dragon Aerie - Chest] Drakekeeper's Greataxe- Drakekeeper's Greatshield
+    Metal chest on a ledge below door to the final stairway
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10275040 [Dragon Aerie - Chest] Third Dragon Ring
+    Metal chest in the spiral staircase to Petrified Egg
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10275050 [Dragon Aerie - Chest] Crystal Magic Weapon- Fragrant Branch of Yore
+    Metal chest on the ledge outside the Petrified Egg room
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10275060 [Dragon Aerie - Chest] Judgment Set
+    Metal chest behind the Pharros gate under stairs in Dragon Shrine
+    REQUIRES Fragrant Branch of Yore AND King's Ring AND Pharros Lockstone
+    Bonfire 0
+10275070 [Dragon Aerie - Chest] Petrified Something
+    Metal chest next to Petrified Egg
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 0
+10276000 [Dragon Aerie] Soul of a Brave Warrior
+    Corpse on a ledge outside the third dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276010 [Dragon Aerie] Dragon Tooth
+    Corpse in the first dragon nest, behind eggs
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276020 [Dragon Aerie] Boltstone
+    Corpse in the first dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276030 [Dragon Aerie] Drakekeeper's Sword
+    Corpse in the first dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276040 [Dragon Aerie] Drakekeeper's Warpick
+    Corpse below the first dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276041 [Dragon Aerie] Elizabeth Mushroom
+    Corpse below the first dragon nest, NG+
+10276050 [Dragon Aerie] Pharros' Lockstone
+    Corpse on a ledge outside the third dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276060 [Dragon Aerie] Petrified Dragon Bone- Drakekeeper's Ultra Greatsword
+    Corpse outside the second dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276061 [Dragon Aerie] Petrified Dragon Bone
+    Corpse outside the second dragon nest, NG+
+10276070 [Dragon Aerie] Black Dragon Greataxe
+    Corpse between bridges going from first to second dragon nests
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276080 [Dragon Aerie] Large Soul of a Brave Warrior
+    Corpse in the second dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276090 [Dragon Aerie] Firedrake Stone
+    Corpse in the third dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276100 [Dragon Aerie] Ring of the Evil Eye+1
+    Corpse in the third dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276110 [Dragon Aerie] Dragon Charm- Black Dragon Greatsword
+    Corpse in the third dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276120 [Dragon Aerie] Black Dragon Warpick
+    Corpse in the first dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276130 [Dragon Aerie] Twinkling Titanite
+    Corpse on a ledge after the zipline returning from Dragon Shrine
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276140 [Dragon Aerie] Faintstone
+    Corpse in the priest tower in Dragon Shrine
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27655
+10276150 [Dragon Aerie] Skeptic's Spice- Twilight Herb
+    Corpse in the room before the spiral staircase to Petrified Egg
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27655
+10276160 [Dragon Aerie] Soul of a Great Hero
+    Corpse below the zipline to Dragon Shrine
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276170 [Dragon Aerie] Black Dragon Sword- Black Dragon Shield
+    Corpse in the third dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276180 [Dragon Aerie] Magic Stone
+    Corpse in the second dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+10276190 [Dragon Aerie] Bonfire Ascetic
+    Corpse below the first dragon nest
+    REQUIRES Fragrant Branch of Yore AND King's Ring
+    Bonfire 27650
+
+
 // PATH TO SHADED WOODS - TREASURE
 
 10295000 [Path to Shaded Woods - Chest] Estus Flask Shard
@@ -2164,6 +2385,258 @@
     REQUIRES Surviving Fall Damage
     Bonfire -30886
 
+// GIANT MEMORIES - TREASURE
+// Everything REQUIRES Ashen Mist Heart
+
+20105000 [Giant's Memory - Chest] Smooth & Silky Stone
+    Chest nearby Captain Drummond in Memory of Vammar
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+20105001 [Giant's Memory - Chest] Smooth & Silky Stone- Petrified Something
+    Chest nearby Captain Drummond in Memory of Vammar, NG+
+20105010 [Giant's Memory - Chest] Petrified Something
+    Metal chest outside in Memory of Vammar
+    REQUIRES Ashen Mist Heart
+    Bonfire 0
+20105020 [Giant's Memory - Chest] Soul of a Hero
+    Wooden chest next to Pharros contraptions in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 0
+20105030 [Giant's Memory - Chest] Fire Seed
+    Metal chest behind Pharros gate in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart AND Pharros Lockstone
+    Bonfire 0
+20105040 [Giant's Memory - Chest] Steel Set
+    Metal chest behind Pharros gate in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart AND Pharros Lockstone
+    Bonfire 0
+20105050 [Giant's Memory - Chest] Bonfire Ascetic
+    Metal chest in the room accessible from a lift in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 0
+20105060 [Giant's Memory - Chest] Simpleton's Spice- Skeptic's Spice
+    Metal chest in the room accessible from a lift in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 0
+20106000 [Giant's Memory] Fire Seed
+    Chest nearby Captain Drummond in Memory of Vammar
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+20106010 [Giant's Memory] Large Soul of a Nameless Soldier
+    Corpse up a ramp in the first couryard in Memory of Vammar
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+20106011 [Giant's Memory] Large Soul of a Brave Warrior
+    Corpse up a ramp in the first couryard in Memory of Vammar, NG+
+20106020 [Giant's Memory] Soul of a Great Hero- Bonfire Ascetic
+    Corpse on the roof in Memory of Vammar
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+20106030 [Giant's Memory] Giant Warrior Club
+    Corpse outside in Memory of Vammar
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+20106040 [Giant's Memory] Old Radiant Lifegem
+    Corpse outside in Memory of Vammar, atop stairs
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+20106050 [Giant's Memory] Fading Soul
+    Corpse next to Pharros contraptions in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 10675
+20106060 [Giant's Memory] Old Mirrah Greatsword
+    Corpse outside in Memory of Vammar, besides stairs
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+20106061 [Giant's Memory] Crimson Water
+    Corpse outside in Memory of Vammar, besides stairs, NG+
+20106070 [Giant's Memory] Soul of a Brave Warrior
+    Corpse above the gate between courtyards in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 10675
+20106080 [Giant's Memory] Soul of a Great Hero- Soul Vessel
+    Corpse to the right in the first courtyard in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 10675
+20106090 [Giant's Memory] Large Soul of a Proud Knight
+    Corpse in the first courtyard in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 10675
+20106100 [Giant's Memory] Bonfire Ascetic
+    Corpse outside in Memory of Jeigh
+    REQUIRES Soldier's Key AND King's Ring AND Ashen Mist Heart
+    Bonfire 10675
+20106110 [Giant's Memory] Old Radiant Lifegem
+    Corpse outside in Memory of Jeigh
+    REQUIRES Soldier's Key AND King's Ring AND Ashen Mist Heart
+    Bonfire 10675
+20106111 [Giant's Memory] Divine Blessing
+    Corpse outside in Memory of Jeigh, NG+
+20106120 [Giant's Memory] Fire Seed
+    Corpse outside in Memory of Jeigh, next to the Giant King
+    REQUIRES Soldier's Key AND King's Ring AND Ashen Mist Heart
+    Bonfire 10675
+20106130 [Giant's Memory] Wilted Dusk Herb
+    Corpse on the roof in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 10675
+20106140 [Giant's Memory] Soul of a Proud Knight
+    Corpse up the ladder in Memory of Orro
+    REQUIRES Soldier's Key AND Ashen Mist Heart
+    Bonfire 10675
+20106141 [Giant's Memory] Soul of a Hero
+    Corpse up the ladder in Memory of Orro, NG+
+20106150 [Giant's Memory] Soul of a Great Hero- Torch
+    Corpse outside in Memory of Vammar, near the dead giant
+    REQUIRES Ashen Mist Heart
+    Bonfire 10675
+
+// SHRINE OF AMANA
+// Everything REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+
+20115000 [Shrine of Amana - Chest] Wilted Dusk Herb- Skeptic's Spice
+    Wooden chest in storage cave nearby first bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20115010 [Shrine of Amana - Chest] Elizabeth Mushroom
+    Wooden chest in the water next to Tower of Prayer
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20115020 [Shrine of Amana - Chest] Dragon Charm
+    Wooden chest before entrance to first tunnel
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20115030 [Shrine of Amana - Chest] Archdrake Mace
+    Wooden chest behind first Milfanito house
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20115040 [Shrine of Amana - Chest] Twinkling Titanite- Smooth & Silky Stone
+    Metal chest inside brightbug cave in first tunnel
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20115050 [Shrine of Amana - Chest] Magic Arrow
+    Wooden chest next to stairs before the Rise of the Dead
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11670
+20115051 [Shrine of Amana - Chest] Magic Arrow- Dark Arrow
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage, NG+
+20115060 [Shrine of Amana - Chest] Sunlight Blade
+    Metal chest at the end of the long crumbled pillar path
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20115070 [Shrine of Amana - Chest] King's Set
+    Metal chest inside the king's cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Defeated Vendrick
+    Bonfire 0
+20115080 [Shrine of Amana - Chest] Fire Tempest
+    Metal chest far in the water between Schmidt's house and the second tunnel
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20115090 [Shrine of Amana - Chest] Helix Halberd
+    Metal chest behind Pharros gate
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Pharros Lockstone
+    Bonfire 0
+20115100 [Shrine of Amana - Chest] Manslayer
+    Metal chest in Rise of the Dead
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Fragrant Branch of Yore
+    Bonfire 0
+20115110 [Shrine of Amana - Chest] Bonfire Ascetic
+    Metal chest in Rise of the Dead
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Fragrant Branch of Yore
+    Bonfire 0
+20115500 [Shrine of Amana - Chest] Soul of the King
+    Chair inside the king's cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Defeated Vendrick
+    Bonfire 0
+20116000 [Shrine of Amana] Large Soul of a Proud Knight- Staff of Amana
+    Corpse on the cliffside on the right after Rhoy's resting place
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11660
+20116010 [Shrine of Amana] Large Soul of a Nameless Soldier
+    Corpse below the spiral staircase in tower of prayer
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20116011 [Shrine of Amana] Soul of a Brave Warrior
+    Corpse below the spiral staircase in tower of prayer, NG+
+20116020 [Shrine of Amana] Soul of a Lost Undead- Skeptic's Spice
+    Corpse on the path after the first Milfanito house
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20116030 [Shrine of Amana] Estus Flask Shard
+    Corpse at the end of the long crumbled pillar path
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11655
+20116040 [Shrine of Amana] Fire Seed
+    Corpse next to the crumbled circular ruins and the bridge to the king's cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11655
+20116060 [Shrine of Amana] Skeptic's Spice
+    Corpse in the pillar circle after Rhoy's resting place
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11660
+20116070 [Shrine of Amana] Soul of a Brave Warrior- Petrified Dragon Bone
+    Corpse in the pillar circle after Rhoy's resting place
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11660
+20116080 [Shrine of Amana] Red Iron Twinblade- Soul of a Proud Knight
+    Corpse in the pillar circle after Rhoy's resting place
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11660
+20116090 [Shrine of Amana] Homing Crystal Soulmass
+    Corpse in the pillar circle after Rhoy's resting place
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11660
+20116100 [Shrine of Amana] Large Soul of a Proud Knight- Green Blossom
+    Corpse before the wounded Milfanito's house
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11660
+20116110 [Shrine of Amana] Fire Seed
+    Corpse in Rise of the Dead
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Fragrant Branch of Yore
+    Bonfire 11670
+20116120 [Shrine of Amana] Large Soul of a Proud Knight
+    Corpse on the path after the first Milfanito house
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650 
+20116130 [Shrine of Amana] Flame Butterfly- Twinkling Titanite
+    Corpse in a branch next to the first bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20116140 [Shrine of Amana] Soul of a Hero- Divine Blessing
+    Corpse to the right of the second tunnel entrance
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11655
+20116150 [Shrine of Amana] Green Blossom
+    Corpse behind roots after the castle elevator
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+20116160 [Shrine of Amana] Soul of a Lost Undead- Torch
+    Corpse on the path after the first Milfanito house
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650 
+20116170 [Shrine of Amana] Large Soul of a Proud Knight- Old Radiant Lifegem
+    Corpse in Schmidt's house (formerly Felicia's)
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11655
+20116171 [Shrine of Amana] Large Soul of a Brave Warrior- Elizabeth Mushroom
+    Corpse in Schmidt's house (formerly Felicia's), NG+
+20116190 [Shrine of Amana] Alluring Skull
+    Skeleton up a tilted pillar before the second tunnel
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11655
+20116200 [Shrine of Amana] Singer's Dress- Life Ring+2
+    Corpse at the end of the root cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11655
+20116210 [Shrine of Amana] Smooth & Silky Stone
+    Skeleton in Schmidt's house (formerly Felicia's)
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11655
+20116220 [Shrine of Amana] Human Effigy
+    Skeleton on an islet before the first Milfanito house
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 11650
+
 // DRANGLEIC CASTLE
 // Everything REQUIRES Fragrant Branch of Yore AND Four Great Souls
 
@@ -2303,3 +2776,127 @@
     Skeleton in the painting room
     REQUIRES Fragrant Branch of Yore AND Four Great Souls
     Bonfire 21650
+
+// UNDEAD CRYPT - TREASURE
+// Everything REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+
+20245000 [Undead Crypt - Chest] Soul Vessel
+    Metal chest next to the second ladder in the great hall
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20245010 [Undead Crypt - Chest] Magic Stone- Darknight Stone
+    Wooden chest before the long hall guarded by the king's men
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20245020 [Undead Crypt - Chest] Dried Fingers- Bonfire Ascetic- Twinkling Titanite
+    Metal chest up the ladder, overlooking the second tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20245030 [Undead Crypt - Chest] Crushed Eye Orb- Fire Seed
+    Metal chest up the first ladder in the great hall
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20245040 [Undead Crypt - Chest] Olenford's Staff- Great Lightning Spear
+    Metal chest behind Pharros gate in the third tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Pharros Lockstone
+    Bonfire 0
+20245050 [Undead Crypt - Chest] Avelyn- Heavy Bolt
+    Metal chest behind an illusory wall before the ghost corridor
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20245070 [Undead Crypt - Chest] Fragrant Branch of Yore
+    Metal chest before Velstadt
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20245080 [Undead Crypt - Chest] Torch
+    Metal chest before Velstadt
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20245090 [Undead Crypt - Chest] Poison Throwing Knife
+    Metal chest before Velstadt
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20245100 [Undead Crypt - Chest] Darknight Stone
+    Metal chest before Velstadt
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0
+20246000 [Undead Crypt] Radiant Lifegem
+    Skeleton at the entrance
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24655
+20246010 [Undead Crypt] Large Soul of a Nameless Soldier
+    Corpse next to the grave wardens
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24655
+20246011 [Undead Crypt] Soul of a Brave Warrior
+    Corpse next to the grave wardens, NG+
+20246030 [Undead Crypt] Simpleton's Spice- Soul of a Great Hero
+    Skeleton on a ledge below the entrance to the great hall
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24655
+20246040 [Undead Crypt] Simpleton's Spice- Black Firebomb
+    Skeleton in the first tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246050 [Undead Crypt] Titanite Slab
+    Skeleton in the second tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246070 [Undead Crypt] Large Soul of a Proud Knight- Dragon Charm
+    Skeleton in a dead end in the third tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246100 [Undead Crypt] Soul of a Hero
+    Skeleton up the second ladder in the great hall
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246110 [Undead Crypt] Titanite Chunk- Petrified Dragon Bone
+    Skeleton in the first tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246111 [Undead Crypt] Titanite Chunk- Petrified Dragon Bone
+    Skeleton in the first tombstone room, NG+
+20246120 [Undead Crypt] Soul of a Lost Undead
+    Skeleton in the second tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650  
+20246121 [Undead Crypt] Large Soul of a Brave Warrior
+    Skeleton in the second tombstone room, NG+
+20246130 [Undead Crypt] Divine Blessing- Soul of a Hero
+    Skeleton before the ghost corridor
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650 
+20246140 [Undead Crypt] Mace of the Insolent- Soul of a Hero
+    Skeleton in the third tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246150 [Undead Crypt] Radiant Lifegem- Homeward Bone
+    Skeleton in the third tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246151 [Undead Crypt] Elizabeth Mushroom- Homeward Bone
+    Skeleton in the third tombstone room, NG+
+20246180 [Undead Crypt] Human Effigy
+    Skeleton in the first tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246190 [Undead Crypt] Smooth & Silky Stone
+    Skeleton in the first tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246200 [Undead Crypt] Smooth & Silky Stone
+    Skeleton in the first tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246210 [Undead Crypt] Smooth & Silky Stone
+    Skeleton in the first tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246220 [Undead Crypt] Soul of a Hero
+    Skeleton in the first tombstone room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 24650
+20246500 [Undead Crypt] King's Ring
+    Vendrick's armor on the ground in his arena
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
+    Bonfire 0

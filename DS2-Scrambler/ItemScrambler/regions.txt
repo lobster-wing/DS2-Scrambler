@@ -148,7 +148,7 @@
 
 // REGION 01
 // Fragrant Branch of Yore x6
-// +Branches past Old Akelarre : x6 (lions)
+// +Branches past Old Akelarre : x6 (lions), x1 (rise of the dead), x3 (aldia's), x1 (dragon aerie)
 10026100 [Things Betwixt] Estus Flask Shard
 10305010 [Unseen Path to Heide - Chest] Knight Set
 10306030 [Unseen Path to Heide] Estus Flask Shard
@@ -547,7 +547,7 @@
 10166080 [Lost Bastille] Radiant Lifegem- Large Titanite Shard
 
 // REGION 08
-// Pharros Lockstone x38
+// Pharros Lockstone x44
 10105080 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Chloranthy Ring
 10105090 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Large Titanite Shard
 
@@ -695,6 +695,208 @@
 20216070 [Drangleic Castle] Soul of a Proud Knight- Twinkling Titanite
 20216080 [Drangleic Castle] Alluring Skull
 20216120 [Drangleic Castle] Petrified Something
+20115000 [Shrine of Amana - Chest] Wilted Dusk Herb- Skeptic's Spice
+20115010 [Shrine of Amana - Chest] Elizabeth Mushroom
+20115020 [Shrine of Amana - Chest] Dragon Charm
+20115030 [Shrine of Amana - Chest] Archdrake Mace
+20115040 [Shrine of Amana - Chest] Twinkling Titanite- Smooth & Silky Stone
+20115050 [Shrine of Amana - Chest] Magic Arrow
+20115051 [Shrine of Amana - Chest] Magic Arrow- Dark Arrow
+20115060 [Shrine of Amana - Chest] Sunlight Blade
+20115080 [Shrine of Amana - Chest] Fire Tempest
+20116000 [Shrine of Amana] Large Soul of a Proud Knight- Staff of Amana
+20116010 [Shrine of Amana] Large Soul of a Nameless Soldier
+20116011 [Shrine of Amana] Soul of a Brave Warrior
+20116020 [Shrine of Amana] Soul of a Lost Undead- Skeptic's Spice
+20116030 [Shrine of Amana] Estus Flask Shard
+20116040 [Shrine of Amana] Fire Seed
+20116060 [Shrine of Amana] Skeptic's Spice
+20116070 [Shrine of Amana] Soul of a Brave Warrior- Petrified Dragon Bone
+20116080 [Shrine of Amana] Red Iron Twinblade- Soul of a Proud Knight
+20116090 [Shrine of Amana] Homing Crystal Soulmass
+20116100 [Shrine of Amana] Large Soul of a Proud Knight- Green Blossom
+20116120 [Shrine of Amana] Large Soul of a Proud Knight
+20116130 [Shrine of Amana] Flame Butterfly- Twinkling Titanite
+20116140 [Shrine of Amana] Soul of a Hero- Divine Blessing
+20116150 [Shrine of Amana] Green Blossom
+20116160 [Shrine of Amana] Soul of a Lost Undead- Torch
+20116170 [Shrine of Amana] Large Soul of a Proud Knight- Old Radiant Lifegem
+20116171 [Shrine of Amana] Large Soul of a Brave Warrior- Elizabeth Mushroom
+20116190 [Shrine of Amana] Alluring Skull
+20116200 [Shrine of Amana] Singer's Dress- Life Ring+2
+20116210 [Shrine of Amana] Smooth & Silky Stone
+20116220 [Shrine of Amana] Human Effigy
+20245000 [Undead Crypt - Chest] Soul Vessel
+20245010 [Undead Crypt - Chest] Magic Stone- Darknight Stone
+20245020 [Undead Crypt - Chest] Dried Fingers- Bonfire Ascetic- Twinkling Titanite
+20245030 [Undead Crypt - Chest] Crushed Eye Orb- Fire Seed
+20245050 [Undead Crypt - Chest] Avelyn- Heavy Bolt
+20245070 [Undead Crypt - Chest] Fragrant Branch of Yore
+20245080 [Undead Crypt - Chest] Torch
+20245090 [Undead Crypt - Chest] Poison Throwing Knife
+20245100 [Undead Crypt - Chest] Darknight Stone
+20246000 [Undead Crypt] Radiant Lifegem
+20246010 [Undead Crypt] Large Soul of a Nameless Soldier
+20246011 [Undead Crypt] Soul of a Brave Warrior
+20246030 [Undead Crypt] Simpleton's Spice- Soul of a Great Hero
+20246040 [Undead Crypt] Simpleton's Spice- Black Firebomb
+20246050 [Undead Crypt] Titanite Slab
+20246070 [Undead Crypt] Large Soul of a Proud Knight- Dragon Charm
+20246100 [Undead Crypt] Soul of a Hero
+20246110 [Undead Crypt] Titanite Chunk- Petrified Dragon Bone
+20246111 [Undead Crypt] Titanite Chunk- Petrified Dragon Bone
+20246120 [Undead Crypt] Soul of a Lost Undead
+20246121 [Undead Crypt] Large Soul of a Brave Warrior
+20246130 [Undead Crypt] Divine Blessing- Soul of a Hero
+20246140 [Undead Crypt] Mace of the Insolent- Soul of a Hero
+20246150 [Undead Crypt] Radiant Lifegem- Homeward Bone
+20246151 [Undead Crypt] Elizabeth Mushroom- Homeward Bone
+20246180 [Undead Crypt] Human Effigy
+20246190 [Undead Crypt] Smooth & Silky Stone
+20246200 [Undead Crypt] Smooth & Silky Stone
+20246210 [Undead Crypt] Smooth & Silky Stone
+20246220 [Undead Crypt] Soul of a Hero
+20246500 [Undead Crypt] King's Ring
+
+// REGION 22a
+// Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Fragrant Branch of Yore
+20115100 [Shrine of Amana - Chest] Manslayer
+20115110 [Shrine of Amana - Chest] Bonfire Ascetic
+20116110 [Shrine of Amana] Fire Seed
+
+// REGION 23
+// Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Defeated Vendrick
+20115070 [Shrine of Amana - Chest] King's Set
+20115500 [Shrine of Amana - Chest] Soul of the King
+
+// REGION 24
+// Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage AND Pharros Lockstone
+20115090 [Shrine of Amana - Chest] Helix Halberd
+20245040 [Undead Crypt - Chest] Olenford's Staff- Great Lightning Spear
+
+// REGION 25
+// Fragrant Branch of Yore AND King's Ring
+10155000 [Aldia's Keep - Middle Dragon Hall] Great Magic Barrier
+10155010 [Aldia's Keep - Chest - Upper Dragon Hall] Dragonscale Ring
+10155030 [Aldia's Keep - Chest - Mirrors in Dragon Hall] Brightbug
+10156000 [Aldia's Keep] Fading Soul
+10156010 [Aldia's Keep] Northern Ritual Band+2- Petrified Dragon Bone
+10156020 [Aldia's Keep] Alluring Skull
+10156030 [Aldia's Keep] Radiant Lifegem
+10156031 [Aldia's Keep] Elizabeth Mushroom
+10156050 [Aldia's Keep] Simpleton's Spice- Twilight Herb
+10156060 [Aldia's Keep] Crimson Water
+10156070 [Aldia's Keep] Soul Geyser- Petrified Dragon Bone
+10156080 [Aldia's Keep] Poison Throwing Knife
+10156090 [Aldia's Keep] Fire Seed
+10156100 [Aldia's Keep] Divine Blessing
+10156130 [Aldia's Keep] Pharros' Lockstone
+10156150 [Aldia's Keep] Dragon Scale
+10156160 [Aldia's Keep] Large Soul of a Nameless Soldier- Corrosive Urn
+10156161 [Aldia's Keep] Soul of a Hero- Corrosive Urn
+10156170 [Aldia's Keep] Soul of a Nameless Soldier- Petrified Dragon Bone
+10156180 [Aldia's Keep] Radiant Lifegem
+10156190 [Aldia's Keep] Twilight Herb
+10156200 [Aldia's Keep] Large Soul of a Brave Warrior
+10275000 [Dragon Aerie - Chest] Ring of Fortune
+10275010 [Dragon Aerie - Chest] Titanite Slab
+10275020 [Dragon Aerie - Chest] Twinkling Titanite
+10275021 [Dragon Aerie - Chest] Drakekeeper's Great Hammer
+10275030 [Dragon Aerie - Chest] Drakekeeper's Greataxe- Drakekeeper's Greatshield
+10275040 [Dragon Aerie - Chest] Third Dragon Ring
+10275050 [Dragon Aerie - Chest] Crystal Magic Weapon- Fragrant Branch of Yore
+10275070 [Dragon Aerie - Chest] Petrified Something
+10276000 [Dragon Aerie] Soul of a Brave Warrior
+10276010 [Dragon Aerie] Dragon Tooth
+10276020 [Dragon Aerie] Boltstone
+10276030 [Dragon Aerie] Drakekeeper's Sword
+10276040 [Dragon Aerie] Drakekeeper's Warpick
+10276041 [Dragon Aerie] Elizabeth Mushroom
+10276050 [Dragon Aerie] Pharros' Lockstone
+10276060 [Dragon Aerie] Petrified Dragon Bone- Drakekeeper's Ultra Greatsword
+10276061 [Dragon Aerie] Petrified Dragon Bone
+10276070 [Dragon Aerie] Black Dragon Greataxe
+10276080 [Dragon Aerie] Large Soul of a Brave Warrior
+10276090 [Dragon Aerie] Firedrake Stone
+10276100 [Dragon Aerie] Ring of the Evil Eye+1
+10276110 [Dragon Aerie] Dragon Charm- Black Dragon Greatsword
+10276120 [Dragon Aerie] Black Dragon Warpick
+10276130 [Dragon Aerie] Twinkling Titanite
+10276140 [Dragon Aerie] Faintstone
+10276150 [Dragon Aerie] Skeptic's Spice- Twilight Herb
+10276160 [Dragon Aerie] Soul of a Great Hero
+10276170 [Dragon Aerie] Black Dragon Sword- Black Dragon Shield
+10276180 [Dragon Aerie] Magic Stone
+10276190 [Dragon Aerie] Bonfire Ascetic
+
+// REGION 25a
+// Fragrant Branch of Yore AND King's Ring AND Working Enemy AI
+10155020 [Aldia's Keep - Chest - Breakable Wall Passage] Malformed Shell
+
+// REGION 26
+// Fragrant Branch of Yore AND King's Ring AND Aldia Key
+10156040 [Aldia's Keep] Large Soul of a Brave Warrior
+10156140 [Aldia's Keep] Soul of a Proud Knight
+
+// REGION 27
+// Fragrant Branch of Yore AND King's Ring AND Pharros Lockstone
+10275060 [Dragon Aerie - Chest] Judgment Set
+
+// REGION 28
+// Ashen Mist Heart
+20105000 [Giant's Memory - Chest] Smooth & Silky Stone
+20105001 [Giant's Memory - Chest] Smooth & Silky Stone- Petrified Something
+20105010 [Giant's Memory - Chest] Petrified Something
+20106000 [Giant's Memory] Fire Seed
+20106010 [Giant's Memory] Large Soul of a Nameless Soldier
+20106011 [Giant's Memory] Large Soul of a Brave Warrior
+20106020 [Giant's Memory] Soul of a Great Hero- Bonfire Ascetic
+20106030 [Giant's Memory] Giant Warrior Club
+20106040 [Giant's Memory] Old Radiant Lifegem
+20106060 [Giant's Memory] Old Mirrah Greatsword
+20106061 [Giant's Memory] Crimson Water
+20106150 [Giant's Memory] Soul of a Great Hero- Torch
+
+// REGION 29
+// Soldier's Key AND Ashen Mist Heart
+20105020 [Giant's Memory - Chest] Soul of a Hero
+20105050 [Giant's Memory - Chest] Bonfire Ascetic
+20105060 [Giant's Memory - Chest] Simpleton's Spice- Skeptic's Spice
+20106050 [Giant's Memory] Fading Soul
+20106070 [Giant's Memory] Soul of a Brave Warrior
+20106080 [Giant's Memory] Soul of a Great Hero- Soul Vessel
+20106090 [Giant's Memory] Large Soul of a Proud Knight
+20106130 [Giant's Memory] Wilted Dusk Herb
+20106140 [Giant's Memory] Soul of a Proud Knight
+20106141 [Giant's Memory] Soul of a Hero
+
+// REGION 30
+// Soldier's Key AND Ashen Mist Heart AND Pharros Lockstone
+20105030 [Giant's Memory - Chest] Fire Seed
+20105040 [Giant's Memory - Chest] Steel Set
+
+// REGION 31
+// Soldier's Key AND King's Ring AND Ashen Mist Heart
+20106100 [Giant's Memory] Bonfire Ascetic
+20106110 [Giant's Memory] Old Radiant Lifegem
+20106111 [Giant's Memory] Divine Blessing
+20106120 [Giant's Memory] Fire Seed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
