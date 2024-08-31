@@ -2900,3 +2900,848 @@
     Vendrick's armor on the ground in his arena
     REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Key to King's Passage
     Bonfire 0
+
+// SHULVA - TREASURE
+// Everything REQUIRES Surviving Fall Damage AND Dragon Talon
+
+50355010 [Shulva - Chest] Dried Root
+    Wooden chest in soldier room overlooking first circular gate 
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50355020 [Shulva - Chest] Boltstone- Bleed Stone
+    Wooden chest down the trapped staircase 
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50355030 [Shulva - Chest] Twinkling Titanite- Petrified Dragon Bone
+    Wooden chest down the trapped staircase 
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50355050 [Shulva - Chest] Catarina Set
+    Metal chest inside first Sanctum Knight room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355060 [Shulva - Chest] Puzzling Stone Sword
+    Metal chest down the trapped staircase 
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355070 [Shulva - Chest] Bloodbite Ring+1
+    Metal chest in upper spiked floor room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355080 [Shulva - Chest] Divine Blessing
+    ?? Does not exist ??
+50355090 [Shulva - Chest] Flynn's Ring
+    Metal chest after the vermin room in Dragon's Sanctum
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355100 [Shulva - Chest] Silver Talisman
+    ?? Does not exist ??
+50355110 [Shulva - Chest] Lloyd's Talisman
+    Wooden chest in upper spiked floor room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50355120 [Shulva - Chest] Dragon Stone
+    Metal chest inside sealed alcove in the spiked floor room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355130 [Shulva - Chest] Denial
+    Metal chest past the spiked floor room's circular gate
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355140 [Shulva - Chest] Dark Greatsword
+    Metal chest after Graverobber
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355150 [Shulva - Chest] Petrified Something
+    Metal chest in Cave of the Dead
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355180 [Shulva - Chest] Flower Skirt
+    Metal chest after Graverobber
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355190 [Shulva - Chest] Dried Root
+    Metal chest in Priestess Room
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355200 [Shulva - Chest] Dried Root
+    Metal chest in Priestess Room
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355210 [Shulva - Chest] Dried Root
+    Metal chest in Priestess Room
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355220 [Shulva - Chest] Lightning Clutch Ring
+    Metal chest in Priestess Room
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355230 [Shulva - Chest] Bonfire Ascetic
+    Metal chest in Priestess Room
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355240 [Shulva - Chest] Sanctum Shield
+    Metal chest atop Dragon's Sanctum
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire 0
+50355250 [Shulva - Chest] Destructive Greatarrow
+    Metal chest inside first Sanctum Knight room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355260 [Shulva - Chest] Soul Vessel
+    Metal chest inside first Sanctum Knight room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355270 [Shulva - Chest] Old Growth Balm
+    Metal chest inside first Sanctum Knight room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355280 [Shulva - Chest] Titanite Slab
+    Metal chest inside first Sanctum Knight room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50355330 [Shulva - Chest] Twinkling Titanite
+    ?? Does not exist ??
+50355340 [Shulva - Chest] Bleed Stone
+    ?? Does not exist ??
+50355350 [Shulva - Chest] Twinkling Titanite- Petrified Dragon Bone
+    Metal chest behind illusory wall in soldier room overlooking first circular gate
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire 0
+50356000 [Shulva] Poisonbite Ring+1
+    Corpse on the roof of a pillar house
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356010 [Shulva] Goldenfruit Balm
+    Corpse in vermin room in Sanctum Walk
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356020 [Shulva] Lightning Urn
+    Corpse between a ledge and stairs in Sanctum Walk
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356030 [Shulva] Old Growth Balm
+    Corpse on a ledge outside below the vermin room in Sanctum Walk
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356040 [Shulva] Sanctum Mace
+    Corpse in a stone pillar down a stone bridge in front of second series of moving pillars
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356050 [Shulva] Sanctum Repeating Crossbow
+    Corpse on a ledge down the Tower of Prayer bonfire
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356060 [Shulva] Lloyd's Talisman
+    Corpse on the path between the second series of moving pillars
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356070 [Shulva] Soul of a Lost Undead
+    ?? Does not exist ??
+50356080 [Shulva] Vine Balm
+    ?? Does not exist ??  
+50356090 [Shulva] Soul of a Hero
+    Corpse in the trapped staircase
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356100 [Shulva] Human Effigy
+    Corpse in the trapped staircase
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356110 [Shulva] Crown of the Sunken King
+    Crown after defeating Sinh
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire 0
+50356130 [Shulva] Dragon Charm
+    Corpse before arriving in Shulva
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356140 [Shulva] Old Growth Balm
+    Corpse next to Sanctum Walk bonfire
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356150 [Shulva] Human Effigy
+    Corpse before bridge to Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29861
+50356160 [Shulva] Lifegem
+    Corpse next to the first moving pillars
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356170 [Shulva] Poison Stone
+    Corpse next to moving pillars
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356180 [Shulva] Titanite Chunk
+    ?? Does not exist ??
+50356190 [Shulva] Elizabeth Mushroom
+    Corpse on a ledge outside a vermin building in Sanctum Walk
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356200 [Shulva] Magic Bolt
+    Corpse before the second series of moving pillars
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356210 [Shulva] Blackweed Balm
+    Corpse after Graverobber
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire -29881
+50356220 [Shulva] Twinkling Titanite
+    Corpse on the path between the second series of moving pillars
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356230 [Shulva] Repair Powder
+    ?? Does not exist ??
+50356240 [Shulva] Rusted Coin
+    Corpse next to the elevator to Cave of the Dead
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356250 [Shulva] Focus Souls
+    Corpse before the bridge to the Sanctum next to the elevator to Cave of the Dead
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356260 [Shulva] Human Effigy
+    Corpse before first circular gate
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356270 [Shulva] Repair Powder
+    Corpse in an alcove to the left in Dragon's Sanctum narrow hallways
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356280 [Shulva] Old Growth Balm
+    Corpse in the vermin room in Dragon's Sanctum
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356290 [Shulva] Lifegem
+    Corpse in the vermin room in Dragon's Sanctum
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356300 [Shulva] Dung Pie
+    Corpse in the vermin room in Dragon's Sanctum
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356310 [Shulva] Poison Throwing Knife
+    Corpse in the vermin room in Dragon's Sanctum
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356320 [Shulva] Torch
+    Skeleton on the spiked floor
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50356330 [Shulva] Holy Water Urn
+    Skeleton on the spiked floor
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50356340 [Shulva] Twinkling Titanite
+    Skeleton on the spiked floor
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50356350 [Shulva] Human Effigy
+    Skeleton on the spiked floor
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50356360 [Shulva] Old Growth Balm
+    Corpse before Jester room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50356370 [Shulva] Soul of a Great Hero
+    Corpse in lair of the imperfect
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29861
+50356380 [Shulva] Notched Whip
+    Corpse next to the pagan tree
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29881
+50356390 [Shulva] Torch
+    Corpse after Graverobber
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire -29881
+50356400 [Shulva] Long Bow
+    Corpse inside fourth moving pillar
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356410 [Shulva] Torch
+    Corpse in the moving pillar to the pagan tree
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356420 [Shulva] Sanctum Crossbow
+    Corpse next to the Hidden Sanctum Chamber bonfire
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356430 [Shulva] Soul of a Great Hero- Dragon Charm
+    Corpse inside a closed chamber at the entrance of Dragon's Sanctum
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29851
+50356440 [Shulva] Petrified Dragon Bone
+    Corpse in lair of the imperfect
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29861
+50356450 [Shulva] Hexing Urn
+    Corpse in upper Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29856
+50356460 [Shulva] Large Soul of a Brave Warrior
+    Corpse in Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29856
+50356470 [Shulva] Twinkling Titanite
+    Corpse in Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29856
+50356480 [Shulva] Small Smooth & Silky Stone
+    Corpse in Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29856
+50356490 [Shulva] Twinkling Titanite
+    Corpse in Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29856
+50356500 [Shulva] Vine Balm
+    Corpse in Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29856
+50356510 [Shulva] Drakeblood Greatsword
+    Corpse after Dragonstone contraption
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29861
+50356520 [Shulva] Drakeblood Set
+    Corpse next to opened metal chests in Sanctum Interior
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29856
+50356530 [Shulva] Promised Walk of Peace
+    Corpse next to the pagan tree
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29881
+50356540 [Shulva] Yorgh's Ring
+    Corpse in Sinh's arena
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+    Bonfire -29871
+50356560 [Shulva] Dark Quartz Ring+3
+    Corpse atop a pillar next to the first moving pillars
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356570 [Shulva] Darknight Stone
+    Corpse on a moving pillar in the second series
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356580 [Shulva] Thunder Quartz Ring+3
+    Corpse on a moving pillar in the second series
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356590 [Shulva] Cracked Red Eye Orb
+    Corpse next to the turtle in Sanctum Walk
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356600 [Shulva] Throwing Knife
+    Corpse next to the turtle in Sanctum Walk
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29886
+50356610 [Shulva] Brightbug
+    Corpse in Cave of the Dead
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire -29881
+50356620 [Shulva] Bonfire Ascetic
+    Corpse in Cave of the Dead
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire -29881
+50356630 [Shulva] Eternal Sanctum Key
+    Skeleton in Sanctum Knight pit room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50356640 [Shulva] Sanctum Knight Set
+    Skeleton in Sanctum Knight pit room
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29866
+50356650 [Shulva] Dried Root
+    Corpse in lair of the imperfect
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29861
+50356660 [Shulva] Human Effigy
+    Corpse in lair of the imperfect
+    REQUIRES Surviving Fall Damage AND Dragon Talon
+    Bonfire -29861
+50356670 [Shulva] Alluring Skull
+    Corpse in Cave of the Dead, under petrifying trap
+    REQUIRES Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+    Bonfire -29881
+
+// BRUME TOWER - TREASURE
+// Everything REQUIRES Rotunda Lockstone AND Heavy Iron Key
+
+50365000 [Brume Tower - Chest] Bonfire Ascetic- Human Effigy
+    Metal chest on the floor above the first Ashen Warrior and Ashen Idol encounter room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire 0
+50365010 [Brume Tower - Chest]  Caestus
+    Wooden chest down the ladder after the Barrel Carrier introduction room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50365020 [Brume Tower - Chest] Life Ring+3
+    Metal chest in the four doors area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire 0
+50365030 [Brume Tower - Chest] Old Radiant Lifegem
+    Wooden chest in the cursed area in the Foyer
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28881
+50365040 [Brume Tower - Chest] Human Effigy
+    ?? Does not exist ??
+50365050 [Brume Tower - Chest] Blacksteel Katana
+    ?? Does not exist ??
+50365060 [Brume Tower - Chest] Repair Powder
+    ?? Does not exist ??
+50365070 [Brume Tower - Chest] Smooth & Silky Stone
+    ?? Does not exist ??
+50365080 [Brume Tower - Chest] Sorcery Clutch Ring
+    Metal chest before the elevator to Fume Knight
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire 0
+50365090 [Brume Tower - Chest] Twinkling Titanite
+    Wooden chest next to the upper Brume Tower bonfire
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50365500 [Brume Tower - Chest] Old Radiant Lifegem- Wilted Dusk Herb
+    Metal chest behind illusory wall after the first lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire 0
+50365510 [Brume Tower - Chest] Soul Vessel
+    Metal chest behind illusory wall after the first lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire 0
+50365530 [Brume Tower - Chest] Catarina Gauntlets- Catarina Leggings
+    ?? Does not exist ??
+50365540 [Brume Tower - Chest] Catarina Gauntlets- Catarina Leggings
+    Metal chest behind destructible wall in the metal bar gates and levers area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Barrel Carrier help
+    Bonfire 0
+50365550 [Brume Tower - Chest] Pilgrim's Spontoon
+    Metal chest in an alcove accessible with the short elevator nearby the four doors area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire 0
+50365560 [Brume Tower - Chest] Titanite Slab
+    Metal chest next to the third ladder in upper Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire 0
+50365570 [Brume Tower - Chest] Fire Snake
+    Metal chest in the cursed area in the Foyer
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire 0
+50365580 [Brume Tower - Chest] Ashen Warrior Sword
+    Metal chest accessed by jumping off the elevator going up from the Foyer
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire 0
+50365590 [Brume Tower - Chest] Petrified Dragon Bone
+    Metal chest behind destructible wall in the metal bar gates and levers area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Barrel Carrier help
+    Bonfire 0
+50365600 [Brume Tower - Chest] Twinkling Titanite
+    ?? Does not exist ??
+50365610 [Brume Tower - Chest] Petrified Dragon Bone
+    ?? Does not exist ??
+50365620 [Brume Tower - Chest] Titanite Slab
+    ?? Does not exist ??
+50365630 [Brume Tower - Chest] Recollection
+    ?? Does not exist ??
+50365640 [Brume Tower - Chest] Divine Blessing
+    ?? Does not exist ??
+50365650 [Brume Tower - Chest] Smelter Wedge
+    Metal chest in the barrel and moving flamethrower corridor
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire 0
+50365660 [Brume Tower - Chest] Bonfire Ascetic
+    ?? Does not exist ??
+50365670 [Brume Tower - Chest] Petrified Something
+    ?? Does not exist ??
+50365680 [Brume Tower - Chest] Strength Ring
+    Metal chest atop the crumbling floors below the Foyer
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50365690 [Brume Tower - Chest] Hollow Skin
+    Metal chest behind an illusory wall in the alcove elevator shaft
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire 0
+50365700 [Brume Tower - Chest] Bonfire Ascetic
+    Metal chest atop Maldron's tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire 0
+50366000 [Brume Tower] Dance of Fire
+    Corpse in the side room in the Ashen Warrior and Ashen Idol encounter in upper Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366020 [Brume Tower] Old Growth Balm
+    Corpse on the axle atop Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366030 [Brume Tower] Twilight Herb
+    Corpse on ashen ledge next to the first Ashen Warrior encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366040 [Brume Tower] Petrified Dragon Bone
+    ?? Does not exist ??
+50366070 [Brume Tower] Simpleton's Ring
+    Corpse on a ledge outside the spinning flamethrower room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366120 [Brume Tower] Torch
+    ?? Does not exist ??
+50366130 [Brume Tower] Large Titanite Shard
+    ?? Does not exist ??
+50366140 [Brume Tower] Alluring Skull
+    ?? Does not exist ??
+50366150 [Brume Tower] Titanite Chunk
+    ?? Does not exist ??
+50366160 [Brume Tower] Destructive Greatarrow
+    ?? Does not exist ??
+50366170 [Brume Tower] Spell Quartz Ring+3
+    Corpse in the Foyer
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50366200 [Brume Tower] Simpleton's Ring
+    ?? Does not exist ??
+50366210 [Brume Tower] Tower Key
+    Corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366220 [Brume Tower] Old Growth Balm
+    ?? Does not exist ??
+50366230 [Brume Tower] Petrified Dragon Bone
+    ?? Does not exist ??
+50366240 [Brume Tower] Titanite Shard
+    Corpse in the four doors area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28876
+50366250 [Brume Tower] Titanite Slab- Titanite Chunk
+    Corpse in the four doors area, on a ledge behind crates
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28876
+50366260 [Brume Tower] Flame Quartz Ring+3
+    Corpse inside the second lever encounter area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366270 [Brume Tower] Twinkling Titanite
+    ?? Does not exist ??
+50366280 [Brume Tower] Possessed Armor Sword
+    Corpse past the second lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366290 [Brume Tower] Morning Star
+    ?? Does not exist ??
+50366300 [Brume Tower] Large Titanite Shard
+    Corpse past the second lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366310 [Brume Tower] Human Effigy
+    Corpse past the second lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366320 [Brume Tower] Twinkling Titanite
+    Corpse past the second lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366330 [Brume Tower] Vine Balm
+    ?? Does not exist ??
+50366340 [Brume Tower] Dexterity Ring
+    Corpse down spiral stairs from the top of Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366350 [Brume Tower] Rouge Water
+    Corpse besides stairs next to first Ashen Warrior encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366360 [Brume Tower] Scythe
+    Corpse around the central axle of Brume Tower, down the second ladder
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366370 [Brume Tower] Prism Stone
+    Corpse next to the second ladder in upper Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366380 [Brume Tower] Blackweed Balm
+    Corpse around the central axle of Brume Tower, down the first ladder
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366390 [Brume Tower] Lloyd's Talisman
+    Corpse in front of the illusory wall after the first lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366400 [Brume Tower] Titanite Chunk
+    ?? Does not exist ??
+50366410 [Brume Tower] Twinkling Titanite
+    ?? Does not exist ??
+50366420 [Brume Tower] Goldenfruit Balm
+    ?? Does not exist ??
+50366430 [Brume Tower] Iron Greatarrow
+    ?? Does not exist ??
+50366440 [Brume Tower] Radiant Lifegem
+    Corpse atop the ladder leading to the second lever encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366450 [Brume Tower] Bleeding Serum
+    ?? Does not exist ??
+50366460 [Brume Tower] Firedrake Stone
+    ?? Does not exist ??
+50366470 [Brume Tower] Flame Quartz Ring+3
+    ?? Does not exist ??
+50366480 [Brume Tower] Human Effigy
+    Corpse on a ledge next to the first Fume Sorcerer encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366490 [Brume Tower] Goldenfruit Balm
+    ?? Does not exist ??
+50366500 [Brume Tower] Wilted Dusk Herb
+    ?? Does not exist ??
+50366510 [Brume Tower] Raw Stone
+    Corpse downstairs outside Brume Tower nearby the Foyer entrance
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366520 [Brume Tower] Large Titanite Shard
+    Corpse in the cursed area in the Foyer
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28881
+50366530 [Brume Tower] Old Radiant Lifegem
+    Corpse next to the spinning flamethrower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366540 [Brume Tower] Charcoal Pine Resin
+    ?? Does not exist ??
+50366550 [Brume Tower] Broadsword
+    ?? Does not exist ??
+50366560 [Brume Tower] Cracked Red Eye Orb
+    ?? Does not exist ??
+50366570 [Brume Tower] Dried Root
+    Corpse at the end of the metal bar gates and levers area.
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50366580 [Brume Tower] Magic Stone
+    Corpse before the metal bar gates and levers area.
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50366590 [Brume Tower] Amber Herb
+    ?? Does not exist ??
+50366600 [Brume Tower] Rusted Coin
+    ?? Does not exist ??
+50366610 [Brume Tower] Fire Greatarrow
+    ?? Does not exist ??
+50366620 [Brume Tower] Black Firebomb
+    ?? Does not exist ??
+50366630 [Brume Tower] Morning Star
+    ?? Does not exist ??
+50366640 [Brume Tower] Dexterity Ring
+    ?? Does not exist ??
+50366650 [Brume Tower] Radiant Lifegem
+    ?? Does not exist ??
+50366660 [Brume Tower] Palestone
+    ?? Does not exist ??
+50366670 [Brume Tower] Green Blossom
+    ?? Does not exist ??
+50366680 [Brume Tower] Lacerating Knife
+    Corpse in the barrel and moving flamethrower corridor
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366690 [Brume Tower] Old Radiant Lifegem
+    ?? Does not exist ??
+50366700 [Brume Tower] Dispelling Ring+1
+    Corpse behind destructible wall in the barrel and moving flamethrower corridor
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Barrel Carrier's help
+    Bonfire -28881
+50366710 [Brume Tower] Human Effigy
+    Corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366720 [Brume Tower] Skeptic's Spice
+    Corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366730 [Brume Tower] Mad Warrior Set
+    ?? Does not exist ??
+50366740 [Brume Tower] Twilight Herb
+    Corpse before the elevator to Iron Passage
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28881
+50366750 [Brume Tower] Rouge Water
+    ?? Does not exist ??
+50366760 [Brume Tower] Partizan
+    Corpse on a crumbling floor below the Foyer
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366770 [Brume Tower] Small Orange Burr
+    ?? Does not exist ??
+50366780 [Brume Tower] Smelter Wedge
+    ?? Does not exist ??
+50366790 [Brume Tower] Smelter Wedge
+    ?? Does not exist ??
+50366800 [Brume Tower] Majestic Greatsword
+    ?? Does not exist ??
+50366810 [Brume Tower] Alonne Greatbow
+    Corpse on the central axle of Maldron's tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366820 [Brume Tower] Silver Talisman
+    Corpse in Maldron's tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50366830 [Brume Tower] Wilted Dusk Herb
+    Corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366840 [Brume Tower] Smelter Wedge
+    ?? Does not exist ??
+50366850 [Brume Tower] Titanite Chunk
+    Corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366860 [Brume Tower] Twinkling Titanite
+    Corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366870 [Brume Tower] Charcoal Pine Resin
+    Corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50366880 [Brume Tower] Broadsword
+    Corpse in the four doors area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28876
+50366890 [Brume Tower] Petrified Something
+    Corpse in the four doors area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28876
+50366900 [Brume Tower] Goldenfruit Balm
+    Corpse in the Barrel Carrier introduction room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50366910 [Brume Tower] Skeptic's Spice
+    Corpse in the Memory of the Old Iron King
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+    Bonfire -28861
+50366920 [Brume Tower] Smooth & Silky Stone
+    Corpse in the Memory of the Old Iron King
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+    Bonfire -28861
+50366930 [Brume Tower] Human Effigy
+    Corpse in the Memory of the Old Iron King
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+    Bonfire -28861
+50366940 [Brume Tower] Rusted Coin
+    Corpse in the Memory of the Old Iron King
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+    Bonfire -28861
+50366950 [Brume Tower] Repair Powder
+    Corpse in the Memory of the Old Iron King
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+    Bonfire -28861
+50366960 [Brume Tower] Twinblade
+    Corpse in the Memory of the Old Iron King
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+    Bonfire -28861
+50366970 [Brume Tower] Radiant Lifegem
+    Corpse in the Memory of the Old Iron King
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+    Bonfire -28861
+50366980 [Brume Tower] Old Growth Balm
+    Corpse in the Iron Passage last room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50366990 [Brume Tower] Cracked Red Eye Orb
+    Corpse in the Iron Passage last room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367000 [Brume Tower] Dried Root
+    Corpse in the Iron Passage last room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367010 [Brume Tower] Large Titanite Shard
+    Corpse in a cell in Iron Passage
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367020 [Brume Tower] Torch
+    Corpse in a cell in Iron Passage
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367030 [Brume Tower] Simpleton's Spice
+    Corpse in a cell in Iron Passage
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367040 [Brume Tower] Crimson Water
+    Corpse on a ledge in the Iron Passage first tunnel
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367050 [Brume Tower] Wilted Dusk Herb
+    Corpse on a ledge in the Iron Passage second tunnel
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367060 [Brume Tower] Pharros Mask
+    Corpse after Blue Smelter Demon
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367070 [Brume Tower] Twinkling Titanite
+    ?? Does not exist ??
+50367080 [Brume Tower] Dexterity Ring
+    ?? Does not exist ??
+50367090 [Brume Tower] Dried Root
+    Corpse in the Scepter tower, in the small room in the middle of the first ladder
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367100 [Brume Tower] Petrified Dragon Bone
+    Corpse in the Scepter tower, before the first ladder
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367110 [Brume Tower] Twinkling Titanite
+    Corpse in the Scepter tower, in the Fume Sorcerer ambush room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367120 [Brume Tower] Recollection
+    Corpse in the Scepter tower, in the Fume Sorcerer ambush room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367130 [Brume Tower] Flame Butterfly
+    Corpse in the four doors area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28876
+50367140 [Brume Tower] Baneful Bird Ring
+    Corpse on the railing atop Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28886
+50368000 [Brume Tower] Large Soul of a Proud Knight
+    Ashen corpse next to the first Ashen Warrior encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50368010 [Brume Tower] Soul of a Brave Warrior
+    Ashen corpse on the lowermost floor of Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28866
+50368020 [Brume Tower] Old Mundane Stone
+    Ashen corpse past the first lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50368030 [Brume Tower] Soul of a Great Hero
+    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368040 [Brume Tower] Large Soul of a Proud Knight
+    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368050 [Brume Tower] Soul of a Hero
+    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368060 [Brume Tower] Palestone
+    Ashen corpse at the bottom of Maldron's tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368070 [Brume Tower] Large Soul of a Nameless Soldier
+    Ashen corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50368080 [Brume Tower] Titanite Chunk
+    Ashen corpse on the lowermost floor of Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28866
+50368090 [Brume Tower] Large Soul of a Brave Warrior
+    ?? Does not exist ??
+
+Note : Maldron's Tower final chest is 50365710 but no itemlot is using this ID.
+It should contain the Majestic Greatsword, according to params is inside 50366800. No world object uses that param ID.
+To be tested.
+

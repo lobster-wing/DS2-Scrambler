@@ -882,26 +882,286 @@
 20106111 [Giant's Memory] Divine Blessing
 20106120 [Giant's Memory] Fire Seed
 
+// REGION 32
+// Surviving Fall Damage AND Dragon Talon
+50355010 [Shulva - Chest] Dried Root
+50355020 [Shulva - Chest] Boltstone- Bleed Stone
+50355030 [Shulva - Chest] Twinkling Titanite- Petrified Dragon Bone
+50355050 [Shulva - Chest] Catarina Set
+50355060 [Shulva - Chest] Puzzling Stone Sword
+50355070 [Shulva - Chest] Bloodbite Ring+1
+50355090 [Shulva - Chest] Flynn's Ring
+50355110 [Shulva - Chest] Lloyd's Talisman
+50355120 [Shulva - Chest] Dragon Stone
+50355130 [Shulva - Chest] Denial
+50355250 [Shulva - Chest] Destructive Greatarrow
+50355260 [Shulva - Chest] Soul Vessel
+50355270 [Shulva - Chest] Old Growth Balm
+50355280 [Shulva - Chest] Titanite Slab
+50355350 [Shulva - Chest] Twinkling Titanite- Petrified Dragon Bone
+50356000 [Shulva] Poisonbite Ring+1
+50356010 [Shulva] Goldenfruit Balm
+50356020 [Shulva] Lightning Urn
+50356030 [Shulva] Old Growth Balm
+50356040 [Shulva] Sanctum Mace
+50356050 [Shulva] Sanctum Repeating Crossbow
+50356060 [Shulva] Lloyd's Talisman
+50356090 [Shulva] Soul of a Hero
+50356100 [Shulva] Human Effigy
+50356130 [Shulva] Dragon Charm
+50356140 [Shulva] Old Growth Balm
+50356160 [Shulva] Lifegem
+50356170 [Shulva] Poison Stone
+50356190 [Shulva] Elizabeth Mushroom
+50356200 [Shulva] Magic Bolt
+50356220 [Shulva] Twinkling Titanite
+50356240 [Shulva] Rusted Coin
+50356250 [Shulva] Focus Souls
+50356260 [Shulva] Human Effigy
+50356270 [Shulva] Repair Powder
+50356280 [Shulva] Old Growth Balm
+50356290 [Shulva] Lifegem
+50356300 [Shulva] Dung Pie
+50356310 [Shulva] Poison Throwing Knife
+50356320 [Shulva] Torch
+50356330 [Shulva] Holy Water Urn
+50356340 [Shulva] Twinkling Titanite
+50356350 [Shulva] Human Effigy
+50356360 [Shulva] Old Growth Balm
+50356370 [Shulva] Soul of a Great Hero
+50356380 [Shulva] Notched Whip
+50356400 [Shulva] Long Bow
+50356410 [Shulva] Torch
+50356420 [Shulva] Sanctum Crossbow
+50356430 [Shulva] Soul of a Great Hero- Dragon Charm
+50356440 [Shulva] Petrified Dragon Bone
+50356510 [Shulva] Drakeblood Greatsword
+50356530 [Shulva] Promised Walk of Peace
+50356560 [Shulva] Dark Quartz Ring+3
+50356570 [Shulva] Darknight Stone
+50356580 [Shulva] Thunder Quartz Ring+3
+50356590 [Shulva] Cracked Red Eye Orb
+50356600 [Shulva] Throwing Knife
+50356630 [Shulva] Eternal Sanctum Key
+50356640 [Shulva] Sanctum Knight Set
+50356650 [Shulva] Dried Root
+50356660 [Shulva] Human Effigy
+
+// REGION 33
+// Surviving Fall Damage AND Dragon Talon AND Eternal Sanctum Key
+50355140 [Shulva - Chest] Dark Greatsword
+50355150 [Shulva - Chest] Petrified Something
+50355180 [Shulva - Chest] Flower Skirt
+50355190 [Shulva - Chest] Dried Root
+50355200 [Shulva - Chest] Dried Root
+50355210 [Shulva - Chest] Dried Root
+50355220 [Shulva - Chest] Lightning Clutch Ring
+50355230 [Shulva - Chest] Bonfire Ascetic
+50355240 [Shulva - Chest] Sanctum Shield
+50356210 [Shulva] Blackweed Balm
+50356390 [Shulva] Torch
+50356610 [Shulva] Brightbug
+50356620 [Shulva] Bonfire Ascetic
+50356670 [Shulva] Alluring Skull
+
+// REGION 34
+// Surviving Fall Damage AND Dragon Talon AND Dragon Stone
+50356110 [Shulva] Crown of the Sunken King
+50356150 [Shulva] Human Effigy
+50356450 [Shulva] Hexing Urn
+50356460 [Shulva] Large Soul of a Brave Warrior
+50356470 [Shulva] Twinkling Titanite
+50356480 [Shulva] Small Smooth & Silky Stone
+50356490 [Shulva] Twinkling Titanite
+50356500 [Shulva] Vine Balm
+50356520 [Shulva] Drakeblood Set
+50356540 [Shulva] Yorgh's Ring
+
+// REGION 35
+// Rotunda Lockstone AND Heavy Iron Key
+50365000 [Brume Tower - Chest] Bonfire Ascetic- Human Effigy
+50365010 [Brume Tower - Chest]  Caestus
+50365090 [Brume Tower - Chest] Twinkling Titanite
+50365500 [Brume Tower - Chest] Old Radiant Lifegem- Wilted Dusk Herb
+50365510 [Brume Tower - Chest] Soul Vessel
+50365560 [Brume Tower - Chest] Titanite Slab
+50365700 [Brume Tower - Chest] Bonfire Ascetic
+50366000 [Brume Tower] Dance of Fire
+50366020 [Brume Tower] Old Growth Balm
+50366030 [Brume Tower] Twilight Herb
+50366170 [Brume Tower] Spell Quartz Ring+3
+50366260 [Brume Tower] Flame Quartz Ring+3
+50366280 [Brume Tower] Possessed Armor Sword
+50366300 [Brume Tower] Large Titanite Shard
+50366310 [Brume Tower] Human Effigy
+50366320 [Brume Tower] Twinkling Titanite
+50366340 [Brume Tower] Dexterity Ring
+50366350 [Brume Tower] Rouge Water
+50366360 [Brume Tower] Scythe
+50366370 [Brume Tower] Prism Stone
+50366380 [Brume Tower] Blackweed Balm
+50366390 [Brume Tower] Lloyd's Talisman
+50366440 [Brume Tower] Radiant Lifegem
+50366480 [Brume Tower] Human Effigy
+50366510 [Brume Tower] Raw Stone
+50366570 [Brume Tower] Dried Root
+50366580 [Brume Tower] Magic Stone
+50366810 [Brume Tower] Alonne Greatbow
+50366820 [Brume Tower] Silver Talisman
+50366900 [Brume Tower] Goldenfruit Balm
+
+// REGION 35a
+// Rotunda Lockstone AND Heavy Iron Key AND Barrel Carrier help
+50365540 [Brume Tower - Chest] Catarina Gauntlets- Catarina Leggings
+50365590 [Brume Tower - Chest] Petrified Dragon Bone
+
+// REGION 36
+// Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+50365020 [Brume Tower - Chest] Life Ring+3
+50365080 [Brume Tower - Chest] Sorcery Clutch Ring
+50365550 [Brume Tower - Chest] Pilgrim's Spontoon
+50365580 [Brume Tower - Chest] Ashen Warrior Sword
+50365650 [Brume Tower - Chest] Smelter Wedge
+50365680 [Brume Tower - Chest] Strength Ring
+50365690 [Brume Tower - Chest] Hollow Skin
+50366070 [Brume Tower] Simpleton's Ring
+50366210 [Brume Tower] Tower Key
+50366240 [Brume Tower] Titanite Shard
+50366250 [Brume Tower] Titanite Slab- Titanite Chunk
+50366530 [Brume Tower] Old Radiant Lifegem
+50366680 [Brume Tower] Lacerating Knife
+50366710 [Brume Tower] Human Effigy
+50366720 [Brume Tower] Skeptic's Spice
+50366760 [Brume Tower] Partizan
+50366830 [Brume Tower] Wilted Dusk Herb
+50366850 [Brume Tower] Titanite Chunk
+50366860 [Brume Tower] Twinkling Titanite
+50366870 [Brume Tower] Charcoal Pine Resin
+50366880 [Brume Tower] Broadsword
+50366890 [Brume Tower] Petrified Something
+
+// REGION 36a
+// Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Barrel Carrier help
+50366700 [Brume Tower] Dispelling Ring+1
 
 
+// REGION 37
+// Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+50365030 [Brume Tower - Chest] Old Radiant Lifegem
+50365570 [Brume Tower - Chest] Fire Snake
+50366520 [Brume Tower] Large Titanite Shard
+50366740 [Brume Tower] Twilight Herb
 
+// REGION 38
+// Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
+50366910 [Brume Tower] Skeptic's Spice
+50366920 [Brume Tower] Smooth & Silky Stone
+50366930 [Brume Tower] Human Effigy
+50366940 [Brume Tower] Rusted Coin
+50366950 [Brume Tower] Repair Powder
+50366960 [Brume Tower] Twinblade
+50366970 [Brume Tower] Radiant Lifegem
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// todo : sort these to regions
+50366980 [Brume Tower] Old Growth Balm
+    Corpse in the Iron Passage last room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50366990 [Brume Tower] Cracked Red Eye Orb
+    Corpse in the Iron Passage last room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367000 [Brume Tower] Dried Root
+    Corpse in the Iron Passage last room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367010 [Brume Tower] Large Titanite Shard
+    Corpse in a cell in Iron Passage
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367020 [Brume Tower] Torch
+    Corpse in a cell in Iron Passage
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367030 [Brume Tower] Simpleton's Spice
+    Corpse in a cell in Iron Passage
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367040 [Brume Tower] Crimson Water
+    Corpse on a ledge in the Iron Passage first tunnel
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367050 [Brume Tower] Wilted Dusk Herb
+    Corpse on a ledge in the Iron Passage second tunnel
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367060 [Brume Tower] Pharros Mask
+    Corpse after Blue Smelter Demon
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
+    Bonfire -28871
+50367070 [Brume Tower] Twinkling Titanite
+    ?? Does not exist ??
+50367080 [Brume Tower] Dexterity Ring
+    ?? Does not exist ??
+50367090 [Brume Tower] Dried Root
+    Corpse in the Scepter tower, in the small room in the middle of the first ladder
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367100 [Brume Tower] Petrified Dragon Bone
+    Corpse in the Scepter tower, before the first ladder
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367110 [Brume Tower] Twinkling Titanite
+    Corpse in the Scepter tower, in the Fume Sorcerer ambush room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367120 [Brume Tower] Recollection
+    Corpse in the Scepter tower, in the Fume Sorcerer ambush room
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28881
+50367130 [Brume Tower] Flame Butterfly
+    Corpse in the four doors area
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28876
+50367140 [Brume Tower] Baneful Bird Ring
+    Corpse on the railing atop Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28886
+50368000 [Brume Tower] Large Soul of a Proud Knight
+    Ashen corpse next to the first Ashen Warrior encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50368010 [Brume Tower] Soul of a Brave Warrior
+    Ashen corpse on the lowermost floor of Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28866
+50368020 [Brume Tower] Old Mundane Stone
+    Ashen corpse past the first lever door
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28886
+50368030 [Brume Tower] Soul of a Great Hero
+    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368040 [Brume Tower] Large Soul of a Proud Knight
+    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368050 [Brume Tower] Soul of a Hero
+    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368060 [Brume Tower] Palestone
+    Ashen corpse at the bottom of Maldron's tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key
+    Bonfire -28876
+50368070 [Brume Tower] Large Soul of a Nameless Soldier
+    Ashen corpse in the Iron Warrior ash field
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28881
+50368080 [Brume Tower] Titanite Chunk
+    Ashen corpse on the lowermost floor of Brume Tower
+    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
+    Bonfire -28866
+50368090 [Brume Tower] Large Soul of a Brave Warrior
+    ?? Does not exist ??
