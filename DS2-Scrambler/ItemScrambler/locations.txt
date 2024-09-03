@@ -3745,3 +3745,369 @@ Note : Maldron's Tower final chest is 50365710 but no itemlot is using this ID.
 It should contain the Majestic Greatsword, according to params is inside 50366800. No world object uses that param ID.
 To be tested.
 
+// ELEUM LOYCE - TREASURE
+// Everything REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+
+50375500 [Eleum Loyce - Chest] Eye of the Priestess
+    ?? No object using this ID, to be determined if this determines what is received when interacting with the priestess skeleton eye
+50375510 [Eleum Loyce - Chest] Divine Blessing
+    Frozen metal chest on the roof of the building after the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375520 [Eleum Loyce - Chest] Sorcerer's Twinblade
+    Frozen metal chest on the roof of the building after the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375530 [Eleum Loyce - Chest] Soul Flash
+    Metal chest behind the encumbered elevator
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire 0
+50375540 [Eleum Loyce - Chest] Soul Vessel
+    Frozen metal chest on the roof of the building after the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375550 [Eleum Loyce - Chest] Elizabeth Mushroom
+    Frozen metal chest at the end of ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375560 [Eleum Loyce - Chest] Boltstone
+    Metal chest in the central courtyard of Lower Garrison
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375570 [Eleum Loyce - Chest] Petrified Dragon Bone
+    ?? Does not exist ??
+50375580 [Eleum Loyce - Chest] Brightbug
+    Frozen metal chest in the frozen treasure tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375590 [Eleum Loyce - Chest] Bonfire Ascetic
+    Frozen metal chest in the frozen treasure tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375600 [Eleum Loyce - Chest] Old Radiant Lifegem
+    Frozen metal chest in the frozen treasure tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375610 [Eleum Loyce - Chest] Titanite Slab
+    Frozen metal chest in the frozen treasure tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375620 [Eleum Loyce - Chest] Old Radiant Lifegem- Wilted Dusk Herb
+    ?? Does not exist ??
+50375630 [Eleum Loyce - Chest] Dried Root
+    ?? Does not exist ??
+50375640 [Eleum Loyce - Chest] Splintering Lightning Spear
+    Metal chest up the invisible ladder
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375650 [Eleum Loyce - Chest] Human Effigy
+    ?? Does not exist ??
+50375660 [Eleum Loyce - Chest] Fire Clutch Ring
+    Metal chest at the end of path hidden by an illusory wall in Inner Rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375670 [Eleum Loyce - Chest] Twin-headed Greatbow
+    Metal chest on a ledge down the path hidden by an illusory wall in Inner Rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375680 [Eleum Loyce - Chest] Wilted Dusk Herb
+    Wooden chest inside ballista rampart, in dog room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27876
+50375690 [Eleum Loyce - Chest] Twinkling Titanite- Petrified Dragon Bone
+    Frozen metal chest in lower Inner Rampart golem room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375700 [Eleum Loyce - Chest] Curved Nil Greatsword
+    Frozen metal chest surrounded by golems in Inner Rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375710 [Eleum Loyce - Chest] Vessel Shield
+    Metal chest before Alsanna's hall
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+50375720 [Eleum Loyce - Chest] Human Effigy
+    Frozen metal chest in lower Inner Rampart golem room
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire 0
+    Note : Overlaps a mimic (3020), might not be accessible and replaced by the mimic
+50375730 [Eleum Loyce - Chest] Retainer's Short Sword
+    Metal chest in inner wall in Aurheim's corridor
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire 0
+50375740 [Eleum Loyce - Chest] Durgo's Hat
+    Metal chest behind frozen Pharros contraption
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess AND Pharros Lockstone
+    Bonfire 0
+50376000 [Eleum Loyce] Monastery Charm
+    Corpse on a snowy ledge down by the building with frozen chests on the roof
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376010 [Eleum Loyce] Retainer Staff
+    Corpse in a corpse pile behind snow before the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27886
+50376020 [Eleum Loyce] Hexing Urn
+    ?? Does not exist ??
+50376030 [Eleum Loyce] Vine Balm
+    ?? Does not exist ??
+50376040 [Eleum Loyce] Old Radiant Lifegem
+    ?? Does not exist ??
+50376050 [Eleum Loyce] Torch
+    Corpse down the stairs after the dog courtyard
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376060 [Eleum Loyce] Repair Powder
+    Corpse stuck in ice in the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27886
+50376070 [Eleum Loyce] Small Blue Burr
+    Corpse under the building with chests on the roof
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376080 [Eleum Loyce] Dark Clutch Ring
+    Corpse on a snowy ledge down by the building with frozen chests on the roof, against a tree
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376090 [Eleum Loyce] Old Bell Helm
+    Corpse on a snowy ledge at the end of a path before dropping to the Abandoned Dwelling bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376100 [Eleum Loyce] Lloyd's Talisman
+    Corpse in snowy path after the Abandoned Dwelling bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376110 [Eleum Loyce] Radiant Lifegem
+    Corpse in front of first lever gate on the ramparts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376120 [Eleum Loyce] Goldenfruit Balm
+    Corpse in ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376130 [Eleum Loyce] Large Soul of a Brave Warrior
+    Corpse in ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376140 [Eleum Loyce] Prism Stone
+    Corpse in ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376150 [Eleum Loyce] Charred Loyce Greatsword- Charred Loyce Shield
+    Corpse in outer rampart after the ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376160 [Eleum Loyce] Alluring Skull
+    Corpse on the rampart path after the priestess altar
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376170 [Eleum Loyce] Skeptic's Spice
+    Corpse on the rampart path after the priestess altar
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376180 [Eleum Loyce] Twilight Herb
+    Corpse under pillars in Lower Garrison area
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376190 [Eleum Loyce] Old Growth Balm
+    Corpse under pillars in Lower Garrison area
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376200 [Eleum Loyce] Magic Stone
+    Corpse outside of Lower Garrison bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376210 [Eleum Loyce] Scimitar
+    Corpse in a casket in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire 0
+50376220 [Eleum Loyce] Dried Root
+    Corpse in the first ruins in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376230 [Eleum Loyce] Lacerating Knife
+    Corpse between first and second ruins in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376240 [Eleum Loyce] Holy Water Urn
+    ?? Does not exist ??
+50376250 [Eleum Loyce] Old Growth Balm
+    ?? Does not exist ??
+50376260 [Eleum Loyce] Titanite Chunk
+    ?? Does not exist ??
+50376270 [Eleum Loyce] Fire Greatarrow
+    ?? Does not exist ??
+50376280 [Eleum Loyce] Rusted Coin
+    ?? Does not exist ??
+50376290 [Eleum Loyce] Gold Pine Resin
+    ?? Does not exist ??
+50376300 [Eleum Loyce] Garrison Ward Key
+    Corpse inside the torch cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess AND Torch
+    Bonfire 0
+50376310 [Eleum Loyce] Monastery Charm
+    Corpse eaten by hedgehogs
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376320 [Eleum Loyce] Goldenfruit Balm
+    Corpse eaten by hedgehogs
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376330 [Eleum Loyce] Rampart Golem Lance- Rampart Golem Shield
+    ?? Does not exist ??
+50376340 [Eleum Loyce] Radiant Lifegem
+    Corpse in a room on the Outer Wall path next to Eleum Loyce entrance
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376350 [Eleum Loyce] Winged Spear
+    Corpse in the dog courtyard
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376360 [Eleum Loyce] Soul of a Great Hero
+    Corpse in the invisible ladder tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376370 [Eleum Loyce] Crimson Water
+    Corpse down the crumbled stairway before the priestess altar
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376380 [Eleum Loyce] Flame Butterfly
+    Corpse in corridor nearby Inner Rampart knight
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27851
+50376390 [Eleum Loyce] Blackweed Balm
+    ?? Does not exist ??
+50376400 [Eleum Loyce] Ring of Resistance+1
+    Corpse inside the ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376410 [Eleum Loyce] Goldenfruit Balm
+    Corpse against a metal grille before the dog courtyard
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376420 [Eleum Loyce] Azal's Staff
+    Corpse on the snowball bridge
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376430 [Eleum Loyce] Ice Rapier
+    Corpse on the snowball bridge
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376440 [Eleum Loyce] Cracked Red Eye Orb
+    Corpse on the snowball bridge
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376450 [Eleum Loyce] Mirrah Hat
+    Corpse next to first ruins in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376460 [Eleum Loyce] Twinkling Titanite
+    Corpse between second and third ruins in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376470 [Eleum Loyce] Human Effigy
+    Corpse in third ruins in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376490 [Eleum Loyce] Smooth & Silky Stone
+    ?? Does not exist ??
+50376510 [Eleum Loyce] Priest's Chime
+    Corpse inside the ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27876
+50376520 [Eleum Loyce] Vine Balm
+    Corpse up the snowball peak
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376530 [Eleum Loyce] Dark Dance
+    Corpse in snowy path after the Abandoned Dwelling bonfire
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27876
+50376540 [Eleum Loyce] Ring of the Embedded
+    Corpse on a snowy ledge overlooking the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376550 [Eleum Loyce] Twilight Herb
+    Skeleton on the priestess altar
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire 0
+50376560 [Eleum Loyce] Northwarder Set
+    Corpse behind the encumbered elevator
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27886
+50376570 [Eleum Loyce] Bone Fist
+    Corpse inside the torch cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess AND Torch
+    Bonfire -27886
+50376580 [Eleum Loyce] Human Effigy
+    Corpse inside the torch cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess AND Torch
+    Bonfire -27886
+50376590 [Eleum Loyce] Human Effigy
+    Corpse inside the invisible ladder tower
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27876
+50376600 [Eleum Loyce] Dried Root
+    Corpse in inner wall
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+    Bonfire -27851
+50376610 [Eleum Loyce] Crimson Water
+    Skeleton in the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376620 [Eleum Loyce] Smooth & Silky Stone
+    Skeleton in the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376630 [Eleum Loyce] Dried Root
+    Skeleton in the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376640 [Eleum Loyce] Charcoal Pine Resin
+    Corpse in the snowy golem path after the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376650 [Eleum Loyce] Pharros' Lockstone
+    Corpse in the snowy golem path after the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376660 [Eleum Loyce] Amber Herb
+    Corpse in central courtyard in Lower Garrison
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376670 [Eleum Loyce] Large Club
+    Skeleton in the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376680 [Eleum Loyce] Dried Root
+    Skeleton in the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376690 [Eleum Loyce] Twinkling Titanite
+    Skeleton in the Lower Garrison ice cave
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27871
+50376710 [Eleum Loyce] Ring of the Living
+    Corpse next to the chasm in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376730 [Eleum Loyce] Wilted Dusk Herb
+    Corpse in a casket in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376740 [Eleum Loyce] Blackweed Balm
+    Corpse in a casket in Frigid Outskirts
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+    Bonfire -27861
+50376750 [Eleum Loyce] Dried Root
+    Corpse in a corpse pile behind snow before the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27886
+50376760 [Eleum Loyce] Goldenfruit Balm
+    Corpse in a corpse pile behind snow before the fountain street
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27886
+50376770 [Eleum Loyce] Elizabeth Mushroom
+    Corpse next to the shortcut door inside ballista rampart
+    REQUIRES Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+    Bonfire -27876

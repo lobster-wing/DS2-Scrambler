@@ -1009,6 +1009,16 @@
 50366810 [Brume Tower] Alonne Greatbow
 50366820 [Brume Tower] Silver Talisman
 50366900 [Brume Tower] Goldenfruit Balm
+50367090 [Brume Tower] Dried Root
+50367100 [Brume Tower] Petrified Dragon Bone
+50367110 [Brume Tower] Twinkling Titanite
+50367120 [Brume Tower] Recollection
+50368000 [Brume Tower] Large Soul of a Proud Knight
+50368020 [Brume Tower] Old Mundane Stone
+50368030 [Brume Tower] Soul of a Great Hero
+50368040 [Brume Tower] Large Soul of a Proud Knight
+50368050 [Brume Tower] Soul of a Hero
+50368060 [Brume Tower] Palestone
 
 // REGION 35a
 // Rotunda Lockstone AND Heavy Iron Key AND Barrel Carrier help
@@ -1039,11 +1049,15 @@
 50366870 [Brume Tower] Charcoal Pine Resin
 50366880 [Brume Tower] Broadsword
 50366890 [Brume Tower] Petrified Something
+50367130 [Brume Tower] Flame Butterfly
+50367140 [Brume Tower] Baneful Bird Ring
+50368010 [Brume Tower] Soul of a Brave Warrior
+50368070 [Brume Tower] Large Soul of a Nameless Soldier
+50368080 [Brume Tower] Titanite Chunk
 
 // REGION 36a
 // Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Barrel Carrier help
 50366700 [Brume Tower] Dispelling Ring+1
-
 
 // REGION 37
 // Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
@@ -1051,6 +1065,15 @@
 50365570 [Brume Tower - Chest] Fire Snake
 50366520 [Brume Tower] Large Titanite Shard
 50366740 [Brume Tower] Twilight Herb
+50366980 [Brume Tower] Old Growth Balm
+50366990 [Brume Tower] Cracked Red Eye Orb
+50367000 [Brume Tower] Dried Root
+50367010 [Brume Tower] Large Titanite Shard
+50367020 [Brume Tower] Torch
+50367030 [Brume Tower] Simpleton's Spice
+50367040 [Brume Tower] Crimson Water
+50367050 [Brume Tower] Wilted Dusk Herb
+50367060 [Brume Tower] Pharros Mask
 
 // REGION 38
 // Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key AND Smelter Wedge AND Ashen Mist Heart
@@ -1062,106 +1085,98 @@
 50366960 [Brume Tower] Twinblade
 50366970 [Brume Tower] Radiant Lifegem
 
-// todo : sort these to regions
-50366980 [Brume Tower] Old Growth Balm
-    Corpse in the Iron Passage last room
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50366990 [Brume Tower] Cracked Red Eye Orb
-    Corpse in the Iron Passage last room
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367000 [Brume Tower] Dried Root
-    Corpse in the Iron Passage last room
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367010 [Brume Tower] Large Titanite Shard
-    Corpse in a cell in Iron Passage
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367020 [Brume Tower] Torch
-    Corpse in a cell in Iron Passage
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367030 [Brume Tower] Simpleton's Spice
-    Corpse in a cell in Iron Passage
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367040 [Brume Tower] Crimson Water
-    Corpse on a ledge in the Iron Passage first tunnel
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367050 [Brume Tower] Wilted Dusk Herb
-    Corpse on a ledge in the Iron Passage second tunnel
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367060 [Brume Tower] Pharros Mask
-    Corpse after Blue Smelter Demon
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter AND Tower Key
-    Bonfire -28871
-50367070 [Brume Tower] Twinkling Titanite
-    ?? Does not exist ??
-50367080 [Brume Tower] Dexterity Ring
-    ?? Does not exist ??
-50367090 [Brume Tower] Dried Root
-    Corpse in the Scepter tower, in the small room in the middle of the first ladder
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28881
-50367100 [Brume Tower] Petrified Dragon Bone
-    Corpse in the Scepter tower, before the first ladder
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28881
-50367110 [Brume Tower] Twinkling Titanite
-    Corpse in the Scepter tower, in the Fume Sorcerer ambush room
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28881
-50367120 [Brume Tower] Recollection
-    Corpse in the Scepter tower, in the Fume Sorcerer ambush room
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28881
-50367130 [Brume Tower] Flame Butterfly
-    Corpse in the four doors area
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
-    Bonfire -28876
-50367140 [Brume Tower] Baneful Bird Ring
-    Corpse on the railing atop Brume Tower
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
-    Bonfire -28886
-50368000 [Brume Tower] Large Soul of a Proud Knight
-    Ashen corpse next to the first Ashen Warrior encounter
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28886
-50368010 [Brume Tower] Soul of a Brave Warrior
-    Ashen corpse on the lowermost floor of Brume Tower
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
-    Bonfire -28866
-50368020 [Brume Tower] Old Mundane Stone
-    Ashen corpse past the first lever door
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28886
-50368030 [Brume Tower] Soul of a Great Hero
-    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28876
-50368040 [Brume Tower] Large Soul of a Proud Knight
-    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28876
-50368050 [Brume Tower] Soul of a Hero
-    Ashen corpse in the ash field down the ladder after the first Fume Sorcerer encounter
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28876
-50368060 [Brume Tower] Palestone
-    Ashen corpse at the bottom of Maldron's tower
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key
-    Bonfire -28876
-50368070 [Brume Tower] Large Soul of a Nameless Soldier
-    Ashen corpse in the Iron Warrior ash field
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
-    Bonfire -28881
-50368080 [Brume Tower] Titanite Chunk
-    Ashen corpse on the lowermost floor of Brume Tower
-    REQUIRES Rotunda Lockstone AND Heavy Iron Key AND Scorching Iron Scepter
-    Bonfire -28866
-50368090 [Brume Tower] Large Soul of a Brave Warrior
-    ?? Does not exist ??
+// REGION 39
+// Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower
+50375530 [Eleum Loyce - Chest] Soul Flash
+50375730 [Eleum Loyce - Chest] Retainer's Short Sword
+50376000 [Eleum Loyce] Monastery Charm
+50376050 [Eleum Loyce] Torch
+50376070 [Eleum Loyce] Small Blue Burr
+50376080 [Eleum Loyce] Dark Clutch Ring
+50376090 [Eleum Loyce] Old Bell Helm
+50376100 [Eleum Loyce] Lloyd's Talisman
+50376110 [Eleum Loyce] Radiant Lifegem
+50376120 [Eleum Loyce] Goldenfruit Balm
+50376130 [Eleum Loyce] Large Soul of a Brave Warrior
+50376140 [Eleum Loyce] Prism Stone
+50376150 [Eleum Loyce] Charred Loyce Greatsword- Charred Loyce Shield
+50376160 [Eleum Loyce] Alluring Skull
+50376170 [Eleum Loyce] Skeptic's Spice
+50376340 [Eleum Loyce] Radiant Lifegem
+50376350 [Eleum Loyce] Winged Spear
+50376360 [Eleum Loyce] Soul of a Great Hero
+50376370 [Eleum Loyce] Crimson Water
+50376400 [Eleum Loyce] Ring of Resistance+1
+50376410 [Eleum Loyce] Goldenfruit Balm
+50376540 [Eleum Loyce] Ring of the Embedded
+50376550 [Eleum Loyce] Twilight Herb
+50376560 [Eleum Loyce] Northwarder Set
+50376590 [Eleum Loyce] Human Effigy
+50376600 [Eleum Loyce] Dried Root
+
+// REGION 40
+// Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess
+50375510 [Eleum Loyce - Chest] Divine Blessing
+50375520 [Eleum Loyce - Chest] Sorcerer's Twinblade
+50375540 [Eleum Loyce - Chest] Soul Vessel
+50375550 [Eleum Loyce - Chest] Elizabeth Mushroom
+50375560 [Eleum Loyce - Chest] Boltstone
+50375580 [Eleum Loyce - Chest] Brightbug
+50375590 [Eleum Loyce - Chest] Bonfire Ascetic
+50375600 [Eleum Loyce - Chest] Old Radiant Lifegem
+50375610 [Eleum Loyce - Chest] Titanite Slab
+50375640 [Eleum Loyce - Chest] Splintering Lightning Spear
+50375660 [Eleum Loyce - Chest] Fire Clutch Ring
+50375670 [Eleum Loyce - Chest] Twin-headed Greatbow
+50375680 [Eleum Loyce - Chest] Wilted Dusk Herb
+50375690 [Eleum Loyce - Chest] Twinkling Titanite- Petrified Dragon Bone
+50375700 [Eleum Loyce - Chest] Curved Nil Greatsword
+50375710 [Eleum Loyce - Chest] Vessel Shield
+50376010 [Eleum Loyce] Retainer Staff
+50376060 [Eleum Loyce] Repair Powder
+50376180 [Eleum Loyce] Twilight Herb
+50376190 [Eleum Loyce] Old Growth Balm
+50376200 [Eleum Loyce] Magic Stone
+50376310 [Eleum Loyce] Monastery Charm
+50376320 [Eleum Loyce] Goldenfruit Balm
+50376380 [Eleum Loyce] Flame Butterfly
+50376420 [Eleum Loyce] Azal's Staff
+50376430 [Eleum Loyce] Ice Rapier
+50376440 [Eleum Loyce] Cracked Red Eye Orb
+50376510 [Eleum Loyce] Priest's Chime
+50376520 [Eleum Loyce] Vine Balm
+50376530 [Eleum Loyce] Dark Dance
+50376610 [Eleum Loyce] Crimson Water
+50376620 [Eleum Loyce] Smooth & Silky Stone
+50376630 [Eleum Loyce] Dried Root
+50376640 [Eleum Loyce] Charcoal Pine Resin
+50376650 [Eleum Loyce] Pharros' Lockstone
+50376660 [Eleum Loyce] Amber Herb
+50376670 [Eleum Loyce] Large Club
+50376680 [Eleum Loyce] Dried Root
+50376690 [Eleum Loyce] Twinkling Titanite
+50376750 [Eleum Loyce] Dried Root
+50376760 [Eleum Loyce] Goldenfruit Balm
+50376770 [Eleum Loyce] Elizabeth Mushroom
+
+// REGION 41
+// Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess AND Torch
+50376300 [Eleum Loyce] Garrison Ward Key
+50376570 [Eleum Loyce] Bone Fist
+50376580 [Eleum Loyce] Human Effigy
+
+// REGION 42
+// Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Eye of the Priestess AND Pharros Lockstone
+50375740 [Eleum Loyce - Chest] Durgo's Hat
+
+// REGION 43
+// Fragrant Branch of Yore AND Four Great Souls AND Frozen Flower AND Garrison Ward Key
+50376210 [Eleum Loyce] Scimitar
+50376220 [Eleum Loyce] Dried Root
+50376230 [Eleum Loyce] Lacerating Knife
+50376450 [Eleum Loyce] Mirrah Hat
+50376460 [Eleum Loyce] Twinkling Titanite
+50376470 [Eleum Loyce] Human Effigy
+50376710 [Eleum Loyce] Ring of the Living
+50376730 [Eleum Loyce] Wilted Dusk Herb
+50376740 [Eleum Loyce] Blackweed Balm
