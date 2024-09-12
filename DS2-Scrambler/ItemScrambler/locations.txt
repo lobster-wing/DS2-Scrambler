@@ -256,7 +256,7 @@
     REQUIRES Soldier's Key
     Bonfire 10660
 10106130 [Forest of Fallen Giants] Titanite Shard
-    Corpse next to the shut hearse in the flooded courtyard
+    Corpse next to the shut portcullis in the flooded courtyard
     Bonfire 10655
 10106140 [Forest of Fallen Giants] Buckler
     Corpse on the roof of the hall from the sleepy hollows courtyard
@@ -352,7 +352,7 @@
     REQUIRES Soldier's Key, King's Ring OR Skills
     Bonfire 10675
 10106430 [Forest of Fallen Giants] Amber Herb- Green Blossom
-    Corpse nearby the shut hearse in Soldier's Rest
+    Corpse nearby the shut portcullis in Soldier's Rest
     REQUIRES Soldier's Key
     Bonfire 10660
 10106440 [Forest of Fallen Giants] Great Soul Arrow
@@ -1126,7 +1126,7 @@
     REQUIRES Rotunda Lockstone
     Bonfire 17670
 10176060 [Earthen Peak] Hexing Urn
-    Corpse up a ladder in the path leading to the shut wooden hearse between valleys
+    Corpse up a ladder in the path leading to the shut wooden gate between valleys
     REQUIRES Rotunda Lockstone
     Bonfire 17665
 10176070 [Earthen Peak] Radiant Lifegem- Smooth & Silky Stone

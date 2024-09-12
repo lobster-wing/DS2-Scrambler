@@ -257,7 +257,7 @@ namespace DS2_Scrambler
             //********************
             try
             {
-                ItemScramblerLegacy item_scrambler = new ItemScramblerLegacy(rand, reg, scramblerData);
+                ItemScrambler item_scrambler = new ItemScrambler(rand, reg, scramblerData);
 
                 if (c_Scramble_Map_Loot.Checked)
                 {

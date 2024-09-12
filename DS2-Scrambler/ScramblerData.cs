@@ -1815,4 +1815,56 @@ namespace DS2_Scrambler
         public int Min { get; set; }
         public int Max { get; set; }
     }
+
+    public class ScramblerData_LocationInfos
+    {
+        public List<ItemLotLocationInfo> MapTreasureLocationInfos { get; set; }
+
+        public static ScramblerData_LocationInfos Static { get; }
+
+        static ScramblerData_LocationInfos()
+        {
+            string json_filepath = AppContext.BaseDirectory + "\\Assets\\locations.json";
+
+            var options = new JsonSerializerOptions
+            {
+                ReadCommentHandling = JsonCommentHandling.Skip,
+            };
+            Static = JsonSerializer.Deserialize<ScramblerData_LocationInfos>(File.OpenRead(json_filepath), options);
+        }
+    }
+
+    public class ItemLotLocationInfo
+    {
+        public int ItemLotID { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public bool IsMissable { get; set; }
+        public bool IsPriority { get; set; }
+    }
+
+    public class ScramblerData_RegionInfos
+    {
+        public List<RegionInfo> RegionsInfos { get; set; }
+
+        public static ScramblerData_RegionInfos Static { get; }
+
+        static ScramblerData_RegionInfos()
+        {
+            string json_filepath = AppContext.BaseDirectory + "\\Assets\\regions.json";
+
+            var options = new JsonSerializerOptions
+            {
+                ReadCommentHandling = JsonCommentHandling.Skip,
+            };
+            Static = JsonSerializer.Deserialize<ScramblerData_RegionInfos>(File.OpenRead(json_filepath), options);
+        }
+    }
+
+    public class RegionInfo
+    {
+        public int ID { get; set; }
+        public string Condition { get; set; }
+        public List<int> ItemLotIDs { get; set; }
+    }
 }
